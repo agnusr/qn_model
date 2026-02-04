@@ -1,0 +1,733 @@
+{"input": "WHAT IS LANDFORM", "output": "What is a landform?"}
+{"input": "WHAT IS MOUNTAIN", "output": "What is a mountain?"}
+{"input": "WHAT IS PLAIN", "output": "What is a plain?"}
+{"input": "WHAT IS PLATEAU", "output": "What is a plateau?"}
+{"input": "WHAT IS VALLEY", "output": "What is a valley?"}
+{"input": "WHAT IS RIVER", "output": "What is a river?"}
+{"input": "WHAT IS WATERFALL", "output": "What is a waterfall?"}
+{"input": "WHAT IS LAKE", "output": "What is a lake?"}
+{"input": "WHAT IS SEA", "output": "What is a sea?"}
+{"input": "WHAT IS ISLAND", "output": "What is an island?"}
+
+{"input": "WHERE RIVERS ORIGIN", "output": "Where do rivers originate?"}
+{"input": "WHERE GLACIERS FOUND", "output": "Where are glaciers found?"}
+{"input": "WHERE PLAINS FOUND", "output": "Where are plains found?"}
+{"input": "WHERE PLATEAUS FOUND", "output": "Where are plateaus found?"}
+{"input": "WHERE DELTA FORMED", "output": "Where is a delta formed?"}
+{"input": "WHERE FLOOD PLAINS FOUND", "output": "Where are flood plains found?"}
+{"input": "WHERE DESERT FOUND", "output": "Where are deserts found?"}
+{"input": "WHERE OASIS FOUND", "output": "Where are oases found?"}
+{"input": "WHERE VOLCANOES FOUND", "output": "Where are volcanoes found?"}
+{"input": "WHERE EARTHQUAKES COMMON", "output": "Where are earthquakes common?"}
+
+{"input": "HOW LANDFORMS CHANGE", "output": "How do landforms change?"}
+{"input": "HOW WEATHER AFFECT LIFE", "output": "How does weather affect life?"}
+{"input": "HOW CLIMATE AFFECT VEGETATION", "output": "How does climate affect vegetation?"}
+{"input": "HOW RIVERS USEFUL", "output": "How are rivers useful?"}
+{"input": "HOW DAMS HELP FARMING", "output": "How do dams help farming?"}
+{"input": "HOW IRRIGATION DONE", "output": "How is irrigation done?"}
+{"input": "HOW TRANSPORT DEVELOP", "output": "How does transport develop?"}
+{"input": "HOW POPULATION AFFECT RESOURCES", "output": "How does population affect resources?"}
+{"input": "HOW INDUSTRIES LOCATED", "output": "How are industries located?"}
+{"input": "HOW URBANIZATION INCREASE", "output": "How does urbanization increase?"}
+
+{"input": "WHEN RIVER OVERFLOW", "output": "When does a river overflow?"}
+{"input": "WHEN LANDSLIDE OCCUR", "output": "When do landslides occur?"}
+{"input": "WHEN EARTHQUAKE HAPPEN", "output": "When do earthquakes happen?"}
+{"input": "WHEN VOLCANO ERUPT", "output": "When does a volcano erupt?"}
+{"input": "WHEN CLIMATE CHANGE NOTICE", "output": "When is climate change noticed?"}
+{"input": "WHEN RAINFALL HEAVY", "output": "When is rainfall heavy?"}
+{"input": "WHEN HEAT WAVE OCCUR", "output": "When do heat waves occur?"}
+{"input": "WHEN COLD WAVE OCCUR", "output": "When do cold waves occur?"}
+{"input": "WHEN SOIL EROSION HIGH", "output": "When is soil erosion high?"}
+{"input": "WHEN WATER SCARCITY OCCUR", "output": "When does water scarcity occur?"}
+
+{"input": "WHAT IS POPULATION", "output": "What is population?"}
+{"input": "WHAT IS POPULATION DENSITY", "output": "What is population density?"}
+{"input": "WHAT IS MIGRATION", "output": "What is migration?"}
+{"input": "WHAT IS SETTLEMENT", "output": "What is a settlement?"}
+{"input": "WHAT IS TRANSPORT", "output": "What is transport?"}
+{"input": "WHAT IS COMMUNICATION", "output": "What is communication?"}
+{"input": "WHAT IS TRADE", "output": "What is trade?"}
+{"input": "WHAT IS RESOURCE", "output": "What is a resource?"}
+{"input": "WHAT IS NATURAL RESOURCE", "output": "What is a natural resource?"}
+{"input": "WHAT IS HUMAN RESOURCE", "output": "What is a human resource?"}
+
+{"input": "WHERE POPULATION DENSE", "output": "Where is population dense?"}
+{"input": "WHERE SETTLEMENT DEVELOP", "output": "Where do settlements develop?"}
+{"input": "WHERE INDUSTRIES LOCATED", "output": "Where are industries located?"}
+{"input": "WHERE TRANSPORT NETWORK DENSE", "output": "Where is the transport network dense?"}
+{"input": "WHERE PORTS LOCATED", "output": "Where are ports located?"}
+{"input": "WHERE MINERALS FOUND", "output": "Where are minerals found?"}
+{"input": "WHERE COAL FOUND INDIA", "output": "Where is coal found in India?"}
+{"input": "WHERE IRON ORE FOUND INDIA", "output": "Where is iron ore found in India?"}
+{"input": "WHERE OIL FOUND INDIA", "output": "Where is oil found in India?"}
+{"input": "WHERE POWER PLANTS LOCATED", "output": "Where are power plants located?"}
+
+{"input": "HOW POPULATION GROW", "output": "How does population grow?"}
+{"input": "HOW MIGRATION AFFECT POPULATION", "output": "How does migration affect population?"}
+{"input": "HOW SETTLEMENT CHANGE", "output": "How do settlements change?"}
+{"input": "HOW TRANSPORT HELP ECONOMY", "output": "How does transport help the economy?"}
+{"input": "HOW COMMUNICATION HELP TRADE", "output": "How does communication help trade?"}
+{"input": "HOW RESOURCES CONSERVED", "output": "How are resources conserved?"}
+{"input": "HOW WATER CONSERVED", "output": "How is water conserved?"}
+{"input": "HOW RENEWABLE RESOURCE USED", "output": "How are renewable resources used?"}
+{"input": "HOW NONRENEWABLE RESOURCE USED", "output": "How are non-renewable resources used?"}
+{"input": "HOW SUSTAINABLE DEVELOPMENT ACHIEVE", "output": "How is sustainable development achieved?"}
+
+{"input": "WHEN POPULATION CENSUS", "output": "When is a population census conducted?"}
+{"input": "WHEN MIGRATION INCREASE", "output": "When does migration increase?"}
+{"input": "WHEN URBAN POPULATION GROW", "output": "When does urban population grow?"}
+{"input": "WHEN INDUSTRIALIZATION START", "output": "When does industrialization start?"}
+{"input": "WHEN TRANSPORT DEVELOP FAST", "output": "When does transport develop rapidly?"}
+{"input": "WHEN RESOURCE DEPLETION", "output": "When does resource depletion occur?"}
+{"input": "WHEN WATER DEMAND HIGH", "output": "When is water demand high?"}
+{"input": "WHEN ENERGY DEMAND HIGH", "output": "When is energy demand high?"}
+{"input": "WHEN SUSTAINABLE PRACTICE NEEDED", "output": "When are sustainable practices needed?"}
+{"input": "WHEN ENVIRONMENTAL PROTECTION IMPORTANT", "output": "When is environmental protection important?"}
+{"input": "WHAT IS ECOSYSTEM", "output": "What is an ecosystem?"}
+{"input": "WHAT IS FOOD CHAIN", "output": "What is a food chain?"}
+{"input": "WHAT IS FOOD WEB", "output": "What is a food web?"}
+{"input": "WHAT IS PRODUCER", "output": "What is a producer?"}
+{"input": "WHAT IS CONSUMER", "output": "What is a consumer?"}
+{"input": "WHAT IS DECOMPOSER", "output": "What is a decomposer?"}
+{"input": "WHAT IS HABITAT", "output": "What is a habitat?"}
+{"input": "WHAT IS ADAPTATION", "output": "What is adaptation?"}
+{"input": "WHAT IS BIODIVERSITY", "output": "What is biodiversity?"}
+{"input": "WHAT IS CONSERVATION", "output": "What is conservation?"}
+
+{"input": "WHERE ECOSYSTEM FOUND", "output": "Where are ecosystems found?"}
+{"input": "WHERE PRODUCERS FOUND", "output": "Where are producers found?"}
+{"input": "WHERE CONSUMERS FOUND", "output": "Where are consumers found?"}
+{"input": "WHERE DECOMPOSERS FOUND", "output": "Where are decomposers found?"}
+{"input": "WHERE FOREST ECOSYSTEM", "output": "Where is a forest ecosystem found?"}
+{"input": "WHERE AQUATIC ECOSYSTEM", "output": "Where is an aquatic ecosystem found?"}
+{"input": "WHERE DESERT ECOSYSTEM", "output": "Where is a desert ecosystem found?"}
+{"input": "WHERE GRASSLAND ECOSYSTEM", "output": "Where is a grassland ecosystem found?"}
+{"input": "WHERE POLAR ECOSYSTEM", "output": "Where is a polar ecosystem found?"}
+{"input": "WHERE MARINE ECOSYSTEM", "output": "Where is a marine ecosystem found?"}
+
+{"input": "HOW FOOD CHAIN WORK", "output": "How does a food chain work?"}
+{"input": "HOW ENERGY FLOW ECOSYSTEM", "output": "How does energy flow in an ecosystem?"}
+{"input": "HOW ADAPTATION HELP SURVIVE", "output": "How does adaptation help organisms survive?"}
+{"input": "HOW BIODIVERSITY MAINTAIN", "output": "How is biodiversity maintained?"}
+{"input": "HOW CONSERVATION HELP", "output": "How does conservation help the environment?"}
+{"input": "HOW POLLUTION AFFECT ECOSYSTEM", "output": "How does pollution affect ecosystems?"}
+{"input": "HOW CLIMATE CHANGE AFFECT LIFE", "output": "How does climate change affect life?"}
+{"input": "HOW HUMAN ACTIVITY AFFECT NATURE", "output": "How do human activities affect nature?"}
+{"input": "HOW DEFORESTATION AFFECT LIFE", "output": "How does deforestation affect life?"}
+{"input": "HOW AFFORESTATION HELP", "output": "How does afforestation help the environment?"}
+
+{"input": "WHEN ECOSYSTEM BALANCE DISTURB", "output": "When is ecosystem balance disturbed?"}
+{"input": "WHEN FOOD CHAIN BROKEN", "output": "When is a food chain broken?"}
+{"input": "WHEN SPECIES EXTINCT", "output": "When does a species become extinct?"}
+{"input": "WHEN CONSERVATION NEEDED", "output": "When is conservation needed?"}
+{"input": "WHEN BIODIVERSITY LOSS OCCUR", "output": "When does biodiversity loss occur?"}
+{"input": "WHEN POLLUTION HIGH", "output": "When is pollution high?"}
+{"input": "WHEN CLIMATE CHANGE SEEN", "output": "When is climate change seen?"}
+{"input": "WHEN NATURAL BALANCE MAINTAIN", "output": "When is natural balance maintained?"}
+{"input": "WHEN ENVIRONMENT PROTECTED", "output": "When is the environment protected?"}
+{"input": "WHEN SUSTAINABLE USE REQUIRED", "output": "When is sustainable use of resources required?"}
+
+{"input": "WHAT IS SOLAR SYSTEM", "output": "What is the solar system?"}
+{"input": "WHAT IS PLANET", "output": "What is a planet?"}
+{"input": "WHAT IS SATELLITE", "output": "What is a satellite?"}
+{"input": "WHAT IS STAR", "output": "What is a star?"}
+{"input": "WHAT IS GALAXY", "output": "What is a galaxy?"}
+{"input": "WHAT IS UNIVERSE", "output": "What is the universe?"}
+{"input": "WHAT IS ASTEROID", "output": "What is an asteroid?"}
+{"input": "WHAT IS COMET", "output": "What is a comet?"}
+{"input": "WHAT IS METEOR", "output": "What is a meteor?"}
+{"input": "WHAT IS ORBIT", "output": "What is an orbit?"}
+
+{"input": "WHERE SUN LOCATED", "output": "Where is the Sun located?"}
+{"input": "WHERE EARTH LOCATED", "output": "Where is the Earth located?"}
+{"input": "WHERE MOON LOCATED", "output": "Where is the Moon located?"}
+{"input": "WHERE STARS FOUND", "output": "Where are stars found?"}
+{"input": "WHERE GALAXIES FOUND", "output": "Where are galaxies found?"}
+{"input": "WHERE ASTEROID BELT LOCATED", "output": "Where is the asteroid belt located?"}
+{"input": "WHERE COMETS COME FROM", "output": "Where do comets come from?"}
+{"input": "WHERE METEORS BURN", "output": "Where do meteors burn?"}
+{"input": "WHERE SATELLITES ORBIT", "output": "Where do satellites orbit?"}
+{"input": "WHERE SPACE FOUND", "output": "Where is space found?"}
+
+{"input": "HOW PLANETS MOVE", "output": "How do planets move?"}
+{"input": "HOW MOON REVOLVE EARTH", "output": "How does the Moon revolve around the Earth?"}
+{"input": "HOW DAY NIGHT OCCUR", "output": "How do day and night occur?"}
+{"input": "HOW SEASONS OCCUR", "output": "How do seasons occur?"}
+{"input": "HOW ECLIPSE HAPPEN", "output": "How does an eclipse happen?"}
+{"input": "HOW TIDES FORM", "output": "How are tides formed?"}
+{"input": "HOW GRAVITY HOLD PLANETS", "output": "How does gravity hold planets in orbit?"}
+{"input": "HOW SATELLITES USED", "output": "How are satellites used?"}
+{"input": "HOW SPACE TECHNOLOGY HELP", "output": "How does space technology help us?"}
+{"input": "HOW ASTRONOMY STUDIED", "output": "How is astronomy studied?"}
+{"input": "WHAT IS ELECTRICITY", "output": "What is electricity?"}
+{"input": "WHAT IS ELECTRIC CURRENT", "output": "What is electric current?"}
+{"input": "WHAT IS ELECTRIC CIRCUIT", "output": "What is an electric circuit?"}
+{"input": "WHAT IS VOLTAGE", "output": "What is voltage?"}
+{"input": "WHAT IS RESISTANCE", "output": "What is resistance?"}
+{"input": "WHAT IS CONDUCTOR", "output": "What is a conductor?"}
+{"input": "WHAT IS INSULATOR", "output": "What is an insulator?"}
+{"input": "WHAT IS BATTERY", "output": "What is a battery?"}
+{"input": "WHAT IS SWITCH", "output": "What is a switch?"}
+{"input": "WHAT IS FUSE", "output": "What is a fuse?"}
+
+{"input": "WHERE ELECTRICITY USED", "output": "Where is electricity used?"}
+{"input": "WHERE CURRENT FLOW", "output": "Where does electric current flow?"}
+{"input": "WHERE CIRCUIT COMPLETE", "output": "Where is a circuit complete?"}
+{"input": "WHERE BATTERY USED", "output": "Where is a battery used?"}
+{"input": "WHERE SWITCH USED", "output": "Where is a switch used?"}
+{"input": "WHERE FUSE USED", "output": "Where is a fuse used?"}
+{"input": "WHERE CONDUCTOR USED", "output": "Where is a conductor used?"}
+{"input": "WHERE INSULATOR USED", "output": "Where is an insulator used?"}
+{"input": "WHERE ELECTRIC POWER USED", "output": "Where is electric power used?"}
+{"input": "WHERE ELECTRIC ENERGY GENERATED", "output": "Where is electric energy generated?"}
+
+{"input": "HOW ELECTRICITY PRODUCED", "output": "How is electricity produced?"}
+{"input": "HOW CURRENT FLOW", "output": "How does electric current flow?"}
+{"input": "HOW CIRCUIT WORK", "output": "How does an electric circuit work?"}
+{"input": "HOW VOLTAGE MEASURE", "output": "How is voltage measured?"}
+{"input": "HOW RESISTANCE MEASURE", "output": "How is resistance measured?"}
+{"input": "HOW BATTERY WORK", "output": "How does a battery work?"}
+{"input": "HOW SWITCH CONTROL CURRENT", "output": "How does a switch control current?"}
+{"input": "HOW FUSE PROTECT CIRCUIT", "output": "How does a fuse protect a circuit?"}
+{"input": "HOW ELECTRIC SHOCK OCCUR", "output": "How does electric shock occur?"}
+{"input": "HOW ELECTRIC POWER CALCULATE", "output": "How is electric power calculated?"}
+
+{"input": "WHEN CURRENT FLOW", "output": "When does electric current flow?"}
+{"input": "WHEN CIRCUIT OPEN", "output": "When is a circuit open?"}
+{"input": "WHEN CIRCUIT CLOSED", "output": "When is a circuit closed?"}
+{"input": "WHEN SHORT CIRCUIT OCCUR", "output": "When does a short circuit occur?"}
+{"input": "WHEN FUSE MELT", "output": "When does a fuse melt?"}
+{"input": "WHEN ELECTRIC SHOCK DANGEROUS", "output": "When is electric shock dangerous?"}
+{"input": "WHEN ELECTRIC POWER HIGH", "output": "When is electric power high?"}
+{"input": "WHEN ELECTRIC ENERGY SAVED", "output": "When is electric energy saved?"}
+{"input": "WHEN BATTERY DISCHARGE", "output": "When does a battery discharge?"}
+{"input": "WHEN BATTERY CHARGE", "output": "When does a battery charge?"}
+
+{"input": "WHAT IS MAGNET", "output": "What is a magnet?"}
+{"input": "WHAT IS MAGNETIC FIELD", "output": "What is a magnetic field?"}
+{"input": "WHAT IS ELECTROMAGNET", "output": "What is an electromagnet?"}
+{"input": "WHAT IS PERMANENT MAGNET", "output": "What is a permanent magnet?"}
+{"input": "WHAT IS MAGNETIC POLE", "output": "What is a magnetic pole?"}
+{"input": "WHAT IS ATTRACTION", "output": "What is attraction?"}
+{"input": "WHAT IS REPULSION", "output": "What is repulsion?"}
+{"input": "WHAT IS COMPASS", "output": "What is a compass?"}
+{"input": "WHAT IS MAGNETISM", "output": "What is magnetism?"}
+{"input": "WHAT IS MAGNETIC MATERIAL", "output": "What is a magnetic material?"}
+
+{"input": "WHERE MAGNET USED", "output": "Where are magnets used?"}
+{"input": "WHERE MAGNETIC FIELD FOUND", "output": "Where is a magnetic field found?"}
+{"input": "WHERE ELECTROMAGNET USED", "output": "Where is an electromagnet used?"}
+{"input": "WHERE COMPASS USED", "output": "Where is a compass used?"}
+{"input": "WHERE MAGNETIC MATERIAL FOUND", "output": "Where are magnetic materials found?"}
+{"input": "WHERE ATTRACTION SEEN", "output": "Where is attraction seen?"}
+{"input": "WHERE REPULSION SEEN", "output": "Where is repulsion seen?"}
+{"input": "WHERE MAGNETIC POLES LOCATED", "output": "Where are magnetic poles located?"}
+{"input": "WHERE MAGNETISM USED", "output": "Where is magnetism used?"}
+{"input": "WHERE EARTH MAGNETIC FIELD", "output": "Where is the Earth's magnetic field?"}
+
+{"input": "HOW MAGNET ATTRACT", "output": "How does a magnet attract objects?"}
+{"input": "HOW MAGNETIC FIELD FORMED", "output": "How is a magnetic field formed?"}
+{"input": "HOW ELECTROMAGNET WORK", "output": "How does an electromagnet work?"}
+{"input": "HOW COMPASS WORK", "output": "How does a compass work?"}
+{"input": "HOW MAGNETISM PRODUCED", "output": "How is magnetism produced?"}
+{"input": "HOW ATTRACTION OCCUR", "output": "How does attraction occur?"}
+{"input": "HOW REPULSION OCCUR", "output": "How does repulsion occur?"}
+{"input": "HOW MAGNET LOSE POWER", "output": "How does a magnet lose its power?"}
+{"input": "HOW MAGNET STORED", "output": "How are magnets stored?"}
+{"input": "HOW MAGNET USED DAILY", "output": "How are magnets used in daily life?"}
+{"input": "WHAT IS DIGESTION", "output": "What is digestion?"}
+{"input": "WHAT IS DIGESTIVE SYSTEM", "output": "What is the digestive system?"}
+{"input": "WHAT IS RESPIRATORY SYSTEM", "output": "What is the respiratory system?"}
+{"input": "WHAT IS CIRCULATORY SYSTEM", "output": "What is the circulatory system?"}
+{"input": "WHAT IS EXCRETORY SYSTEM", "output": "What is the excretory system?"}
+{"input": "WHAT IS NERVOUS SYSTEM", "output": "What is the nervous system?"}
+{"input": "WHAT IS SKELETAL SYSTEM", "output": "What is the skeletal system?"}
+{"input": "WHAT IS MUSCULAR SYSTEM", "output": "What is the muscular system?"}
+{"input": "WHAT IS ENDOCRINE SYSTEM", "output": "What is the endocrine system?"}
+{"input": "WHAT IS REPRODUCTIVE SYSTEM", "output": "What is the reproductive system?"}
+
+{"input": "WHERE DIGESTION OCCUR", "output": "Where does digestion occur?"}
+{"input": "WHERE FOOD ABSORBED", "output": "Where is food absorbed?"}
+{"input": "WHERE BREATHING OCCUR", "output": "Where does breathing occur?"}
+{"input": "WHERE BLOOD FLOW", "output": "Where does blood flow?"}
+{"input": "WHERE WASTE REMOVED", "output": "Where is waste removed?"}
+{"input": "WHERE NERVE SIGNAL TRAVEL", "output": "Where do nerve signals travel?"}
+{"input": "WHERE BONES FOUND", "output": "Where are bones found?"}
+{"input": "WHERE MUSCLES FOUND", "output": "Where are muscles found?"}
+{"input": "WHERE HORMONES RELEASE", "output": "Where are hormones released?"}
+{"input": "WHERE GAMETES PRODUCED", "output": "Where are gametes produced?"}
+
+{"input": "HOW DIGESTION OCCUR", "output": "How does digestion occur?"}
+{"input": "HOW FOOD ABSORB", "output": "How is food absorbed?"}
+{"input": "HOW BREATHING OCCUR", "output": "How does breathing occur?"}
+{"input": "HOW BLOOD CIRCULATE", "output": "How does blood circulate?"}
+{"input": "HOW WASTE REMOVED", "output": "How is waste removed from the body?"}
+{"input": "HOW NERVOUS SYSTEM WORK", "output": "How does the nervous system work?"}
+{"input": "HOW MUSCLES CONTRACT", "output": "How do muscles contract?"}
+{"input": "HOW BONES SUPPORT BODY", "output": "How do bones support the body?"}
+{"input": "HOW HORMONES ACT", "output": "How do hormones act?"}
+{"input": "HOW REPRODUCTION OCCUR HUMAN", "output": "How does reproduction occur in humans?"}
+
+{"input": "WHEN DIGESTION START", "output": "When does digestion start?"}
+{"input": "WHEN FOOD ABSORBED", "output": "When is food absorbed?"}
+{"input": "WHEN BREATHING FAST", "output": "When is breathing fast?"}
+{"input": "WHEN HEART BEAT FAST", "output": "When does the heart beat fast?"}
+{"input": "WHEN WASTE EXCRETED", "output": "When is waste excreted?"}
+{"input": "WHEN NERVE RESPONSE FAST", "output": "When is nerve response fast?"}
+{"input": "WHEN MUSCLE FATIGUE", "output": "When does muscle fatigue occur?"}
+{"input": "WHEN BONE GROW", "output": "When do bones grow?"}
+{"input": "WHEN HORMONE RELEASE", "output": "When are hormones released?"}
+{"input": "WHEN PUBERTY START", "output": "When does puberty start?"}
+
+{"input": "WHAT IS MICROORGANISM", "output": "What is a microorganism?"}
+{"input": "WHAT IS BACTERIA", "output": "What are bacteria?"}
+{"input": "WHAT IS VIRUS", "output": "What is a virus?"}
+{"input": "WHAT IS FUNGI", "output": "What are fungi?"}
+{"input": "WHAT IS PROTOZOA", "output": "What are protozoa?"}
+{"input": "WHAT IS ALGAE", "output": "What are algae?"}
+{"input": "WHAT IS DISEASE", "output": "What is a disease?"}
+{"input": "WHAT IS COMMUNICABLE DISEASE", "output": "What is a communicable disease?"}
+{"input": "WHAT IS NON COMMUNICABLE DISEASE", "output": "What is a non-communicable disease?"}
+{"input": "WHAT IS IMMUNITY", "output": "What is immunity?"}
+
+{"input": "WHERE MICROORGANISMS FOUND", "output": "Where are microorganisms found?"}
+{"input": "WHERE BACTERIA FOUND", "output": "Where are bacteria found?"}
+{"input": "WHERE VIRUS LIVE", "output": "Where do viruses live?"}
+{"input": "WHERE FUNGI FOUND", "output": "Where are fungi found?"}
+{"input": "WHERE PROTOZOA FOUND", "output": "Where are protozoa found?"}
+{"input": "WHERE ALGAE FOUND", "output": "Where are algae found?"}
+{"input": "WHERE DISEASE SPREAD", "output": "Where do diseases spread?"}
+{"input": "WHERE IMMUNITY DEVELOP", "output": "Where does immunity develop?"}
+{"input": "WHERE VACCINE GIVEN", "output": "Where are vaccines given?"}
+{"input": "WHERE ANTIBIOTICS USED", "output": "Where are antibiotics used?"}
+
+{"input": "HOW MICROORGANISMS REPRODUCE", "output": "How do microorganisms reproduce?"}
+{"input": "HOW DISEASE SPREAD", "output": "How do diseases spread?"}
+{"input": "HOW IMMUNITY DEVELOP", "output": "How does immunity develop?"}
+{"input": "HOW VACCINE WORK", "output": "How does a vaccine work?"}
+{"input": "HOW ANTIBIOTICS WORK", "output": "How do antibiotics work?"}
+{"input": "HOW INFECTION PREVENT", "output": "How can infection be prevented?"}
+{"input": "HOW HYGIENE HELP", "output": "How does hygiene help prevent disease?"}
+{"input": "HOW BALANCED DIET HELP", "output": "How does a balanced diet help health?"}
+{"input": "HOW EXERCISE HELP BODY", "output": "How does exercise help the body?"}
+{"input": "HOW REST HELP HEALTH", "output": "How does rest help health?"}
+{"input": "WHAT IS PLANT TISSUE", "output": "What is a plant tissue?"}
+{"input": "WHAT IS MERISTEMATIC TISSUE", "output": "What is meristematic tissue?"}
+{"input": "WHAT IS PERMANENT TISSUE", "output": "What is permanent tissue?"}
+{"input": "WHAT IS XYLEM", "output": "What is xylem?"}
+{"input": "WHAT IS PHLOEM", "output": "What is phloem?"}
+{"input": "WHAT IS EPIDERMIS", "output": "What is epidermis?"}
+{"input": "WHAT IS CORTEX", "output": "What is cortex?"}
+{"input": "WHAT IS VASCULAR BUNDLE", "output": "What is a vascular bundle?"}
+{"input": "WHAT IS STOMATA", "output": "What are stomata?"}
+{"input": "WHAT IS LENTICEL", "output": "What is a lenticel?"}
+
+{"input": "WHERE MERISTEM FOUND", "output": "Where is meristematic tissue found?"}
+{"input": "WHERE XYLEM FOUND", "output": "Where is xylem found?"}
+{"input": "WHERE PHLOEM FOUND", "output": "Where is phloem found?"}
+{"input": "WHERE EPIDERMIS FOUND", "output": "Where is epidermis found?"}
+{"input": "WHERE CORTEX FOUND", "output": "Where is cortex found?"}
+{"input": "WHERE VASCULAR BUNDLE FOUND", "output": "Where are vascular bundles found?"}
+{"input": "WHERE STOMATA FOUND", "output": "Where are stomata found?"}
+{"input": "WHERE LENTICEL FOUND", "output": "Where are lenticels found?"}
+{"input": "WHERE FOOD TRANSPORT PLANT", "output": "Where is food transported in plants?"}
+{"input": "WHERE WATER TRANSPORT PLANT", "output": "Where is water transported in plants?"}
+
+{"input": "HOW MERISTEM HELP GROWTH", "output": "How does meristematic tissue help in growth?"}
+{"input": "HOW XYLEM TRANSPORT WATER", "output": "How does xylem transport water?"}
+{"input": "HOW PHLOEM TRANSPORT FOOD", "output": "How does phloem transport food?"}
+{"input": "HOW STOMATA WORK", "output": "How do stomata work?"}
+{"input": "HOW LENTICEL HELP", "output": "How do lenticels help plants?"}
+{"input": "HOW EPIDERMIS PROTECT", "output": "How does epidermis protect the plant?"}
+{"input": "HOW VASCULAR BUNDLE FUNCTION", "output": "How do vascular bundles function?"}
+{"input": "HOW TRANSPORT SYSTEM WORK PLANT", "output": "How does the transport system work in plants?"}
+{"input": "HOW PLANT STAND UPRIGHT", "output": "How do plants stand upright?"}
+{"input": "HOW TISSUES WORK TOGETHER", "output": "How do plant tissues work together?"}
+
+{"input": "WHEN MERISTEM ACTIVE", "output": "When is meristematic tissue active?"}
+{"input": "WHEN XYLEM ACTIVE", "output": "When is xylem active?"}
+{"input": "WHEN PHLOEM ACTIVE", "output": "When is phloem active?"}
+{"input": "WHEN STOMATA OPEN", "output": "When do stomata open?"}
+{"input": "WHEN STOMATA CLOSE", "output": "When do stomata close?"}
+{"input": "WHEN TRANSPIRATION HIGH", "output": "When is transpiration high?"}
+{"input": "WHEN TRANSPIRATION LOW", "output": "When is transpiration low?"}
+{"input": "WHEN PLANT GROW LENGTH", "output": "When do plants grow in length?"}
+{"input": "WHEN PLANT GROW GIRTH", "output": "When do plants grow in girth?"}
+{"input": "WHEN TISSUE DIFFERENTIATE", "output": "When do plant tissues differentiate?"}
+
+{"input": "WHAT IS PLANT HORMONE", "output": "What is a plant hormone?"}
+{"input": "WHAT IS AUXIN", "output": "What is auxin?"}
+{"input": "WHAT IS GIBBERELLIN", "output": "What is gibberellin?"}
+{"input": "WHAT IS CYTOKININ", "output": "What is cytokinin?"}
+{"input": "WHAT IS ETHYLENE", "output": "What is ethylene?"}
+{"input": "WHAT IS ABSCISIC ACID", "output": "What is abscisic acid?"}
+{"input": "WHAT IS TROPISM", "output": "What is tropism?"}
+{"input": "WHAT IS PHOTOTROPISM", "output": "What is phototropism?"}
+{"input": "WHAT IS GEOTROPISM", "output": "What is geotropism?"}
+{"input": "WHAT IS HYDROTROPISM", "output": "What is hydrotropism?"}
+
+{"input": "WHERE AUXIN PRODUCED", "output": "Where is auxin produced?"}
+{"input": "WHERE GIBBERELLIN PRODUCED", "output": "Where is gibberellin produced?"}
+{"input": "WHERE CYTOKININ PRODUCED", "output": "Where is cytokinin produced?"}
+{"input": "WHERE ETHYLENE PRODUCED", "output": "Where is ethylene produced?"}
+{"input": "WHERE ABSCISIC ACID PRODUCED", "output": "Where is abscisic acid produced?"}
+{"input": "WHERE TROPISM SEEN", "output": "Where is tropism seen?"}
+{"input": "WHERE PHOTOTROPISM SEEN", "output": "Where is phototropism seen?"}
+{"input": "WHERE GEOTROPISM SEEN", "output": "Where is geotropism seen?"}
+{"input": "WHERE HYDROTROPISM SEEN", "output": "Where is hydrotropism seen?"}
+{"input": "WHERE PLANT RESPONSE SEEN", "output": "Where are plant responses seen?"}
+{"input":"WHAT IS METAL","output":"What is a metal?"}
+{"input":"WHAT IS NON METAL","output":"What is a non-metal?"}
+{"input":"WHAT IS METALLOID","output":"What is a metalloid?"}
+{"input":"WHAT IS PERIODIC TABLE","output":"What is the periodic table?"}
+{"input":"WHAT IS ATOMIC NUMBER","output":"What is atomic number?"}
+{"input":"WHAT IS MASS NUMBER","output":"What is mass number?"}
+{"input":"WHAT IS ISOTOPE","output":"What is an isotope?"}
+{"input":"WHAT IS ION","output":"What is an ion?"}
+{"input":"WHAT IS CATION","output":"What is a cation?"}
+{"input":"WHAT IS ANION","output":"What is an anion?"}
+
+{"input":"WHERE METALS FOUND","output":"Where are metals found?"}
+{"input":"WHERE NON METALS FOUND","output":"Where are non-metals found?"}
+{"input":"WHERE METALLOIDS FOUND","output":"Where are metalloids found?"}
+{"input":"WHERE PERIODIC TABLE USED","output":"Where is the periodic table used?"}
+{"input":"WHERE IONS FOUND","output":"Where are ions found?"}
+{"input":"WHERE ELECTROLYTES USED","output":"Where are electrolytes used?"}
+{"input":"WHERE CHEMICAL BOND FOUND","output":"Where are chemical bonds found?"}
+{"input":"WHERE SALTS USED DAILY","output":"Where are salts used in daily life?"}
+{"input":"WHERE FUEL USED","output":"Where is fuel used?"}
+{"input":"WHERE COMBUSTION OCCUR","output":"Where does combustion occur?"}
+
+{"input":"HOW METALS CONDUCT","output":"How do metals conduct electricity?"}
+{"input":"HOW NON METALS REACT","output":"How do non-metals react?"}
+{"input":"HOW ION FORM","output":"How are ions formed?"}
+{"input":"HOW CATION FORM","output":"How is a cation formed?"}
+{"input":"HOW ANION FORM","output":"How is an anion formed?"}
+{"input":"HOW CHEMICAL BOND FORM","output":"How is a chemical bond formed?"}
+{"input":"HOW IONIC BOND FORM","output":"How is an ionic bond formed?"}
+{"input":"HOW COVALENT BOND FORM","output":"How is a covalent bond formed?"}
+{"input":"HOW FUEL BURN","output":"How does fuel burn?"}
+{"input":"HOW ENERGY RELEASE CHEMISTRY","output":"How is energy released in chemistry?"}
+
+{"input":"WHEN METAL REACTIVE","output":"When are metals reactive?"}
+{"input":"WHEN NON METAL REACTIVE","output":"When are non-metals reactive?"}
+{"input":"WHEN ION STABLE","output":"When is an ion stable?"}
+{"input":"WHEN COMBUSTION FAST","output":"When is combustion fast?"}
+{"input":"WHEN COMBUSTION SLOW","output":"When is combustion slow?"}
+{"input":"WHEN CHEMICAL BOND BREAK","output":"When does a chemical bond break?"}
+{"input":"WHEN REACTION EXOTHERMIC","output":"When is a reaction exothermic?"}
+{"input":"WHEN REACTION ENDOTHERMIC","output":"When is a reaction endothermic?"}
+{"input":"WHEN ENERGY ABSORBED","output":"When is energy absorbed in a reaction?"}
+{"input":"WHEN ENERGY RELEASED","output":"When is energy released in a reaction?"}
+
+{"input":"WHAT IS FUEL","output":"What is a fuel?"}
+{"input":"WHAT IS COMBUSTION","output":"What is combustion?"}
+{"input":"WHAT IS OXIDATION","output":"What is oxidation?"}
+{"input":"WHAT IS REDUCTION","output":"What is reduction?"}
+{"input":"WHAT IS REDOX REACTION","output":"What is a redox reaction?"}
+{"input":"WHAT IS CORROSION","output":"What is corrosion?"}
+{"input":"WHAT IS RUST","output":"What is rust?"}
+{"input":"WHAT IS ELECTROLYSIS","output":"What is electrolysis?"}
+{"input":"WHAT IS CHEMICAL ENERGY","output":"What is chemical energy?"}
+{"input":"WHAT IS CONSERVATION MASS","output":"What is the law of conservation of mass?"}
+
+{"input":"WHY METALS SHINY","output":"Why are metals shiny?"}
+{"input":"WHY METALS MALLEABLE","output":"Why are metals malleable?"}
+{"input":"WHY METALS DUCTILE","output":"Why are metals ductile?"}
+{"input":"WHY NON METALS BRITTLE","output":"Why are non-metals brittle?"}
+{"input":"WHY IONIC COMPOUNDS HARD","output":"Why are ionic compounds hard?"}
+{"input":"WHY COVALENT COMPOUNDS SOFT","output":"Why are covalent compounds soft?"}
+{"input":"WHY FUEL IMPORTANT","output":"Why are fuels important?"}
+{"input":"WHY COMBUSTION CAUSE POLLUTION","output":"Why does combustion cause pollution?"}
+{"input":"WHY CORROSION PREVENT","output":"Why should corrosion be prevented?"}
+{"input":"WHY CONSERVATION MASS IMPORTANT","output":"Why is the law of conservation of mass important?"}
+{"input":"WHAT IS SUSTAINABLE DEVELOPMENT","output":"What is sustainable development?"}
+{"input":"WHAT IS RENEWABLE RESOURCE","output":"What is a renewable resource?"}
+{"input":"WHAT IS NON RENEWABLE RESOURCE","output":"What is a non-renewable resource?"}
+{"input":"WHAT IS NATURAL RESOURCE","output":"What is a natural resource?"}
+{"input":"WHAT IS CONSERVATION","output":"What is conservation?"}
+{"input":"WHAT IS PRESERVATION","output":"What is preservation?"}
+{"input":"WHAT IS AFFORESTATION","output":"What is afforestation?"}
+{"input":"WHAT IS DEFORESTATION","output":"What is deforestation?"}
+{"input":"WHAT IS DESERTIFICATION","output":"What is desertification?"}
+{"input":"WHAT IS SOIL EROSION","output":"What is soil erosion?"}
+
+{"input":"WHERE RENEWABLE ENERGY USED","output":"Where is renewable energy used?"}
+{"input":"WHERE SOLAR ENERGY USED","output":"Where is solar energy used?"}
+{"input":"WHERE WIND ENERGY USED","output":"Where is wind energy used?"}
+{"input":"WHERE HYDRO ENERGY USED","output":"Where is hydro energy used?"}
+{"input":"WHERE NON RENEWABLE RESOURCE FOUND","output":"Where are non-renewable resources found?"}
+{"input":"WHERE MINERALS FOUND","output":"Where are minerals found?"}
+{"input":"WHERE FOSSIL FUELS FOUND","output":"Where are fossil fuels found?"}
+{"input":"WHERE SOIL EROSION SEVERE","output":"Where is soil erosion severe?"}
+{"input":"WHERE DESERTIFICATION SEEN","output":"Where is desertification seen?"}
+{"input":"WHERE WATER SCARCITY","output":"Where is water scarcity seen?"}
+
+{"input":"HOW SUSTAINABLE DEVELOPMENT HELP","output":"How does sustainable development help the environment?"}
+{"input":"HOW RENEWABLE ENERGY HELP","output":"How does renewable energy help the environment?"}
+{"input":"HOW SOLAR ENERGY PRODUCED","output":"How is solar energy produced?"}
+{"input":"HOW WIND ENERGY PRODUCED","output":"How is wind energy produced?"}
+{"input":"HOW HYDRO ENERGY PRODUCED","output":"How is hydro energy produced?"}
+{"input":"HOW AFFORESTATION HELP","output":"How does afforestation help the environment?"}
+{"input":"HOW DEFORESTATION AFFECT","output":"How does deforestation affect the environment?"}
+{"input":"HOW SOIL EROSION CONTROL","output":"How can soil erosion be controlled?"}
+{"input":"HOW WATER CONSERVE","output":"How can water be conserved?"}
+{"input":"HOW ENERGY CONSERVE","output":"How can energy be conserved?"}
+
+{"input":"WHEN RENEWABLE RESOURCE USED","output":"When are renewable resources used?"}
+{"input":"WHEN NON RENEWABLE DEPLETED","output":"When are non-renewable resources depleted?"}
+{"input":"WHEN DEFORESTATION INCREASE","output":"When does deforestation increase?"}
+{"input":"WHEN DESERTIFICATION OCCUR","output":"When does desertification occur?"}
+{"input":"WHEN SOIL EROSION FAST","output":"When is soil erosion fast?"}
+{"input":"WHEN WATER SCARCITY OCCUR","output":"When does water scarcity occur?"}
+{"input":"WHEN CONSERVATION NECESSARY","output":"When is conservation necessary?"}
+{"input":"WHEN SUSTAINABLE PRACTICE NEEDED","output":"When are sustainable practices needed?"}
+{"input":"WHEN CLIMATE ACTION NEEDED","output":"When is climate action needed?"}
+{"input":"WHEN ENVIRONMENTAL AWARENESS NEEDED","output":"When is environmental awareness needed?"}
+
+{"input":"WHAT IS WASTE","output":"What is waste?"}
+{"input":"WHAT IS BIODEGRADABLE WASTE","output":"What is biodegradable waste?"}
+{"input":"WHAT IS NON BIODEGRADABLE WASTE","output":"What is non-biodegradable waste?"}
+{"input":"WHAT IS WASTE MANAGEMENT","output":"What is waste management?"}
+{"input":"WHAT IS LANDFILL","output":"What is a landfill?"}
+{"input":"WHAT IS COMPOSTING","output":"What is composting?"}
+{"input":"WHAT IS RECYCLING","output":"What is recycling?"}
+{"input":"WHAT IS E WASTE","output":"What is e-waste?"}
+{"input":"WHAT IS PLASTIC POLLUTION","output":"What is plastic pollution?"}
+{"input":"WHAT IS GREEN ENERGY","output":"What is green energy?"}
+
+{"input":"WHY SUSTAINABLE DEVELOPMENT IMPORTANT","output":"Why is sustainable development important?"}
+{"input":"WHY RENEWABLE ENERGY IMPORTANT","output":"Why is renewable energy important?"}
+{"input":"WHY CONSERVE RESOURCES","output":"Why should we conserve resources?"}
+{"input":"WHY DEFORESTATION HARMFUL","output":"Why is deforestation harmful?"}
+{"input":"WHY AFFORESTATION NEEDED","output":"Why is afforestation needed?"}
+{"input":"WHY SOIL EROSION HARMFUL","output":"Why is soil erosion harmful?"}
+{"input":"WHY WATER CONSERVATION IMPORTANT","output":"Why is water conservation important?"}
+{"input":"WHY ENERGY CONSERVATION IMPORTANT","output":"Why is energy conservation important?"}
+{"input":"WHY PLASTIC POLLUTION DANGEROUS","output":"Why is plastic pollution dangerous?"}
+{"input":"WHY ENVIRONMENT PROTECTION NECESSARY","output":"Why is environmental protection necessary?"}
+{"input":"WHAT IS ASTRONOMY","output":"What is astronomy?"}
+{"input":"WHAT IS PLANET","output":"What is a planet?"}
+{"input":"WHAT IS STAR","output":"What is a star?"}
+{"input":"WHAT IS SUN","output":"What is the Sun?"}
+{"input":"WHAT IS MOON","output":"What is the Moon?"}
+{"input":"WHAT IS ASTEROID","output":"What is an asteroid?"}
+{"input":"WHAT IS COMET","output":"What is a comet?"}
+{"input":"WHAT IS METEOR","output":"What is a meteor?"}
+{"input":"WHAT IS METEORITE","output":"What is a meteorite?"}
+{"input":"WHAT IS SATELLITE","output":"What is a satellite?"}
+
+{"input":"WHERE SUN FOUND","output":"Where is the Sun found?"}
+{"input":"WHERE MOON FOUND","output":"Where is the Moon found?"}
+{"input":"WHERE PLANETS FOUND","output":"Where are the planets found?"}
+{"input":"WHERE ASTEROID BELT FOUND","output":"Where is the asteroid belt found?"}
+{"input":"WHERE COMETS FOUND","output":"Where are comets found?"}
+{"input":"WHERE METEORITES LAND","output":"Where do meteorites land?"}
+{"input":"WHERE GALAXIES FOUND","output":"Where are galaxies found?"}
+{"input":"WHERE STARS FOUND","output":"Where are stars found?"}
+{"input":"WHERE BLACK HOLES FOUND","output":"Where are black holes found?"}
+{"input":"WHERE UNIVERSE END","output":"Where does the universe end?"}
+
+{"input":"HOW PLANETS ORBIT","output":"How do planets orbit the Sun?"}
+{"input":"HOW MOON ORBIT EARTH","output":"How does the Moon orbit the Earth?"}
+{"input":"HOW SUN PRODUCE ENERGY","output":"How does the Sun produce energy?"}
+{"input":"HOW STARS FORM","output":"How are stars formed?"}
+{"input":"HOW ASTEROID MOVE","output":"How do asteroids move?"}
+{"input":"HOW COMETS MOVE","output":"How do comets move?"}
+{"input":"HOW METEORS BURN","output":"How do meteors burn?"}
+{"input":"HOW SATELLITES ORBIT","output":"How do satellites orbit planets?"}
+{"input":"HOW BLACK HOLE FORM","output":"How are black holes formed?"}
+{"input":"HOW GALAXIES FORM","output":"How are galaxies formed?"}
+
+{"input":"WHEN NIGHT OCCUR","output":"When does night occur?"}
+{"input":"WHEN DAY OCCUR","output":"When does day occur?"}
+{"input":"WHEN SEASONS CHANGE","output":"When do seasons change?"}
+{"input":"WHEN ECLIPSE OCCUR","output":"When does an eclipse occur?"}
+{"input":"WHEN METEOR SHOWER OCCUR","output":"When does a meteor shower occur?"}
+{"input":"WHEN MOON FULL","output":"When is the Moon full?"}
+{"input":"WHEN MOON NEW","output":"When is the new Moon?"}
+{"input":"WHEN PLANET VISIBLE","output":"When is a planet visible?"}
+{"input":"WHEN STAR BRIGHT","output":"When is a star bright?"}
+{"input":"WHEN GALAXY MOVE","output":"When does a galaxy move?"}
+
+{"input":"WHAT IS SOLAR SYSTEM","output":"What is the solar system?"}
+{"input":"WHAT IS MILKY WAY","output":"What is the Milky Way?"}
+{"input":"WHAT IS GALAXY","output":"What is a galaxy?"}
+{"input":"WHAT IS UNIVERSE","output":"What is the universe?"}
+{"input":"WHAT IS LIGHT YEAR","output":"What is a light year?"}
+{"input":"WHAT IS ORBIT","output":"What is an orbit?"}
+{"input":"WHAT IS GRAVITY","output":"What is gravity?"}
+{"input":"WHAT IS ASTROPHYSICS","output":"What is astrophysics?"}
+{"input":"WHAT IS COSMOLOGY","output":"What is cosmology?"}
+{"input":"WHAT IS TELESCOPE","output":"What is a telescope?"}
+
+{"input":"WHERE SOLAR SYSTEM LOCATED","output":"Where is the solar system located?"}
+{"input":"WHERE MILKY WAY LOCATED","output":"Where is the Milky Way located?"}
+{"input":"WHERE BLACK HOLES FOUND","output":"Where are black holes found?"}
+{"input":"WHERE LIGHT YEAR MEASURE","output":"Where is a light year measured?"}
+{"input":"WHERE GRAVITY STRONG","output":"Where is gravity strong?"}
+{"input":"WHERE TELESCOPE USED","output":"Where is a telescope used?"}
+{"input":"WHERE SPACE STATION LOCATED","output":"Where is the space station located?"}
+{"input":"WHERE ASTRONAUTS LIVE","output":"Where do astronauts live?"}
+{"input":"WHERE PLANETS OBSERVED","output":"Where are planets observed?"}
+{"input":"WHERE STARS OBSERVED","output":"Where are stars observed?"}
+
+{"input":"HOW SOLAR SYSTEM FORM","output":"How was the solar system formed?"}
+{"input":"HOW STARS DIE","output":"How do stars die?"}
+{"input":"HOW BLACK HOLES FORM","output":"How are black holes formed?"}
+{"input":"HOW GALAXY MOVE","output":"How do galaxies move?"}
+{"input":"HOW PLANETS ROTATE","output":"How do planets rotate?"}
+{"input":"HOW SUNSHINE REACH EARTH","output":"How does sunshine reach Earth?"}
+{"input":"HOW MOON REFLECT LIGHT","output":"How does the Moon reflect light?"}
+{"input":"HOW METEOR SHOWER OCCUR","output":"How does a meteor shower occur?"}
+{"input":"HOW COMET TAIL FORM","output":"How does a comet tail form?"}
+{"input":"HOW GRAVITY KEEP PLANET ORBIT","output":"How does gravity keep planets in orbit?"}
+
+{"input":"WHEN ASTRONAUTS GO SPACE","output":"When do astronauts go to space?"}
+{"input":"WHEN SOLAR ECLIPSE VISIBLE","output":"When is a solar eclipse visible?"}
+{"input":"WHEN LUNAR ECLIPSE VISIBLE","output":"When is a lunar eclipse visible?"}
+{"input":"WHEN NIGHT SKY CLEAR","output":"When is the night sky clear?"}
+{"input":"WHEN METEOR SHOWER VISIBLE","output":"When is a meteor shower visible?"}
+{"input":"WHEN PLANETS ALIGN","output":"When do planets align?"}
+{"input":"WHEN STAR FORMATION START","output":"When does star formation start?"}
+{"input":"WHEN GALAXY COLLIDE","output":"When do galaxies collide?"}
+{"input":"WHEN UNIVERSE EXPAND","output":"When does the universe expand?"}
+{"input":"WHEN TELESCOPE INVENTED","output":"When was the telescope invented?"}
+
+{"input":"WHY PLANETS ORBIT SUN","output":"Why do planets orbit the Sun?"}
+{"input":"WHY MOON ORBIT EARTH","output":"Why does the Moon orbit the Earth?"}
+{"input":"WHY SUN IS HOT","output":"Why is the Sun hot?"}
+{"input":"WHY STARS SHINE","output":"Why do stars shine?"}
+{"input":"WHY METEORS BURN","output":"Why do meteors burn?"}
+{"input":"WHY COMETS HAVE TAIL","output":"Why do comets have a tail?"}
+{"input":"WHY BLACK HOLE STRONG","output":"Why is a black hole so strong?"}
+{"input":"WHY GRAVITY IMPORTANT","output":"Why is gravity important?"}
+{"input":"WHY TELESCOPE USED","output":"Why is a telescope used?"}
+{"input":"WHY SPACE STUDY IMPORTANT","output":"Why is studying space important?"}
+{"input":"WHAT SUN","output":"What is the Sun?"}
+{"input":"WHAT MOON","output":"What is the Moon?"}
+{"input":"WHAT STAR","output":"What is a star?"}
+{"input":"WHAT PLANET","output":"What is a planet?"}
+{"input":"WHAT SOLAR SYSTEM","output":"What is the solar system?"}
+{"input":"WHAT GALAXY","output":"What is a galaxy?"}
+{"input":"WHAT MILKY WAY","output":"What is the Milky Way?"}
+{"input":"WHAT UNIVERSE","output":"What is the universe?"}
+{"input":"WHAT ASTEROID","output":"What is an asteroid?"}
+{"input":"WHAT COMET","output":"What is a comet?"}
+
+{"input":"WHAT WATER","output":"What is water?"}
+{"input":"WHAT AIR","output":"What is air?"}
+{"input":"WHAT OXYGEN","output":"What is oxygen?"}
+{"input":"WHAT HYDROGEN","output":"What is hydrogen?"}
+{"input":"WHAT CARBON","output":"What is carbon?"}
+{"input":"WHAT NITROGEN","output":"What is nitrogen?"}
+{"input":"WHAT ATMOSPHERE","output":"What is the atmosphere?"}
+{"input":"WHAT CLIMATE","output":"What is climate?"}
+{"input":"WHAT WEATHER","output":"What is weather?"}
+{"input":"WHAT RAIN","output":"What is rain?"}
+
+{"input":"WHAT PLANT","output":"What is a plant?"}
+{"input":"WHAT TREE","output":"What is a tree?"}
+{"input":"WHAT FLOWER","output":"What is a flower?"}
+{"input":"WHAT LEAF","output":"What is a leaf?"}
+{"input":"WHAT ROOT","output":"What is a root?"}
+{"input":"WHAT PHOTOSYNTHESIS","output":"What is photosynthesis?"}
+{"input":"WHAT SEED","output":"What is a seed?"}
+{"input":"WHAT FRUIT","output":"What is a fruit?"}
+{"input":"WHAT VEGETABLE","output":"What is a vegetable?"}
+{"input":"WHAT CROP","output":"What is a crop?"}
+
+{"input":"WHAT ANIMAL","output":"What is an animal?"}
+{"input":"WHAT MAMMAL","output":"What is a mammal?"}
+{"input":"WHAT BIRD","output":"What is a bird?"}
+{"input":"WHAT FISH","output":"What is a fish?"}
+{"input":"WHAT REPTILE","output":"What is a reptile?"}
+{"input":"WHAT AMPHIBIAN","output":"What is an amphibian?"}
+{"input":"WHAT INSECT","output":"What is an insect?"}
+{"input":"WHAT HERBIVORE","output":"What is a herbivore?"}
+{"input":"WHAT CARNIVORE","output":"What is a carnivore?"}
+{"input":"WHAT OMNIVORE","output":"What is an omnivore?"}
+
+{"input":"WHAT HUMAN","output":"What is a human?"}
+{"input":"WHAT BRAIN","output":"What is the brain?"}
+{"input":"WHAT HEART","output":"What is the heart?"}
+{"input":"WHAT LUNG","output":"What are lungs?"}
+{"input":"WHAT BLOOD","output":"What is blood?"}
+{"input":"WHAT BONE","output":"What is a bone?"}
+{"input":"WHAT MUSCLE","output":"What is a muscle?"}
+{"input":"WHAT DIGESTION","output":"What is digestion?"}
+{"input":"WHAT RESPIRATION","output":"What is respiration?"}
+{"input":"WHAT CIRCULATION","output":"What is circulation?"}
+
+{"input":"WHAT COMPUTER","output":"What is a computer?"}
+{"input":"WHAT SOFTWARE","output":"What is software?"}
+{"input":"WHAT HARDWARE","output":"What is hardware?"}
+{"input":"WHAT INTERNET","output":"What is the internet?"}
+{"input":"WHAT WEBSITE","output":"What is a website?"}
+{"input":"WHAT APPLICATION","output":"What is an application?"}
+{"input":"WHAT DATABASE","output":"What is a database?"}
+{"input":"WHAT NETWORK","output":"What is a network?"}
+{"input":"WHAT SERVER","output":"What is a server?"}
+{"input":"WHAT CLOUD COMPUTING","output":"What is cloud computing?"}
+
+{"input":"WHAT AI","output":"What is artificial intelligence?"}
+{"input":"WHAT MACHINE LEARNING","output":"What is machine learning?"}
+{"input":"WHAT DEEP LEARNING","output":"What is deep learning?"}
+{"input":"WHAT DATA","output":"What is data?"}
+{"input":"WHAT ALGORITHM","output":"What is an algorithm?"}
+{"input":"WHAT MODEL","output":"What is a model?"}
+{"input":"WHAT TRAINING DATA","output":"What is training data?"}
+{"input":"WHAT NEURAL NETWORK","output":"What is a neural network?"}
+{"input":"WHAT NLP","output":"What is natural language processing?"}
+{"input":"WHAT COMPUTER VISION","output":"What is computer vision?"}
+
+{"input":"WHAT SCHOOL","output":"What is a school?"}
+{"input":"WHAT EDUCATION","output":"What is education?"}
+{"input":"WHAT TEACHER","output":"What is a teacher?"}
+{"input":"WHAT STUDENT","output":"What is a student?"}
+{"input":"WHAT EXAM","output":"What is an exam?"}
+{"input":"WHAT SYLLABUS","output":"What is a syllabus?"}
+{"input":"WHAT SUBJECT","output":"What is a subject?"}
+{"input":"WHAT HOMEWORK","output":"What is homework?"}
+{"input":"WHAT DEGREE","output":"What is a degree?"}
+{"input":"WHAT UNIVERSITY","output":"What is a university?"}
+
+{"input":"WHAT COUNTRY","output":"What is a country?"}
+{"input":"WHAT STATE","output":"What is a state?"}
+{"input":"WHAT CITY","output":"What is a city?"}
+{"input":"WHAT VILLAGE","output":"What is a village?"}
+{"input":"WHAT GOVERNMENT","output":"What is a government?"}
+{"input":"WHAT DEMOCRACY","output":"What is democracy?"}
+{"input":"WHAT CONSTITUTION","output":"What is a constitution?"}
+{"input":"WHAT LAW","output":"What is a law?"}
+{"input":"WHAT ELECTION","output":"What is an election?"}
+{"input":"WHAT CITIZEN","output":"What is a citizen?"}
+
+{"input":"WHAT MONEY","output":"What is money?"}
+{"input":"WHAT BANK","output":"What is a bank?"}
+{"input":"WHAT SAVINGS","output":"What are savings?"}
+{"input":"WHAT INVESTMENT","output":"What is investment?"}
+{"input":"WHAT ECONOMY","output":"What is the economy?"}
+{"input":"WHAT INCOME","output":"What is income?"}
+{"input":"WHAT EXPENSE","output":"What is an expense?"}
+{"input":"WHAT TAX","output":"What is tax?"}
+{"input":"WHAT PROFIT","output":"What is profit?"}
+{"input":"WHAT LOSS","output":"What is loss?"}
+
+{"input":"WHAT ENERGY","output":"What is energy?"}
+{"input":"WHAT ELECTRICITY","output":"What is electricity?"}
+{"input":"WHAT POWER","output":"What is power?"}
+{"input":"WHAT FORCE","output":"What is force?"}
+{"input":"WHAT MOTION","output":"What is motion?"}
+{"input":"WHAT GRAVITY","output":"What is gravity?"}
+{"input":"WHAT SPEED","output":"What is speed?"}
+{"input":"WHAT VELOCITY","output":"What is velocity?"}
+{"input":"WHAT ACCELERATION","output":"What is acceleration?"}
+{"input":"WHAT PRESSURE","output":"What is pressure?"}
+
+
+
+
+

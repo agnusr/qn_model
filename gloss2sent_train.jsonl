@@ -1,0 +1,2954 @@
+{"input": "WHAT IS GEOGRAPHY", "output": "What is geography?"}
+{"input": "WHAT IS EARTH", "output": "What is the Earth?"}
+{"input": "WHAT IS CONTINENT", "output": "What is a continent?"}
+{"input": "WHAT IS OCEAN", "output": "What is an ocean?"}
+{"input": "WHAT IS LATITUDE", "output": "What is latitude?"}
+{"input": "WHAT IS LONGITUDE", "output": "What is longitude?"}
+{"input": "WHAT IS EQUATOR", "output": "What is the equator?"}
+{"input": "WHAT IS PRIME MERIDIAN", "output": "What is the Prime Meridian?"}
+{"input": "WHAT IS CLIMATE", "output": "What is climate?"}
+{"input": "WHAT IS WEATHER", "output": "What is weather?"}
+
+{"input": "WHERE IS INDIA LOCATED", "output": "Where is India located?"}
+{"input": "WHERE IS ASIA CONTINENT", "output": "Where is the continent of Asia located?"}
+{"input": "WHERE IS SAHARA DESERT", "output": "Where is the Sahara Desert located?"}
+{"input": "WHERE IS HIMALAYAS", "output": "Where are the Himalayas located?"}
+{"input": "WHERE IS EQUATOR PASS", "output": "Where does the equator pass?"}
+{"input": "WHERE IS ARCTIC CIRCLE", "output": "Where is the Arctic Circle located?"}
+{"input": "WHERE IS ANTARCTICA", "output": "Where is Antarctica located?"}
+{"input": "WHERE IS INDIAN OCEAN", "output": "Where is the Indian Ocean located?"}
+{"input": "WHERE IS TROPIC CANCER", "output": "Where is the Tropic of Cancer located?"}
+{"input": "WHERE IS TROPIC CAPRICORN", "output": "Where is the Tropic of Capricorn located?"}
+
+{"input": "HOW EARTH ROTATE", "output": "How does the Earth rotate?"}
+{"input": "HOW EARTH REVOLVE SUN", "output": "How does the Earth revolve around the Sun?"}
+{"input": "HOW MOUNTAINS FORMED", "output": "How are mountains formed?"}
+{"input": "HOW RIVERS FORMED", "output": "How are rivers formed?"}
+{"input": "HOW RAIN OCCUR", "output": "How does rain occur?"}
+{"input": "HOW CYCLONE FORM", "output": "How does a cyclone form?"}
+{"input": "HOW VOLCANO ERUPT", "output": "How does a volcano erupt?"}
+{"input": "HOW SOIL FORMED", "output": "How is soil formed?"}
+{"input": "HOW DELTA FORMED", "output": "How is a delta formed?"}
+{"input": "HOW EARTH GET SEASONS", "output": "How does the Earth get seasons?"}
+
+{"input": "WHEN MONSOON COMES INDIA", "output": "When does the monsoon come to India?"}
+{"input": "WHEN EARTH DAY CELEBRATE", "output": "When is Earth Day celebrated?"}
+{"input": "WHEN SUMMER SEASON INDIA", "output": "When is the summer season in India?"}
+{"input": "WHEN WINTER SEASON INDIA", "output": "When is the winter season in India?"}
+{"input": "WHEN DAY AND NIGHT EQUAL", "output": "When are day and night equal?"}
+{"input": "WHEN SUN DIRECTLY OVERHEAD EQUATOR", "output": "When is the Sun directly overhead at the equator?"}
+{"input": "WHEN CYCLONE OCCUR", "output": "When do cyclones usually occur?"}
+{"input": "WHEN EARTH ROTATION COMPLETE", "output": "When does the Earth complete one rotation?"}
+{"input": "WHEN EARTH REVOLUTION COMPLETE", "output": "When does the Earth complete one revolution around the Sun?"}
+{"input": "WHEN RAINY SEASON INDIA", "output": "When is the rainy season in India?"}
+{"input": "WHAT IS MAP", "output": "What is a map?"}
+{"input": "WHAT IS ATLAS", "output": "What is an atlas?"}
+{"input": "WHAT IS SCALE MAP", "output": "What is the scale of a map?"}
+{"input": "WHAT IS DIRECTION", "output": "What is direction?"}
+{"input": "WHAT IS COMPASS", "output": "What is a compass?"}
+{"input": "WHAT IS GLOBE", "output": "What is a globe?"}
+{"input": "WHAT IS HEMISPHERE", "output": "What is a hemisphere?"}
+{"input": "WHAT IS NORTHERN HEMISPHERE", "output": "What is the Northern Hemisphere?"}
+{"input": "WHAT IS SOUTHERN HEMISPHERE", "output": "What is the Southern Hemisphere?"}
+{"input": "WHAT IS TIME ZONE", "output": "What is a time zone?"}
+
+{"input": "WHERE IS PRIME MERIDIAN PASS", "output": "Where does the Prime Meridian pass?"}
+{"input": "WHERE IS EQUATOR LOCATED", "output": "Where is the equator located?"}
+{"input": "WHERE IS TROPICAL ZONE", "output": "Where is the tropical zone located?"}
+{"input": "WHERE IS TEMPERATE ZONE", "output": "Where is the temperate zone located?"}
+{"input": "WHERE IS FRIGID ZONE", "output": "Where is the frigid zone located?"}
+{"input": "WHERE IS DECCAN PLATEAU", "output": "Where is the Deccan Plateau located?"}
+{"input": "WHERE IS GANGA RIVER", "output": "Where is the Ganga River located?"}
+{"input": "WHERE IS THAR DESERT", "output": "Where is the Thar Desert located?"}
+{"input": "WHERE IS BAY OF BENGAL", "output": "Where is the Bay of Bengal located?"}
+{"input": "WHERE IS ARABIAN SEA", "output": "Where is the Arabian Sea located?"}
+
+{"input": "HOW MAP HELP US", "output": "How do maps help us?"}
+{"input": "HOW CLIMATE DIFFER WEATHER", "output": "How is climate different from weather?"}
+{"input": "HOW WIND FORMED", "output": "How is wind formed?"}
+{"input": "HOW CLOUD FORMED", "output": "How are clouds formed?"}
+{"input": "HOW RAINFALL MEASURE", "output": "How is rainfall measured?"}
+{"input": "HOW EARTH GET DAY NIGHT", "output": "How does the Earth get day and night?"}
+{"input": "HOW MONSOON FORMED", "output": "How is the monsoon formed?"}
+{"input": "HOW EARTH AXIS TILTED", "output": "How is the Earth's axis tilted?"}
+{"input": "HOW RIVER EROSION HAPPEN", "output": "How does river erosion happen?"}
+{"input": "HOW GLACIER MOVE", "output": "How do glaciers move?"}
+
+{"input": "WHEN SUN RISE EAST", "output": "When does the Sun rise in the east?"}
+{"input": "WHEN LONGEST DAY YEAR", "output": "When is the longest day of the year?"}
+{"input": "WHEN SHORTEST DAY YEAR", "output": "When is the shortest day of the year?"}
+{"input": "WHEN EQUINOX OCCUR", "output": "When does an equinox occur?"}
+{"input": "WHEN SOLSTICE OCCUR", "output": "When does a solstice occur?"}
+{"input": "WHEN FLOOD OCCUR", "output": "When do floods occur?"}
+{"input": "WHEN DROUGHT OCCUR", "output": "When does a drought occur?"}
+{"input": "WHEN CYCLONE FORM SEA", "output": "When do cyclones form over the sea?"}
+{"input": "WHEN EARTH DAY OBSERVE", "output": "When is Earth Day observed?"}
+{"input": "WHEN WORLD ENVIRONMENT DAY", "output": "When is World Environment Day celebrated?"}
+
+{"input": "WHAT IS NATURAL VEGETATION", "output": "What is natural vegetation?"}
+{"input": "WHAT IS FOREST", "output": "What is a forest?"}
+{"input": "WHAT IS GRASSLAND", "output": "What is grassland?"}
+{"input": "WHAT IS DESERT", "output": "What is a desert?"}
+{"input": "WHAT IS TUNDRA", "output": "What is tundra?"}
+{"input": "WHAT IS AGRICULTURE", "output": "What is agriculture?"}
+{"input": "WHAT IS CROPPING SEASON", "output": "What is a cropping season?"}
+{"input": "WHAT IS KHARIF CROP", "output": "What is a Kharif crop?"}
+{"input": "WHAT IS RABI CROP", "output": "What is a Rabi crop?"}
+{"input": "WHAT IS ZAYD CROP", "output": "What is a Zaid crop?"}
+
+{"input": "WHERE IS WETLAND FOUND", "output": "Where are wetlands found?"}
+{"input": "WHERE IS RAINFOREST FOUND", "output": "Where are rainforests found?"}
+{"input": "WHERE IS MANGROVE FOREST", "output": "Where are mangrove forests found?"}
+{"input": "WHERE IS CORAL REEF", "output": "Where are coral reefs found?"}
+{"input": "WHERE IS SUNDARBANS", "output": "Where are the Sundarbans located?"}
+{"input": "WHERE IS NILGIRI HILLS", "output": "Where are the Nilgiri Hills located?"}
+{"input": "WHERE IS WESTERN GHATS", "output": "Where are the Western Ghats located?"}
+{"input": "WHERE IS EASTERN GHATS", "output": "Where are the Eastern Ghats located?"}
+{"input": "WHERE IS PENINSULAR INDIA", "output": "Where is Peninsular India located?"}
+{"input": "WHERE IS NORTHERN PLAINS", "output": "Where are the Northern Plains located?"}
+
+{"input": "HOW SOIL CONSERVATION DONE", "output": "How is soil conservation done?"}
+{"input": "HOW DEFORESTATION AFFECT CLIMATE", "output": "How does deforestation affect climate?"}
+{"input": "HOW POLLUTION AFFECT ENVIRONMENT", "output": "How does pollution affect the environment?"}
+{"input": "HOW GLOBAL WARMING HAPPEN", "output": "How does global warming happen?"}
+{"input": "HOW GREENHOUSE EFFECT WORK", "output": "How does the greenhouse effect work?"}
+{"input": "HOW EARTHQUAKE OCCUR", "output": "How do earthquakes occur?"}
+{"input": "HOW TSUNAMI FORM", "output": "How is a tsunami formed?"}
+{"input": "HOW VOLCANO HELP LAND", "output": "How do volcanoes help in land formation?"}
+{"input": "HOW MINERALS EXTRACT", "output": "How are minerals extracted?"}
+{"input": "HOW TRANSPORT AFFECT TRADE", "output": "How does transport affect trade?"}
+
+{"input": "WHEN FOREST CONSERVATION DAY", "output": "When is World Forest Conservation Day observed?"}
+{"input": "WHEN MONSOON WITHDRAW INDIA", "output": "When does the monsoon withdraw from India?"}
+{"input": "WHEN AGRICULTURE SEASON START", "output": "When does the agricultural season start?"}
+{"input": "WHEN FLOOD MOST COMMON INDIA", "output": "When are floods most common in India?"}
+{"input": "WHEN CYCLONE SEASON INDIA", "output": "When is the cyclone season in India?"}
+{"input": "WHEN SNOWFALL HIMALAYAS", "output": "When does snowfall occur in the Himalayas?"}
+{"input": "WHEN TEMPERATURE HIGHEST INDIA", "output": "When is the temperature highest in India?"}
+{"input": "WHEN TEMPERATURE LOWEST INDIA", "output": "When is the temperature lowest in India?"}
+{"input": "WHEN RIVER IN FLOOD", "output": "When is a river in flood?"}
+{"input": "WHEN DROUGHT DECLARED", "output": "When is a drought declared?"}
+{"input": "WHAT IS SCIENCE", "output": "What is science?"}
+{"input": "WHAT IS LIVING THING", "output": "What is a living thing?"}
+{"input": "WHAT IS NON LIVING THING", "output": "What is a non-living thing?"}
+{"input": "WHAT IS PLANT", "output": "What is a plant?"}
+{"input": "WHAT IS ANIMAL", "output": "What is an animal?"}
+{"input": "WHAT IS MICROORGANISM", "output": "What is a microorganism?"}
+{"input": "WHAT IS CELL", "output": "What is a cell?"}
+{"input": "WHAT IS TISSUE", "output": "What is a tissue?"}
+{"input": "WHAT IS ORGAN", "output": "What is an organ?"}
+{"input": "WHAT IS ORGAN SYSTEM", "output": "What is an organ system?"}
+
+{"input": "WHERE PLANTS GROW", "output": "Where do plants grow?"}
+{"input": "WHERE ANIMALS LIVE", "output": "Where do animals live?"}
+{"input": "WHERE MICROORGANISMS FOUND", "output": "Where are microorganisms found?"}
+{"input": "WHERE BLOOD FORMED", "output": "Where is blood formed?"}
+{"input": "WHERE HEART LOCATED", "output": "Where is the heart located?"}
+{"input": "WHERE LUNGS LOCATED", "output": "Where are the lungs located?"}
+{"input": "WHERE DIGESTION START", "output": "Where does digestion start?"}
+{"input": "WHERE FOOD STORED PLANT", "output": "Where is food stored in plants?"}
+{"input": "WHERE WATER ABSORBED PLANT", "output": "Where is water absorbed in plants?"}
+{"input": "WHERE OXYGEN COME FROM", "output": "Where does oxygen come from?"}
+
+{"input": "HOW PLANTS MAKE FOOD", "output": "How do plants make food?"}
+{"input": "HOW ANIMALS BREATHE", "output": "How do animals breathe?"}
+{"input": "HOW FOOD DIGESTED", "output": "How is food digested?"}
+{"input": "HOW BLOOD CIRCULATE", "output": "How does blood circulate?"}
+{"input": "HOW PLANTS TRANSPORT WATER", "output": "How do plants transport water?"}
+{"input": "HOW SEEDS GERMINATE", "output": "How do seeds germinate?"}
+{"input": "HOW PLANTS REPRODUCE", "output": "How do plants reproduce?"}
+{"input": "HOW ANIMALS REPRODUCE", "output": "How do animals reproduce?"}
+{"input": "HOW DISEASE SPREAD", "output": "How do diseases spread?"}
+{"input": "HOW VACCINE WORK", "output": "How do vaccines work?"}
+
+{"input": "WHEN PLANTS GROW FAST", "output": "When do plants grow fast?"}
+{"input": "WHEN GERMINATION OCCUR", "output": "When does germination occur?"}
+{"input": "WHEN WE FEEL HUNGRY", "output": "When do we feel hungry?"}
+{"input": "WHEN BREATHING RATE INCREASE", "output": "When does the breathing rate increase?"}
+{"input": "WHEN HEARTBEAT FAST", "output": "When does the heartbeat become fast?"}
+{"input": "WHEN DISEASE SPREAD FAST", "output": "When do diseases spread fast?"}
+{"input": "WHEN PLANTS FLOWER", "output": "When do plants flower?"}
+{"input": "WHEN ANIMALS HIBERNATE", "output": "When do animals hibernate?"}
+{"input": "WHEN WE NEED FOOD", "output": "When do we need food?"}
+{"input": "WHEN WE NEED WATER", "output": "When do we need water?"}
+
+{"input": "WHAT IS MATTER", "output": "What is matter?"}
+{"input": "WHAT IS SOLID", "output": "What is a solid?"}
+{"input": "WHAT IS LIQUID", "output": "What is a liquid?"}
+{"input": "WHAT IS GAS", "output": "What is a gas?"}
+{"input": "WHAT IS ATOM", "output": "What is an atom?"}
+{"input": "WHAT IS MOLECULE", "output": "What is a molecule?"}
+{"input": "WHAT IS ELEMENT", "output": "What is an element?"}
+{"input": "WHAT IS COMPOUND", "output": "What is a compound?"}
+{"input": "WHAT IS MIXTURE", "output": "What is a mixture?"}
+{"input": "WHAT IS SOLUTION", "output": "What is a solution?"}
+
+{"input": "WHERE OXYGEN USED", "output": "Where is oxygen used?"}
+{"input": "WHERE CARBON DIOXIDE PRODUCED", "output": "Where is carbon dioxide produced?"}
+{"input": "WHERE METALS FOUND", "output": "Where are metals found?"}
+{"input": "WHERE SALT FOUND", "output": "Where is salt found?"}
+{"input": "WHERE WATER FOUND EARTH", "output": "Where is water found on Earth?"}
+{"input": "WHERE FOSSIL FUELS FOUND", "output": "Where are fossil fuels found?"}
+{"input": "WHERE ACIDS USED", "output": "Where are acids used?"}
+{"input": "WHERE BASES USED", "output": "Where are bases used?"}
+{"input": "WHERE CHEMICAL REACTION OCCUR", "output": "Where do chemical reactions occur?"}
+{"input": "WHERE ELECTRICITY GENERATED", "output": "Where is electricity generated?"}
+
+{"input": "HOW MATTER CHANGE STATE", "output": "How does matter change state?"}
+{"input": "HOW MIXTURE SEPARATED", "output": "How are mixtures separated?"}
+{"input": "HOW EVAPORATION HAPPEN", "output": "How does evaporation happen?"}
+{"input": "HOW CONDENSATION HAPPEN", "output": "How does condensation happen?"}
+{"input": "HOW CHEMICAL REACTION OCCUR", "output": "How does a chemical reaction occur?"}
+{"input": "HOW RUSTING HAPPEN", "output": "How does rusting happen?"}
+{"input": "HOW BURNING OCCUR", "output": "How does burning occur?"}
+{"input": "HOW ELECTRIC CURRENT FLOW", "output": "How does electric current flow?"}
+{"input": "HOW MAGNET ATTRACT IRON", "output": "How does a magnet attract iron?"}
+{"input": "HOW LIGHT TRAVEL", "output": "How does light travel?"}
+
+{"input": "WHEN ICE MELT", "output": "When does ice melt?"}
+{"input": "WHEN WATER BOIL", "output": "When does water boil?"}
+{"input": "WHEN METALS RUST", "output": "When do metals rust?"}
+{"input": "WHEN CHEMICAL CHANGE HAPPEN", "output": "When does a chemical change happen?"}
+{"input": "WHEN PHYSICAL CHANGE HAPPEN", "output": "When does a physical change happen?"}
+{"input": "WHEN ELECTRIC SHOCK OCCUR", "output": "When does an electric shock occur?"}
+{"input": "WHEN MAGNET LOSE POWER", "output": "When does a magnet lose its power?"}
+{"input": "WHEN SHADOW FORMED", "output": "When is a shadow formed?"}
+{"input": "WHEN ECLIPSE OCCUR", "output": "When does an eclipse occur?"}
+{"input": "WHEN RAINBOW FORMED", "output": "When is a rainbow formed?"}
+
+{"input": "WHAT IS FORCE", "output": "What is force?"}
+{"input": "WHAT IS MOTION", "output": "What is motion?"}
+{"input": "WHAT IS SPEED", "output": "What is speed?"}
+{"input": "WHAT IS ENERGY", "output": "What is energy?"}
+{"input": "WHAT IS WORK", "output": "What is work?"}
+{"input": "WHAT IS FRICTION", "output": "What is friction?"}
+{"input": "WHAT IS GRAVITY", "output": "What is gravity?"}
+{"input": "WHAT IS PRESSURE", "output": "What is pressure?"}
+{"input": "WHAT IS HEAT", "output": "What is heat?"}
+{"input": "WHAT IS TEMPERATURE", "output": "What is temperature?"}
+
+{"input": "WHERE FORCE APPLIED", "output": "Where is force applied?"}
+{"input": "WHERE FRICTION USEFUL", "output": "Where is friction useful?"}
+{"input": "WHERE GRAVITY ACT", "output": "Where does gravity act?"}
+{"input": "WHERE SOUND PRODUCED", "output": "Where is sound produced?"}
+{"input": "WHERE LIGHT SOURCE", "output": "Where is the source of light?"}
+{"input": "WHERE HEAT PRODUCED", "output": "Where is heat produced?"}
+{"input": "WHERE ENERGY USED", "output": "Where is energy used?"}
+{"input": "WHERE ELECTRIC CIRCUIT USED", "output": "Where are electric circuits used?"}
+{"input": "WHERE MAGNET USED", "output": "Where are magnets used?"}
+{"input": "WHERE SOLAR ENERGY USED", "output": "Where is solar energy used?"}
+
+{"input": "HOW FORCE CHANGE MOTION", "output": "How does force change motion?"}
+{"input": "HOW FRICTION AFFECT MOTION", "output": "How does friction affect motion?"}
+{"input": "HOW ENERGY TRANSFORM", "output": "How is energy transformed?"}
+{"input": "HOW HEAT TRANSFER", "output": "How is heat transferred?"}
+{"input": "HOW SOUND PRODUCED", "output": "How is sound produced?"}
+{"input": "HOW LIGHT REFLECT", "output": "How is light reflected?"}
+{"input": "HOW LIGHT REFRACT", "output": "How is light refracted?"}
+{"input": "HOW ELECTRICITY GENERATED", "output": "How is electricity generated?"}
+{"input": "HOW SOLAR ENERGY USED", "output": "How is solar energy used?"}
+{"input": "HOW WIND ENERGY USED", "output": "How is wind energy used?"}
+
+{"input": "WHEN OBJECT MOVE", "output": "When does an object move?"}
+{"input": "WHEN FORCE REQUIRED", "output": "When is force required?"}
+{"input": "WHEN FRICTION HIGH", "output": "When is friction high?"}
+{"input": "WHEN ENERGY CONSERVED", "output": "When is energy conserved?"}
+{"input": "WHEN HEAT TRANSFER FAST", "output": "When is heat transfer fast?"}
+{"input": "WHEN SOUND LOUD", "output": "When is sound loud?"}
+{"input": "WHEN LIGHT REFLECT BEST", "output": "When is light reflected best?"}
+{"input": "WHEN ELECTRIC CURRENT FLOW", "output": "When does electric current flow?"}
+{"input": "WHEN SOLAR POWER EFFECTIVE", "output": "When is solar power effective?"}
+{"input": "WHEN WIND POWER EFFECTIVE", "output": "When is wind power effective?"}
+{"input": "WHAT IS PHYSICS", "output": "What is physics?"}
+{"input": "WHAT IS FORCE", "output": "What is force?"}
+{"input": "WHAT IS MOTION", "output": "What is motion?"}
+{"input": "WHAT IS REST", "output": "What is rest?"}
+{"input": "WHAT IS SPEED", "output": "What is speed?"}
+{"input": "WHAT IS VELOCITY", "output": "What is velocity?"}
+{"input": "WHAT IS ACCELERATION", "output": "What is acceleration?"}
+{"input": "WHAT IS DISTANCE", "output": "What is distance?"}
+{"input": "WHAT IS DISPLACEMENT", "output": "What is displacement?"}
+{"input": "WHAT IS SCALAR QUANTITY", "output": "What is a scalar quantity?"}
+
+{"input": "WHERE FORCE APPLIED", "output": "Where is force applied?"}
+{"input": "WHERE MOTION OBSERVED", "output": "Where is motion observed?"}
+{"input": "WHERE SPEED USED", "output": "Where is speed used?"}
+{"input": "WHERE VELOCITY USED", "output": "Where is velocity used?"}
+{"input": "WHERE ACCELERATION FOUND", "output": "Where is acceleration found?"}
+{"input": "WHERE GRAVITY ACT", "output": "Where does gravity act?"}
+{"input": "WHERE FRICTION ACT", "output": "Where does friction act?"}
+{"input": "WHERE PRESSURE ACT", "output": "Where does pressure act?"}
+{"input": "WHERE MAGNETIC FORCE ACT", "output": "Where does magnetic force act?"}
+{"input": "WHERE ELECTRIC FORCE ACT", "output": "Where does electric force act?"}
+
+{"input": "HOW FORCE CHANGE MOTION", "output": "How does force change motion?"}
+{"input": "HOW SPEED CALCULATE", "output": "How is speed calculated?"}
+{"input": "HOW VELOCITY CALCULATE", "output": "How is velocity calculated?"}
+{"input": "HOW ACCELERATION CALCULATE", "output": "How is acceleration calculated?"}
+{"input": "HOW MOTION MEASURE", "output": "How is motion measured?"}
+{"input": "HOW DISTANCE MEASURE", "output": "How is distance measured?"}
+{"input": "HOW DISPLACEMENT MEASURE", "output": "How is displacement measured?"}
+{"input": "HOW FORCE MEASURE", "output": "How is force measured?"}
+{"input": "HOW TIME MEASURE", "output": "How is time measured?"}
+{"input": "HOW MASS MEASURE", "output": "How is mass measured?"}
+
+{"input": "WHEN OBJECT MOVE", "output": "When does an object move?"}
+{"input": "WHEN OBJECT AT REST", "output": "When is an object at rest?"}
+{"input": "WHEN SPEED CHANGE", "output": "When does speed change?"}
+{"input": "WHEN ACCELERATION ZERO", "output": "When is acceleration zero?"}
+{"input": "WHEN FORCE REQUIRED", "output": "When is force required?"}
+{"input": "WHEN MOTION UNIFORM", "output": "When is motion uniform?"}
+{"input": "WHEN MOTION NON UNIFORM", "output": "When is motion non-uniform?"}
+{"input": "WHEN BODY FALL", "output": "When does a body fall?"}
+{"input": "WHEN GRAVITY ACT", "output": "When does gravity act?"}
+{"input": "WHEN FRICTION HIGH", "output": "When is friction high?"}
+
+{"input": "WHAT IS WORK", "output": "What is work?"}
+{"input": "WHAT IS ENERGY", "output": "What is energy?"}
+{"input": "WHAT IS POWER", "output": "What is power?"}
+{"input": "WHAT IS KINETIC ENERGY", "output": "What is kinetic energy?"}
+{"input": "WHAT IS POTENTIAL ENERGY", "output": "What is potential energy?"}
+{"input": "WHAT IS MECHANICAL ENERGY", "output": "What is mechanical energy?"}
+{"input": "WHAT IS LAW OF MOTION", "output": "What is a law of motion?"}
+{"input": "WHAT IS INERTIA", "output": "What is inertia?"}
+{"input": "WHAT IS MOMENTUM", "output": "What is momentum?"}
+{"input": "WHAT IS CONSERVATION ENERGY", "output": "What is the law of conservation of energy?"}
+
+{"input": "WHERE WORK DONE", "output": "Where is work done?"}
+{"input": "WHERE ENERGY USED", "output": "Where is energy used?"}
+{"input": "WHERE POWER USED", "output": "Where is power used?"}
+{"input": "WHERE KINETIC ENERGY FOUND", "output": "Where is kinetic energy found?"}
+{"input": "WHERE POTENTIAL ENERGY FOUND", "output": "Where is potential energy found?"}
+{"input": "WHERE MECHANICAL ENERGY USED", "output": "Where is mechanical energy used?"}
+{"input": "WHERE MOMENTUM USED", "output": "Where is momentum used?"}
+{"input": "WHERE INERTIA OBSERVED", "output": "Where is inertia observed?"}
+{"input": "WHERE ENERGY TRANSFER", "output": "Where does energy transfer occur?"}
+{"input": "WHERE POWER MEASURE", "output": "Where is power measured?"}
+
+{"input": "HOW WORK CALCULATE", "output": "How is work calculated?"}
+{"input": "HOW ENERGY TRANSFORM", "output": "How is energy transformed?"}
+{"input": "HOW POWER CALCULATE", "output": "How is power calculated?"}
+{"input": "HOW KINETIC ENERGY CHANGE", "output": "How does kinetic energy change?"}
+{"input": "HOW POTENTIAL ENERGY CHANGE", "output": "How does potential energy change?"}
+{"input": "HOW MOMENTUM CHANGE", "output": "How does momentum change?"}
+{"input": "HOW INERTIA AFFECT MOTION", "output": "How does inertia affect motion?"}
+{"input": "HOW ENERGY CONSERVE", "output": "How is energy conserved?"}
+{"input": "HOW FORCE WORK RELATED", "output": "How are force and work related?"}
+{"input": "HOW POWER RELATED ENERGY", "output": "How is power related to energy?"}
+
+{"input": "WHEN WORK DONE", "output": "When is work done?"}
+{"input": "WHEN NO WORK DONE", "output": "When is no work done?"}
+{"input": "WHEN ENERGY CONSERVED", "output": "When is energy conserved?"}
+{"input": "WHEN POWER HIGH", "output": "When is power high?"}
+{"input": "WHEN MOMENTUM CONSERVED", "output": "When is momentum conserved?"}
+{"input": "WHEN POTENTIAL ENERGY MAX", "output": "When is potential energy maximum?"}
+{"input": "WHEN KINETIC ENERGY MAX", "output": "When is kinetic energy maximum?"}
+{"input": "WHEN INERTIA HIGH", "output": "When is inertia high?"}
+{"input": "WHEN FORCE ZERO", "output": "When is force zero?"}
+{"input": "WHEN MOTION STOP", "output": "When does motion stop?"}
+
+{"input": "WHAT IS HEAT", "output": "What is heat?"}
+{"input": "WHAT IS TEMPERATURE", "output": "What is temperature?"}
+{"input": "WHAT IS THERMAL ENERGY", "output": "What is thermal energy?"}
+{"input": "WHAT IS CONDUCTION", "output": "What is conduction?"}
+{"input": "WHAT IS CONVECTION", "output": "What is convection?"}
+{"input": "WHAT IS RADIATION", "output": "What is radiation?"}
+{"input": "WHAT IS EXPANSION", "output": "What is expansion?"}
+{"input": "WHAT IS THERMOMETER", "output": "What is a thermometer?"}
+{"input": "WHAT IS HEAT TRANSFER", "output": "What is heat transfer?"}
+{"input": "WHAT IS SPECIFIC HEAT", "output": "What is specific heat?"}
+
+{"input": "WHERE HEAT TRANSFER", "output": "Where does heat transfer occur?"}
+{"input": "WHERE CONDUCTION OCCUR", "output": "Where does conduction occur?"}
+{"input": "WHERE CONVECTION OCCUR", "output": "Where does convection occur?"}
+{"input": "WHERE RADIATION OCCUR", "output": "Where does radiation occur?"}
+{"input": "WHERE THERMOMETER USED", "output": "Where is a thermometer used?"}
+{"input": "WHERE THERMAL ENERGY USED", "output": "Where is thermal energy used?"}
+{"input": "WHERE HEAT PRODUCED", "output": "Where is heat produced?"}
+{"input": "WHERE TEMPERATURE MEASURE", "output": "Where is temperature measured?"}
+{"input": "WHERE EXPANSION OBSERVED", "output": "Where is expansion observed?"}
+{"input": "WHERE COOLING OCCUR", "output": "Where does cooling occur?"}
+
+{"input": "HOW HEAT TRANSFER", "output": "How is heat transferred?"}
+{"input": "HOW TEMPERATURE MEASURE", "output": "How is temperature measured?"}
+{"input": "HOW CONDUCTION WORK", "output": "How does conduction work?"}
+{"input": "HOW CONVECTION WORK", "output": "How does convection work?"}
+{"input": "HOW RADIATION WORK", "output": "How does radiation work?"}
+{"input": "HOW EXPANSION OCCUR", "output": "How does expansion occur?"}
+{"input": "HOW HEAT AFFECT STATE", "output": "How does heat affect the state of matter?"}
+{"input": "HOW COOLING OCCUR", "output": "How does cooling occur?"}
+{"input": "HOW THERMOMETER WORK", "output": "How does a thermometer work?"}
+{"input": "HOW HEAT ENERGY USED", "output": "How is heat energy used?"}
+
+{"input": "WHEN HEAT FLOW", "output": "When does heat flow?"}
+{"input": "WHEN TEMPERATURE INCREASE", "output": "When does temperature increase?"}
+{"input": "WHEN CONDUCTION FAST", "output": "When is conduction fast?"}
+{"input": "WHEN CONVECTION FAST", "output": "When is convection fast?"}
+{"input": "WHEN RADIATION IMPORTANT", "output": "When is radiation important?"}
+{"input": "WHEN EXPANSION HIGH", "output": "When is expansion high?"}
+{"input": "WHEN COOLING FAST", "output": "When is cooling fast?"}
+{"input": "WHEN THERMAL EQUILIBRIUM", "output": "When is thermal equilibrium reached?"}
+{"input": "WHEN HEAT LOSS", "output": "When does heat loss occur?"}
+{"input": "WHEN HEAT GAIN", "output": "When does heat gain occur?"}
+{"input": "WHAT IS BIOLOGY", "output": "What is biology?"}
+{"input": "WHAT IS LIVING THING", "output": "What is a living thing?"}
+{"input": "WHAT IS NON LIVING THING", "output": "What is a non-living thing?"}
+{"input": "WHAT IS CELL", "output": "What is a cell?"}
+{"input": "WHAT IS TISSUE", "output": "What is a tissue?"}
+{"input": "WHAT IS ORGAN", "output": "What is an organ?"}
+{"input": "WHAT IS ORGAN SYSTEM", "output": "What is an organ system?"}
+{"input": "WHAT IS GROWTH", "output": "What is growth?"}
+{"input": "WHAT IS REPRODUCTION", "output": "What is reproduction?"}
+{"input": "WHAT IS RESPIRATION", "output": "What is respiration?"}
+
+{"input": "WHERE CELL FOUND", "output": "Where are cells found?"}
+{"input": "WHERE TISSUE FOUND", "output": "Where are tissues found?"}
+{"input": "WHERE ORGAN FOUND", "output": "Where are organs found?"}
+{"input": "WHERE PLANTS FOUND", "output": "Where are plants found?"}
+{"input": "WHERE ANIMALS FOUND", "output": "Where are animals found?"}
+{"input": "WHERE HUMANS FOUND", "output": "Where are humans found?"}
+{"input": "WHERE LIVING THINGS FOUND", "output": "Where are living things found?"}
+{"input": "WHERE CELL DIVISION OCCUR", "output": "Where does cell division occur?"}
+{"input": "WHERE RESPIRATION OCCUR", "output": "Where does respiration occur?"}
+{"input": "WHERE GROWTH OCCUR", "output": "Where does growth occur?"}
+
+{"input": "HOW CELL FORMED", "output": "How is a cell formed?"}
+{"input": "HOW TISSUE FORMED", "output": "How is tissue formed?"}
+{"input": "HOW ORGAN FORMED", "output": "How is an organ formed?"}
+{"input": "HOW GROWTH OCCUR", "output": "How does growth occur?"}
+{"input": "HOW REPRODUCTION OCCUR", "output": "How does reproduction occur?"}
+{"input": "HOW RESPIRATION OCCUR", "output": "How does respiration occur?"}
+{"input": "HOW NUTRITION TAKEN", "output": "How is nutrition taken?"}
+{"input": "HOW EXCRETION OCCUR", "output": "How does excretion occur?"}
+{"input": "HOW MOVEMENT OCCUR", "output": "How does movement occur?"}
+{"input": "HOW SENSITIVITY SHOWN", "output": "How is sensitivity shown?"}
+
+{"input": "WHEN CELL DIVIDE", "output": "When does a cell divide?"}
+{"input": "WHEN GROWTH FAST", "output": "When is growth fast?"}
+{"input": "WHEN REPRODUCTION OCCUR", "output": "When does reproduction occur?"}
+{"input": "WHEN RESPIRATION OCCUR", "output": "When does respiration occur?"}
+{"input": "WHEN EXCRETION OCCUR", "output": "When does excretion occur?"}
+{"input": "WHEN MOVEMENT SEEN", "output": "When is movement seen?"}
+{"input": "WHEN LIVING THING DIE", "output": "When does a living thing die?"}
+{"input": "WHEN LIFE CYCLE START", "output": "When does a life cycle start?"}
+{"input": "WHEN LIFE CYCLE END", "output": "When does a life cycle end?"}
+{"input": "WHEN METABOLISM ACTIVE", "output": "When is metabolism active?"}
+
+{"input": "WHAT IS PLANT", "output": "What is a plant?"}
+{"input": "WHAT IS ROOT", "output": "What is a root?"}
+{"input": "WHAT IS STEM", "output": "What is a stem?"}
+{"input": "WHAT IS LEAF", "output": "What is a leaf?"}
+{"input": "WHAT IS FLOWER", "output": "What is a flower?"}
+{"input": "WHAT IS FRUIT", "output": "What is a fruit?"}
+{"input": "WHAT IS SEED", "output": "What is a seed?"}
+{"input": "WHAT IS PHOTOSYNTHESIS", "output": "What is photosynthesis?"}
+{"input": "WHAT IS TRANSPIRATION", "output": "What is transpiration?"}
+{"input": "WHAT IS GERMINATION", "output": "What is germination?"}
+
+{"input": "WHERE ROOT FOUND", "output": "Where are roots found?"}
+{"input": "WHERE STEM FOUND", "output": "Where is the stem found?"}
+{"input": "WHERE LEAF FOUND", "output": "Where are leaves found?"}
+{"input": "WHERE FLOWER FOUND", "output": "Where is a flower found?"}
+{"input": "WHERE SEED FOUND", "output": "Where is a seed found?"}
+{"input": "WHERE PHOTOSYNTHESIS OCCUR", "output": "Where does photosynthesis occur?"}
+{"input": "WHERE TRANSPIRATION OCCUR", "output": "Where does transpiration occur?"}
+{"input": "WHERE FOOD STORED PLANT", "output": "Where is food stored in plants?"}
+{"input": "WHERE WATER ABSORBED", "output": "Where is water absorbed?"}
+{"input": "WHERE PLANT GROW", "output": "Where do plants grow?"}
+
+{"input": "HOW PHOTOSYNTHESIS OCCUR", "output": "How does photosynthesis occur?"}
+{"input": "HOW TRANSPIRATION OCCUR", "output": "How does transpiration occur?"}
+{"input": "HOW WATER TRANSPORT PLANT", "output": "How is water transported in plants?"}
+{"input": "HOW FOOD PREPARED PLANT", "output": "How is food prepared in plants?"}
+{"input": "HOW SEED GERMINATE", "output": "How does a seed germinate?"}
+{"input": "HOW PLANT REPRODUCE", "output": "How do plants reproduce?"}
+{"input": "HOW POLLINATION OCCUR", "output": "How does pollination occur?"}
+{"input": "HOW FERTILIZATION OCCUR PLANT", "output": "How does fertilization occur in plants?"}
+{"input": "HOW PLANT RESPIRATION OCCUR", "output": "How does respiration occur in plants?"}
+{"input": "HOW PLANT ADAPT", "output": "How do plants adapt?"}
+
+{"input": "WHEN PHOTOSYNTHESIS FAST", "output": "When is photosynthesis fast?"}
+{"input": "WHEN GERMINATION START", "output": "When does germination start?"}
+{"input": "WHEN FLOWERING OCCUR", "output": "When does flowering occur?"}
+{"input": "WHEN FRUIT FORM", "output": "When does fruit formation occur?"}
+{"input": "WHEN SEED DISPERSE", "output": "When does seed dispersal occur?"}
+{"input": "WHEN PLANT GROW FAST", "output": "When do plants grow fast?"}
+{"input": "WHEN TRANSPIRATION HIGH", "output": "When is transpiration high?"}
+{"input": "WHEN PLANT DIE", "output": "When does a plant die?"}
+{"input": "WHEN WATER NEED PLANT", "output": "When do plants need water?"}
+{"input": "WHEN SUNLIGHT NEEDED", "output": "When is sunlight needed?"}
+
+{"input": "WHAT IS ANIMAL", "output": "What is an animal?"}
+{"input": "WHAT IS VERTEBRATE", "output": "What is a vertebrate?"}
+{"input": "WHAT IS INVERTEBRATE", "output": "What is an invertebrate?"}
+{"input": "WHAT IS HERBIVORE", "output": "What is a herbivore?"}
+{"input": "WHAT IS CARNIVORE", "output": "What is a carnivore?"}
+{"input": "WHAT IS OMNIVORE", "output": "What is an omnivore?"}
+{"input": "WHAT IS HABITAT", "output": "What is a habitat?"}
+{"input": "WHAT IS ADAPTATION", "output": "What is adaptation?"}
+{"input": "WHAT IS CAMOUFLAGE", "output": "What is camouflage?"}
+{"input": "WHAT IS MIGRATION", "output": "What is migration?"}
+
+{"input": "WHERE ANIMALS LIVE", "output": "Where do animals live?"}
+{"input": "WHERE VERTEBRATES FOUND", "output": "Where are vertebrates found?"}
+{"input": "WHERE INVERTEBRATES FOUND", "output": "Where are invertebrates found?"}
+{"input": "WHERE HABITAT FOUND", "output": "Where is a habitat found?"}
+{"input": "WHERE HERBIVORES LIVE", "output": "Where do herbivores live?"}
+{"input": "WHERE CARNIVORES LIVE", "output": "Where do carnivores live?"}
+{"input": "WHERE OMNIVORES LIVE", "output": "Where do omnivores live?"}
+{"input": "WHERE CAMOUFLAGE USED", "output": "Where is camouflage used?"}
+{"input": "WHERE MIGRATION SEEN", "output": "Where is migration seen?"}
+{"input": "WHERE ADAPTATION SEEN", "output": "Where is adaptation seen?"}
+
+{"input": "HOW ANIMALS MOVE", "output": "How do animals move?"}
+{"input": "HOW ANIMALS BREATHE", "output": "How do animals breathe?"}
+{"input": "HOW ANIMALS FEED", "output": "How do animals feed?"}
+{"input": "HOW ANIMALS REPRODUCE", "output": "How do animals reproduce?"}
+{"input": "HOW ADAPTATION HELP ANIMAL", "output": "How does adaptation help animals?"}
+{"input": "HOW CAMOUFLAGE HELP", "output": "How does camouflage help animals?"}
+{"input": "HOW MIGRATION HELP", "output": "How does migration help animals?"}
+{"input": "HOW ANIMALS COMMUNICATE", "output": "How do animals communicate?"}
+{"input": "HOW ANIMALS SURVIVE", "output": "How do animals survive?"}
+{"input": "HOW FOOD CHAIN WORK", "output": "How does a food chain work?"}
+
+{"input": "WHEN ANIMALS MOVE", "output": "When do animals move?"}
+{"input": "WHEN ANIMALS MIGRATE", "output": "When do animals migrate?"}
+{"input": "WHEN ADAPTATION NEEDED", "output": "When is adaptation needed?"}
+{"input": "WHEN CAMOUFLAGE USED", "output": "When is camouflage used?"}
+{"input": "WHEN HABITAT CHANGE", "output": "When does habitat change?"}
+{"input": "WHEN FOOD SHORTAGE", "output": "When is food shortage seen?"}
+{"input": "WHEN ANIMALS REPRODUCE", "output": "When do animals reproduce?"}
+{"input": "WHEN LIFE CYCLE COMPLETE", "output": "When is the life cycle complete?"}
+{"input": "WHEN ANIMAL DIE", "output": "When does an animal die?"}
+{"input": "WHEN BALANCE DISTURBED", "output": "When is ecological balance disturbed?"}
+{"input": "WHAT IS BOTANY", "output": "What is botany?"}
+{"input": "WHAT IS PLANT", "output": "What is a plant?"}
+{"input": "WHAT IS ROOT", "output": "What is a root?"}
+{"input": "WHAT IS STEM", "output": "What is a stem?"}
+{"input": "WHAT IS LEAF", "output": "What is a leaf?"}
+{"input": "WHAT IS FLOWER", "output": "What is a flower?"}
+{"input": "WHAT IS FRUIT", "output": "What is a fruit?"}
+{"input": "WHAT IS SEED", "output": "What is a seed?"}
+{"input": "WHAT IS PLANT CELL", "output": "What is a plant cell?"}
+{"input": "WHAT IS CHLOROPHYLL", "output": "What is chlorophyll?"}
+
+{"input": "WHERE ROOT FOUND", "output": "Where are roots found?"}
+{"input": "WHERE STEM FOUND", "output": "Where is the stem found?"}
+{"input": "WHERE LEAF FOUND", "output": "Where are leaves found?"}
+{"input": "WHERE FLOWER FOUND", "output": "Where is a flower found?"}
+{"input": "WHERE SEED FOUND", "output": "Where is a seed found?"}
+{"input": "WHERE PLANT CELL FOUND", "output": "Where are plant cells found?"}
+{"input": "WHERE CHLOROPHYLL FOUND", "output": "Where is chlorophyll found?"}
+{"input": "WHERE FOOD STORED PLANT", "output": "Where is food stored in plants?"}
+{"input": "WHERE WATER ABSORBED PLANT", "output": "Where is water absorbed in plants?"}
+{"input": "WHERE PHOTOSYNTHESIS OCCUR", "output": "Where does photosynthesis occur?"}
+
+{"input": "HOW ROOT ABSORB WATER", "output": "How do roots absorb water?"}
+{"input": "HOW STEM SUPPORT PLANT", "output": "How does the stem support the plant?"}
+{"input": "HOW LEAF MAKE FOOD", "output": "How do leaves make food?"}
+{"input": "HOW FLOWER FORM SEED", "output": "How does a flower form seeds?"}
+{"input": "HOW SEED GERMINATE", "output": "How does a seed germinate?"}
+{"input": "HOW PLANT CELL DIFFER", "output": "How is a plant cell different from an animal cell?"}
+{"input": "HOW CHLOROPHYLL HELP", "output": "How does chlorophyll help plants?"}
+{"input": "HOW FOOD TRANSPORT PLANT", "output": "How is food transported in plants?"}
+{"input": "HOW WATER TRANSPORT PLANT", "output": "How is water transported in plants?"}
+{"input": "HOW PHOTOSYNTHESIS OCCUR", "output": "How does photosynthesis occur?"}
+
+{"input": "WHEN SEED GERMINATE", "output": "When does a seed germinate?"}
+{"input": "WHEN PLANT GROW FAST", "output": "When do plants grow fast?"}
+{"input": "WHEN FLOWERING OCCUR", "output": "When does flowering occur?"}
+{"input": "WHEN FRUIT FORM", "output": "When does fruit formation occur?"}
+{"input": "WHEN LEAF FALL", "output": "When do leaves fall?"}
+{"input": "WHEN PHOTOSYNTHESIS FAST", "output": "When is photosynthesis fast?"}
+{"input": "WHEN TRANSPIRATION HIGH", "output": "When is transpiration high?"}
+{"input": "WHEN PLANT DIE", "output": "When does a plant die?"}
+{"input": "WHEN WATER NEED PLANT", "output": "When do plants need water?"}
+{"input": "WHEN SUNLIGHT NEEDED", "output": "When is sunlight needed for plants?"}
+
+{"input": "WHAT IS PHOTOSYNTHESIS", "output": "What is photosynthesis?"}
+{"input": "WHAT IS TRANSPIRATION", "output": "What is transpiration?"}
+{"input": "WHAT IS RESPIRATION PLANT", "output": "What is respiration in plants?"}
+{"input": "WHAT IS GERMINATION", "output": "What is germination?"}
+{"input": "WHAT IS POLLINATION", "output": "What is pollination?"}
+{"input": "WHAT IS FERTILIZATION PLANT", "output": "What is fertilization in plants?"}
+{"input": "WHAT IS VEGETATIVE PROPAGATION", "output": "What is vegetative propagation?"}
+{"input": "WHAT IS ASEXUAL REPRODUCTION PLANT", "output": "What is asexual reproduction in plants?"}
+{"input": "WHAT IS SEXUAL REPRODUCTION PLANT", "output": "What is sexual reproduction in plants?"}
+{"input": "WHAT IS SEED DISPERSAL", "output": "What is seed dispersal?"}
+
+{"input": "WHERE TRANSPIRATION OCCUR", "output": "Where does transpiration occur?"}
+{"input": "WHERE POLLINATION OCCUR", "output": "Where does pollination occur?"}
+{"input": "WHERE FERTILIZATION OCCUR PLANT", "output": "Where does fertilization occur in plants?"}
+{"input": "WHERE VEGETATIVE PROPAGATION SEEN", "output": "Where is vegetative propagation seen?"}
+{"input": "WHERE ASEXUAL REPRODUCTION SEEN", "output": "Where is asexual reproduction seen in plants?"}
+{"input": "WHERE SEXUAL REPRODUCTION SEEN", "output": "Where is sexual reproduction seen in plants?"}
+{"input": "WHERE SEED DISPERSAL SEEN", "output": "Where is seed dispersal seen?"}
+{"input": "WHERE PLANT RESPIRATION OCCUR", "output": "Where does respiration occur in plants?"}
+{"input": "WHERE GAS EXCHANGE PLANT", "output": "Where does gas exchange occur in plants?"}
+{"input": "WHERE STOMATA FOUND", "output": "Where are stomata found?"}
+
+{"input": "HOW TRANSPIRATION HELP PLANT", "output": "How does transpiration help plants?"}
+{"input": "HOW POLLINATION HELP", "output": "How does pollination help plants reproduce?"}
+{"input": "HOW FERTILIZATION OCCUR", "output": "How does fertilization occur in plants?"}
+{"input": "HOW VEGETATIVE PROPAGATION DONE", "output": "How is vegetative propagation done?"}
+{"input": "HOW SEED DISPERSE", "output": "How are seeds dispersed?"}
+{"input": "HOW WIND HELP DISPERSAL", "output": "How does wind help in seed dispersal?"}
+{"input": "HOW WATER HELP DISPERSAL", "output": "How does water help in seed dispersal?"}
+{"input": "HOW ANIMALS HELP DISPERSAL", "output": "How do animals help in seed dispersal?"}
+{"input": "HOW PLANTS ADAPT", "output": "How do plants adapt to their environment?"}
+{"input": "HOW PLANTS SURVIVE", "output": "How do plants survive?"}
+
+{"input": "WHEN POLLINATION OCCUR", "output": "When does pollination occur?"}
+{"input": "WHEN FERTILIZATION COMPLETE", "output": "When is fertilization complete in plants?"}
+{"input": "WHEN SEED DISPERSAL OCCUR", "output": "When does seed dispersal occur?"}
+{"input": "WHEN VEGETATIVE PROPAGATION USED", "output": "When is vegetative propagation used?"}
+{"input": "WHEN PLANT REPRODUCE", "output": "When do plants reproduce?"}
+{"input": "WHEN STOMATA OPEN", "output": "When do stomata open?"}
+{"input": "WHEN STOMATA CLOSE", "output": "When do stomata close?"}
+{"input": "WHEN TRANSPIRATION LOW", "output": "When is transpiration low?"}
+{"input": "WHEN PHOTOSYNTHESIS STOP", "output": "When does photosynthesis stop?"}
+{"input": "WHEN PLANT DORMANT", "output": "When do plants become dormant?"}
+{"input":"WHAT IS CHEMISTRY","output":"What is chemistry?"}
+{"input":"WHAT IS MATTER","output":"What is matter?"}
+{"input":"WHAT IS ATOM","output":"What is an atom?"}
+{"input":"WHAT IS MOLECULE","output":"What is a molecule?"}
+{"input":"WHAT IS ELEMENT","output":"What is an element?"}
+{"input":"WHAT IS COMPOUND","output":"What is a compound?"}
+{"input":"WHAT IS MIXTURE","output":"What is a mixture?"}
+{"input":"WHAT IS PURE SUBSTANCE","output":"What is a pure substance?"}
+{"input":"WHAT IS CHEMICAL CHANGE","output":"What is a chemical change?"}
+{"input":"WHAT IS PHYSICAL CHANGE","output":"What is a physical change?"}
+
+{"input":"WHAT IS SOLID","output":"What is a solid?"}
+{"input":"WHAT IS LIQUID","output":"What is a liquid?"}
+{"input":"WHAT IS GAS","output":"What is a gas?"}
+{"input":"WHAT IS PLASMA","output":"What is plasma?"}
+{"input":"WHAT IS EVAPORATION","output":"What is evaporation?"}
+{"input":"WHAT IS CONDENSATION","output":"What is condensation?"}
+{"input":"WHAT IS SUBLIMATION","output":"What is sublimation?"}
+{"input":"WHAT IS FREEZING","output":"What is freezing?"}
+{"input":"WHAT IS MELTING","output":"What is melting?"}
+{"input":"WHAT IS BOILING","output":"What is boiling?"}
+
+{"input":"WHERE ATOMS FOUND","output":"Where are atoms found?"}
+{"input":"WHERE MOLECULES FOUND","output":"Where are molecules found?"}
+{"input":"WHERE ELEMENTS FOUND","output":"Where are elements found?"}
+{"input":"WHERE COMPOUNDS FOUND","output":"Where are compounds found?"}
+{"input":"WHERE SOLIDS FOUND","output":"Where are solids found?"}
+{"input":"WHERE LIQUIDS FOUND","output":"Where are liquids found?"}
+{"input":"WHERE GASES FOUND","output":"Where are gases found?"}
+{"input":"WHERE PLASMA FOUND","output":"Where is plasma found?"}
+{"input":"WHERE CHEMICAL REACTION OCCUR","output":"Where does a chemical reaction occur?"}
+{"input":"WHERE MIXTURES USED","output":"Where are mixtures used?"}
+
+{"input":"HOW ATOMS COMBINE","output":"How do atoms combine?"}
+{"input":"HOW MOLECULE FORM","output":"How do molecules form?"}
+{"input":"HOW CHEMICAL CHANGE OCCUR","output":"How does a chemical change occur?"}
+{"input":"HOW PHYSICAL CHANGE OCCUR","output":"How does a physical change occur?"}
+{"input":"HOW SOLID CHANGE LIQUID","output":"How does a solid change into a liquid?"}
+{"input":"HOW LIQUID CHANGE GAS","output":"How does a liquid change into a gas?"}
+{"input":"HOW GAS CHANGE LIQUID","output":"How does a gas change into a liquid?"}
+{"input":"HOW MIXTURE SEPARATE","output":"How can a mixture be separated?"}
+{"input":"HOW SOLUTION FORM","output":"How is a solution formed?"}
+{"input":"HOW SOLUTE DISSOLVE","output":"How does a solute dissolve?"}
+
+{"input":"WHEN EVAPORATION FAST","output":"When is evaporation fast?"}
+{"input":"WHEN BOILING OCCUR","output":"When does boiling occur?"}
+{"input":"WHEN CONDENSATION OCCUR","output":"When does condensation occur?"}
+{"input":"WHEN FREEZING OCCUR","output":"When does freezing occur?"}
+{"input":"WHEN SUBLIMATION OCCUR","output":"When does sublimation occur?"}
+{"input":"WHEN CHEMICAL REACTION START","output":"When does a chemical reaction start?"}
+{"input":"WHEN PHYSICAL CHANGE REVERSIBLE","output":"When is a physical change reversible?"}
+{"input":"WHEN CHEMICAL CHANGE IRREVERSIBLE","output":"When is a chemical change irreversible?"}
+{"input":"WHEN SOLUTION SATURATED","output":"When is a solution saturated?"}
+{"input":"WHEN MIXTURE HOMOGENEOUS","output":"When is a mixture homogeneous?"}
+
+{"input":"WHAT IS SOLUTION","output":"What is a solution?"}
+{"input":"WHAT IS SOLUTE","output":"What is a solute?"}
+{"input":"WHAT IS SOLVENT","output":"What is a solvent?"}
+{"input":"WHAT IS SUSPENSION","output":"What is a suspension?"}
+{"input":"WHAT IS COLLOID","output":"What is a colloid?"}
+{"input":"WHAT IS ALLOY","output":"What is an alloy?"}
+{"input":"WHAT IS ACID","output":"What is an acid?"}
+{"input":"WHAT IS BASE","output":"What is a base?"}
+{"input":"WHAT IS SALT","output":"What is a salt?"}
+{"input":"WHAT IS PH SCALE","output":"What is the pH scale?"}
+
+{"input":"WHERE ACIDS FOUND","output":"Where are acids found?"}
+{"input":"WHERE BASES FOUND","output":"Where are bases found?"}
+{"input":"WHERE SALTS FOUND","output":"Where are salts found?"}
+{"input":"WHERE SOLUTIONS USED","output":"Where are solutions used?"}
+{"input":"WHERE ALLOYS USED","output":"Where are alloys used?"}
+{"input":"WHERE PH SCALE USED","output":"Where is the pH scale used?"}
+{"input":"WHERE NEUTRALIZATION OCCUR","output":"Where does neutralization occur?"}
+{"input":"WHERE CHEMISTRY USED DAILY","output":"Where is chemistry used in daily life?"}
+{"input":"WHERE CORROSION OCCUR","output":"Where does corrosion occur?"}
+{"input":"WHERE RUSTING OCCUR","output":"Where does rusting occur?"}
+
+{"input":"HOW ACID REACT BASE","output":"How does an acid react with a base?"}
+{"input":"HOW SALT FORM","output":"How is salt formed?"}
+{"input":"HOW PH MEASURE","output":"How is pH measured?"}
+{"input":"HOW NEUTRALIZATION OCCUR","output":"How does neutralization occur?"}
+{"input":"HOW RUST FORM","output":"How does rust form?"}
+{"input":"HOW CORROSION PREVENT","output":"How can corrosion be prevented?"}
+{"input":"HOW METALS REACT","output":"How do metals react?"}
+{"input":"HOW NONMETALS REACT","output":"How do non-metals react?"}
+{"input":"HOW ALLOY PREPARED","output":"How are alloys prepared?"}
+{"input":"HOW CHEMICAL ENERGY USED","output":"How is chemical energy used?"}
+
+{"input":"WHEN ACID STRONG","output":"When is an acid strong?"}
+{"input":"WHEN BASE STRONG","output":"When is a base strong?"}
+{"input":"WHEN NEUTRAL SOLUTION","output":"When is a solution neutral?"}
+{"input":"WHEN RUSTING FAST","output":"When is rusting fast?"}
+{"input":"WHEN CORROSION SLOW","output":"When is corrosion slow?"}
+{"input":"WHEN METAL REACTIVE","output":"When is a metal reactive?"}
+{"input":"WHEN NONMETAL REACTIVE","output":"When is a non-metal reactive?"}
+{"input":"WHEN CHEMICAL CHANGE USEFUL","output":"When is a chemical change useful?"}
+{"input":"WHEN CHEMICAL CHANGE HARMFUL","output":"When is a chemical change harmful?"}
+{"input":"WHEN CHEMISTRY IMPORTANT","output":"When is chemistry important in life?"}
+
+{"input":"WHY CHEMISTRY IMPORTANT","output":"Why is chemistry important?"}
+{"input":"WHY METALS CONDUCT","output":"Why do metals conduct electricity?"}
+{"input":"WHY NONMETALS INSULATE","output":"Why are non-metals insulators?"}
+{"input":"WHY RUSTING OCCUR","output":"Why does rusting occur?"}
+{"input":"WHY CORROSION HARMFUL","output":"Why is corrosion harmful?"}
+{"input":"WHY ACIDS SOUR","output":"Why are acids sour?"}
+{"input":"WHY BASES BITTER","output":"Why are bases bitter?"}
+{"input":"WHY PH SCALE IMPORTANT","output":"Why is the pH scale important?"}
+{"input":"WHY ALLOYS USED","output":"Why are alloys used?"}
+{"input":"WHY CHEMICAL REACTION NEED ENERGY","output":"Why do some chemical reactions need energy?"}
+{"input":"WHAT IS ENVIRONMENT","output":"What is the environment?"}
+{"input":"WHAT IS ECOSYSTEM","output":"What is an ecosystem?"}
+{"input":"WHAT IS BIOTIC","output":"What are biotic components?"}
+{"input":"WHAT IS ABIOTIC","output":"What are abiotic components?"}
+{"input":"WHAT IS NATURAL ENVIRONMENT","output":"What is the natural environment?"}
+{"input":"WHAT IS MAN MADE ENVIRONMENT","output":"What is the man-made environment?"}
+{"input":"WHAT IS BIOSPHERE","output":"What is the biosphere?"}
+{"input":"WHAT IS LITHOSPHERE","output":"What is the lithosphere?"}
+{"input":"WHAT IS HYDROSPHERE","output":"What is the hydrosphere?"}
+{"input":"WHAT IS ATMOSPHERE","output":"What is the atmosphere?"}
+
+{"input":"WHERE LIVING ORGANISMS FOUND","output":"Where are living organisms found?"}
+{"input":"WHERE ECOSYSTEM FOUND","output":"Where are ecosystems found?"}
+{"input":"WHERE FOREST FOUND","output":"Where are forests found?"}
+{"input":"WHERE DESERT FOUND","output":"Where are deserts found?"}
+{"input":"WHERE GRASSLAND FOUND","output":"Where are grasslands found?"}
+{"input":"WHERE AQUATIC ECOSYSTEM FOUND","output":"Where are aquatic ecosystems found?"}
+{"input":"WHERE MARINE ECOSYSTEM FOUND","output":"Where are marine ecosystems found?"}
+{"input":"WHERE FRESHWATER FOUND","output":"Where is freshwater found?"}
+{"input":"WHERE ATMOSPHERE FOUND","output":"Where is the atmosphere found?"}
+{"input":"WHERE BIOSPHERE FOUND","output":"Where is the biosphere found?"}
+
+{"input":"HOW ECOSYSTEM WORK","output":"How does an ecosystem work?"}
+{"input":"HOW PLANTS HELP ENVIRONMENT","output":"How do plants help the environment?"}
+{"input":"HOW ANIMALS DEPEND ENVIRONMENT","output":"How do animals depend on the environment?"}
+{"input":"HOW HUMANS AFFECT ENVIRONMENT","output":"How do humans affect the environment?"}
+{"input":"HOW WATER CYCLE WORK","output":"How does the water cycle work?"}
+{"input":"HOW CARBON CYCLE WORK","output":"How does the carbon cycle work?"}
+{"input":"HOW OXYGEN CYCLE WORK","output":"How does the oxygen cycle work?"}
+{"input":"HOW NITROGEN CYCLE WORK","output":"How does the nitrogen cycle work?"}
+{"input":"HOW ENERGY FLOW ECOSYSTEM","output":"How does energy flow in an ecosystem?"}
+{"input":"HOW FOOD CHAIN WORK","output":"How does a food chain work?"}
+
+{"input":"WHEN ECOSYSTEM BALANCED","output":"When is an ecosystem balanced?"}
+{"input":"WHEN ECOSYSTEM DISTURBED","output":"When is an ecosystem disturbed?"}
+{"input":"WHEN DROUGHT OCCUR","output":"When does drought occur?"}
+{"input":"WHEN FLOOD OCCUR","output":"When does a flood occur?"}
+{"input":"WHEN SEASONS CHANGE","output":"When do seasons change?"}
+{"input":"WHEN CLIMATE CHANGE NOTICEABLE","output":"When is climate change noticeable?"}
+{"input":"WHEN POLLUTION INCREASE","output":"When does pollution increase?"}
+{"input":"WHEN DEFORESTATION OCCUR","output":"When does deforestation occur?"}
+{"input":"WHEN CONSERVATION NEEDED","output":"When is conservation needed?"}
+{"input":"WHEN NATURAL DISASTER OCCUR","output":"When do natural disasters occur?"}
+
+{"input":"WHAT IS FOOD CHAIN","output":"What is a food chain?"}
+{"input":"WHAT IS FOOD WEB","output":"What is a food web?"}
+{"input":"WHAT IS PRODUCER","output":"What is a producer?"}
+{"input":"WHAT IS CONSUMER","output":"What is a consumer?"}
+{"input":"WHAT IS DECOMPOSER","output":"What is a decomposer?"}
+{"input":"WHAT IS HERBIVORE","output":"What is a herbivore?"}
+{"input":"WHAT IS CARNIVORE","output":"What is a carnivore?"}
+{"input":"WHAT IS OMNIVORE","output":"What is an omnivore?"}
+{"input":"WHAT IS BIODIVERSITY","output":"What is biodiversity?"}
+{"input":"WHAT IS HABITAT","output":"What is a habitat?"}
+
+{"input":"WHERE PRODUCERS FOUND","output":"Where are producers found?"}
+{"input":"WHERE CONSUMERS FOUND","output":"Where are consumers found?"}
+{"input":"WHERE DECOMPOSERS FOUND","output":"Where are decomposers found?"}
+{"input":"WHERE FOOD CHAIN FOUND","output":"Where is a food chain found?"}
+{"input":"WHERE BIODIVERSITY HIGH","output":"Where is biodiversity high?"}
+{"input":"WHERE HABITAT DESTROYED","output":"Where is habitat destroyed?"}
+{"input":"WHERE ENDANGERED SPECIES FOUND","output":"Where are endangered species found?"}
+{"input":"WHERE NATIONAL PARK FOUND","output":"Where are national parks found?"}
+{"input":"WHERE WILDLIFE SANCTUARY FOUND","output":"Where are wildlife sanctuaries found?"}
+{"input":"WHERE CONSERVATION PRACTICED","output":"Where is conservation practiced?"}
+
+{"input":"HOW BIODIVERSITY MAINTAINED","output":"How is biodiversity maintained?"}
+{"input":"HOW HABITAT PROTECTED","output":"How can habitats be protected?"}
+{"input":"HOW ENDANGERED SPECIES SAVED","output":"How can endangered species be saved?"}
+{"input":"HOW NATIONAL PARK HELP","output":"How do national parks help the environment?"}
+{"input":"HOW WILDLIFE SANCTUARY HELP","output":"How do wildlife sanctuaries help?"}
+{"input":"HOW CONSERVATION DONE","output":"How is conservation done?"}
+{"input":"HOW POLLUTION CONTROL","output":"How can pollution be controlled?"}
+{"input":"HOW PLANTATION HELP","output":"How does plantation help the environment?"}
+{"input":"HOW RECYCLE HELP","output":"How does recycling help the environment?"}
+{"input":"HOW REUSE HELP","output":"How does reuse help the environment?"}
+
+{"input":"WHEN BIODIVERSITY LOST","output":"When is biodiversity lost?"}
+{"input":"WHEN HABITAT FRAGMENTED","output":"When is habitat fragmented?"}
+{"input":"WHEN SPECIES EXTINCT","output":"When does a species become extinct?"}
+{"input":"WHEN CONSERVATION SUCCESSFUL","output":"When is conservation successful?"}
+{"input":"WHEN POLLUTION HARMFUL","output":"When is pollution harmful?"}
+{"input":"WHEN AIR QUALITY POOR","output":"When is air quality poor?"}
+{"input":"WHEN WATER POLLUTED","output":"When is water polluted?"}
+{"input":"WHEN SOIL DEGRADE","output":"When does soil degrade?"}
+{"input":"WHEN FOREST COVER REDUCE","output":"When does forest cover reduce?"}
+{"input":"WHEN ENVIRONMENT PROTECTED","output":"When is the environment protected?"}
+
+{"input":"WHAT IS POLLUTION","output":"What is pollution?"}
+{"input":"WHAT IS AIR POLLUTION","output":"What is air pollution?"}
+{"input":"WHAT IS WATER POLLUTION","output":"What is water pollution?"}
+{"input":"WHAT IS SOIL POLLUTION","output":"What is soil pollution?"}
+{"input":"WHAT IS NOISE POLLUTION","output":"What is noise pollution?"}
+{"input":"WHAT IS GLOBAL WARMING","output":"What is global warming?"}
+{"input":"WHAT IS CLIMATE CHANGE","output":"What is climate change?"}
+{"input":"WHAT IS GREENHOUSE EFFECT","output":"What is the greenhouse effect?"}
+{"input":"WHAT IS OZONE LAYER","output":"What is the ozone layer?"}
+{"input":"WHAT IS ACID RAIN","output":"What is acid rain?"}
+
+{"input":"WHY ENVIRONMENT IMPORTANT","output":"Why is the environment important?"}
+{"input":"WHY BIODIVERSITY IMPORTANT","output":"Why is biodiversity important?"}
+{"input":"WHY CONSERVATION IMPORTANT","output":"Why is conservation important?"}
+{"input":"WHY POLLUTION DANGEROUS","output":"Why is pollution dangerous?"}
+{"input":"WHY GLOBAL WARMING HARMFUL","output":"Why is global warming harmful?"}
+{"input":"WHY CLIMATE CHANGE SERIOUS","output":"Why is climate change serious?"}
+{"input":"WHY OZONE LAYER IMPORTANT","output":"Why is the ozone layer important?"}
+{"input":"WHY TREES IMPORTANT","output":"Why are trees important?"}
+{"input":"WHY SAVE WATER","output":"Why should we save water?"}
+{"input":"WHY PROTECT WILDLIFE","output":"Why should wildlife be protected?"}
+{"input": "WHAT YOUR NAME", "output": "What is your name?"}
+{"input": "I HUNGRY", "output": "I am hungry."}
+{"input": "WHERE SCHOOL", "output": "Where is the school?"}
+{"input": "I GO MARKET TODAY", "output": "I am going to the market today."}
+{"input": "APPLE RED", "output": "The apple is red."}
+{"input": "I LIKE ICE CREAM", "output": "I like ice cream."}
+{"input": "HOW OLD YOU", "output": "How old are you?"}
+{"input": "I SLEEP NOW", "output": "I am going to sleep now."}
+{"input": "FATHER WORK HOSPITAL", "output": "My father works at the hospital."}
+{"input": "I GO SCHOOL BY BUS", "output": "I go to school by bus."}
+{"input": "DOG BIG", "output": "The dog is big."}
+{"input": "I READ BOOK", "output": "I am reading a book."}
+{"input": "WHERE YOU LIVE", "output": "Where do you live?"}
+{"input": "I LIKE MUSIC", "output": "I like music."}
+{"input": "I DRINK WATER", "output": "I am drinking water."}
+{"input": "MOTHER COOK FOOD", "output": "My mother is cooking food."}
+{"input": "I PLAY FOOTBALL", "output": "I play football."}
+{"input": "I GO PARK", "output": "I am going to the park."}
+{"input": "CAT WHITE", "output": "The cat is white."}
+{"input": "I WRITE LETTER", "output": "I am writing a letter."}
+{"input": "WE GO MARKET", "output": "We are going to the market."}
+{"input": "SUN BRIGHT", "output": "The sun is bright."}
+{"input": "I WATCH TV", "output": "I am watching TV."}
+{"input": "I CLEAN ROOM", "output": "I am cleaning my room."}
+{"input": "BIRDS FLY", "output": "Birds are flying."}
+{"input": "I EAT RICE", "output": "I am eating rice."}
+{"input": "HE WORK OFFICE", "output": "He works in the office."}
+{"input": "I WRITE ESSAY", "output": "I am writing an essay."}
+{"input": "I GO MARKET TOMORROW", "output": "I will go to the market tomorrow."}
+{"input": "RAIN HEAVY", "output": "It is raining heavily."}
+{"input": "I READ NEWSPAPER", "output": "I am reading the newspaper."}
+{"input": "I PLAY CHESS", "output": "I play chess."}
+{"input": "I GO SCHOOL DAILY", "output": "I go to school every day."}
+{"input": "FLOWER RED", "output": "The flower is red."}
+{"input": "I DRINK MILK", "output": "I am drinking milk."}
+{"input": "I CLEAN HOUSE", "output": "I am cleaning the house."}
+{"input": "I LIKE COFFEE", "output": "I like coffee."}
+{"input": "I WATCH MOVIE", "output": "I am watching a movie."}
+{"input": "HE RUN FAST", "output": "He runs fast."}
+{"input": "I SWIM POOL", "output": "I am swimming in the pool."}
+{"input": "I WRITE EMAIL", "output": "I am writing an email."}
+{"input": "I GO SCHOOL BY CAR", "output": "I go to school by car."}
+{"input": "MOTHER BUY FRUIT", "output": "My mother buys fruit."}
+{"input": "I EAT BREAD", "output": "I am eating bread."}
+{"input": "WE PLAY VOLLEYBALL", "output": "We play volleyball."}
+{"input": "I WATCH NEWS", "output": "I am watching the news."}
+{"input": "I GO MARKET NOW", "output": "I am going to the market now."}
+{"input": "HE EAT APPLE", "output": "He is eating an apple."}
+{"input": "I CLEAN TABLE", "output": "I am cleaning the table."}
+{"input": "I READ STORY", "output": "I am reading a story."}
+{"input": "I DRINK JUICE", "output": "I am drinking juice."}
+{"input": "I PLAY BADMINTON", "output": "I play badminton."}
+{"input": "I GO SCHOOL TODAY", "output": "I am going to school today."}
+{"input": "DOG BLACK", "output": "The dog is black."}
+{"input": "I WRITE DIARY", "output": "I am writing in my diary."}
+{"input": "HE GO OFFICE", "output": "He goes to the office."}
+{"input": "I GO SHOPPING", "output": "I am going shopping."}
+{"input": "WE EAT DINNER", "output": "We are eating dinner."}
+{"input": "I PLAY GUITAR", "output": "I play the guitar."}
+{"input": "I WATCH CARTOON", "output": "I am watching a cartoon."}
+{"input": "SHE RUN PARK", "output": "She is running in the park."}
+{"input": "I CLEAN WINDOW", "output": "I am cleaning the window."}
+{"input": "I READ BOOK DAILY", "output": "I read books daily."}
+{"input": "I DRINK TEA", "output": "I am drinking tea."}
+{"input": "I GO MARKET WEEKEND", "output": "I will go to the market on the weekend."}
+{"input": "I PLAY CRICKET", "output": "I play cricket."}
+{"input": "I WATCH MOVIE NIGHT", "output": "I watch a movie at night."}
+{"input": "I WRITE HOMEWORK", "output": "I am writing my homework."}
+{"input": "I CLEAN KITCHEN", "output": "I am cleaning the kitchen."}
+{"input": "HE EAT RICE", "output": "He is eating rice."}
+{"input": "I PLAY TENNIS", "output": "I play tennis."}
+{"input": "I GO SCHOOL TOMORROW", "output": "I will go to school tomorrow."}
+{"input": "I DRINK COFFEE", "output": "I am drinking coffee."}
+{"input": "I READ NOVEL", "output": "I am reading a novel."}
+{"input": "I WATCH TV NOW", "output": "I am watching TV now."}
+{"input": "WE GO PARK TODAY", "output": "We are going to the park today."}
+{"input": "I WRITE LETTER NOW", "output": "I am writing a letter now."}
+{"input": "HE GO MARKET", "output": "He is going to the market."}
+{"input": "I CLEAN ROOM NOW", "output": "I am cleaning my room now."}
+{"input": "I PLAY FOOTBALL TODAY", "output": "I am playing football today."}
+{"input": "I GO SCHOOL BY BIKE", "output": "I go to school by bike."}
+{"input": "I DRINK WATER NOW", "output": "I am drinking water now."}
+{"input": "SHE READ BOOK", "output": "She is reading a book."}
+{"input": "I WATCH MOVIE TODAY", "output": "I am watching a movie today."}
+{"input": "I PLAY CHESS NOW", "output": "I am playing chess now."}
+{"input": "WE GO MARKET NOW", "output": "We are going to the market now."}
+{"input": "I CLEAN HOUSE NOW", "output": "I am cleaning the house now."}
+{"input": "I EAT RICE NOW", "output": "I am eating rice now."}
+{"input": "I WRITE EMAIL NOW", "output": "I am writing an email now."}
+{"input": "I WATCH NEWS NOW", "output": "I am watching the news now."}
+{"input": "I PLAY GUITAR NOW", "output": "I am playing the guitar now."}
+{"input": "I READ STORY NOW", "output": "I am reading a story now."}
+{"input": "I GO SHOPPING NOW", "output": "I am going shopping now."}
+{"input": "I PLAY BADMINTON NOW", "output": "I am playing badminton now."}
+{"input": "I CLEAN TABLE NOW", "output": "I am cleaning the table now."}
+{"input": "I WATCH CARTOON NOW", "output": "I am watching a cartoon now."}
+{"input": "I WRITE DIARY NOW", "output": "I am writing in my diary now."}
+{"input": "I PLAY CRICKET NOW", "output": "I am playing cricket now."}
+{"input": "I DRINK TEA NOW", "output": "I am drinking tea now."}
+{"input": "I PLAY TENNIS NOW", "output": "I am playing tennis now."}
+{"input": "I READ NOVEL NOW", "output": "I am reading a novel now."}
+{"input": "I CLEAN KITCHEN NOW", "output": "I am cleaning the kitchen now."}
+{"input": "I WATCH TV NIGHT", "output": "I watch TV at night."}
+{"input": "I GO SCHOOL MONDAY", "output": "I go to school on Monday."}
+{"input": "I GO MARKET MONDAY", "output": "I will go to the market on Monday."}
+{"input": "I PLAY FOOTBALL NIGHT", "output": "I play football at night."}
+{"input": "I WRITE HOMEWORK NIGHT", "output": "I am writing homework at night."}
+{"input": "I EAT BREAD NOW", "output": "I am eating bread now."}
+{"input": "I PLAY VOLLEYBALL NOW", "output": "I am playing volleyball now."}
+{"input": "I READ NEWSPAPER NOW", "output": "I am reading the newspaper now."}
+{"input": "I DRINK MILK NOW", "output": "I am drinking milk now."}
+{"input": "I GO SCHOOL NIGHT", "output": "I go to school at night."}
+{"input": "I WATCH MOVIE NIGHT", "output": "I watch a movie at night."}
+{"input": "I CLEAN ROOM NIGHT", "output": "I am cleaning my room at night."}
+{"input": "I EAT DINNER NIGHT", "output": "I am eating dinner at night."}
+{"input": "I WRITE LETTER NIGHT", "output": "I am writing a letter at night."}
+{"input": "I GO MARKET NIGHT", "output": "I am going to the market at night."}
+{"input": "I PLAY CRICKET NIGHT", "output": "I am playing cricket at night."}
+{"input": "I READ BOOK NIGHT", "output": "I am reading a book at night."}
+{"input": "I WATCH TV MORNING", "output": "I watch TV in the morning."}
+{"input": "I GO SCHOOL MORNING", "output": "I go to school in the morning."}
+{"input": "I CLEAN KITCHEN MORNING", "output": "I am cleaning the kitchen in the morning."}
+{"input": "I EAT BREAKFAST", "output": "I am eating breakfast."}
+{"input": "I PLAY TENNIS MORNING", "output": "I am playing tennis in the morning."}
+{"input": "I WRITE DIARY MORNING", "output": "I am writing in my diary in the morning."}
+{"input": "I DRINK COFFEE MORNING", "output": "I am drinking coffee in the morning."}
+{"input": "I READ NOVEL MORNING", "output": "I am reading a novel in the morning."}
+{"input": "I WATCH NEWS MORNING", "output": "I am watching the news in the morning."}
+{"input": "I PLAY GUITAR MORNING", "output": "I am playing the guitar in the morning."}
+{"input": "I GO MARKET MORNING", "output": "I am going to the market in the morning."}
+{"input": "I WRITE EMAIL MORNING", "output": "I am writing an email in the morning."}
+{"input": "I CLEAN TABLE MORNING", "output": "I am cleaning the table in the morning."}
+{"input": "I WATCH CARTOON MORNING", "output": "I am watching a cartoon in the morning."}
+{"input": "I PLAY BADMINTON MORNING", "output": "I am playing badminton in the morning."}
+{"input": "I GO SHOPPING MORNING", "output": "I am going shopping in the morning."}
+{"input": "I WRITE HOMEWORK MORNING", "output": "I am writing my homework in the morning."}
+{"input": "I EAT LUNCH", "output": "I am eating lunch."}
+{"input": "I CLEAN ROOM MORNING", "output": "I am cleaning my room in the morning."}
+{"input": "I GO SCHOOL AFTERNOON", "output": "I go to school in the afternoon."}
+{"input": "I WATCH TV AFTERNOON", "output": "I am watching TV in the afternoon."}
+{"input": "I PLAY FOOTBALL AFTERNOON", "output": "I am playing football in the afternoon."}
+{"input": "I READ BOOK AFTERNOON", "output": "I am reading a book in the afternoon."}
+{"input": "I WRITE LETTER AFTERNOON", "output": "I am writing a letter in the afternoon."}
+{"input": "I GO MARKET AFTERNOON", "output": "I am going to the market in the afternoon."}
+{"input": "I CLEAN KITCHEN AFTERNOON", "output": "I am cleaning the kitchen in the afternoon."}
+{"input": "I DRINK TEA AFTERNOON", "output": "I am drinking tea in the afternoon."}
+{"input": "I PLAY TENNIS AFTERNOON", "output": "I am playing tennis in the afternoon."}
+{"input": "I WRITE DIARY AFTERNOON", "output": "I am writing in my diary in the afternoon."}
+{"input": "I READ NOVEL AFTERNOON", "output": "I am reading a novel in the afternoon."}
+{"input": "I WATCH NEWS AFTERNOON", "output": "I am watching the news in the afternoon."}
+{"input": "I PLAY GUITAR AFTERNOON", "output": "I am playing the guitar in the afternoon."}
+{"input": "I WRITE EMAIL AFTERNOON", "output": "I am writing an email in the afternoon."}
+{"input": "I CLEAN TABLE AFTERNOON", "output": "I am cleaning the table in the afternoon."}
+{"input": "I WATCH CARTOON AFTERNOON", "output": "I am watching a cartoon in the afternoon."}
+{"input": "I PLAY BADMINTON AFTERNOON", "output": "I am playing badminton in the afternoon."}
+{"input": "I GO SHOPPING AFTERNOON", "output": "I am going shopping in the afternoon."}
+{"input": "I WRITE HOMEWORK AFTERNOON", "output": "I am writing my homework in the afternoon."}
+{"input": "I EAT DINNER EVENING", "output": "I am eating dinner in the evening."}
+{"input": "I WATCH TV EVENING", "output": "I am watching TV in the evening."}
+{"input": "I GO SCHOOL EVENING", "output": "I go to school in the evening."}
+{"input": "I PLAY FOOTBALL EVENING", "output": "I am playing football in the evening."}
+{"input": "I READ BOOK EVENING", "output": "I am reading a book in the evening."}
+{"input": "I WRITE LETTER EVENING", "output": "I am writing a letter in the evening."}
+{"input": "I GO MARKET EVENING", "output": "I am going to the market in the evening."}
+{"input": "I CLEAN KITCHEN EVENING", "output": "I am cleaning the kitchen in the evening."}
+{"input": "I DRINK TEA EVENING", "output": "I am drinking tea in the evening."}
+{"input": "I PLAY TENNIS EVENING", "output": "I am playing tennis in the evening."}
+{"input": "I WRITE DIARY EVENING", "output": "I am writing in my diary in the evening."}
+{"input": "I READ NOVEL EVENING", "output": "I am reading a novel in the evening."}
+{"input": "I WATCH NEWS EVENING", "output": "I am watching the news in the evening."}
+{"input": "I PLAY GUITAR EVENING", "output": "I am playing the guitar in the evening."}
+{"input": "I WRITE EMAIL EVENING", "output": "I am writing an email in the evening."}
+{"input": "I CLEAN TABLE EVENING", "output": "I am cleaning the table in the evening."}
+{"input": "I WATCH CARTOON EVENING", "output": "I am watching a cartoon in the evening."}
+{"input": "I PLAY BADMINTON EVENING", "output": "I am playing badminton in the evening."}
+{"input": "I GO SHOPPING EVENING", "output": "I am going shopping in the evening."}
+{"input": "I WRITE HOMEWORK EVENING", "output": "I am writing my homework in the evening."}
+{"input": "I EAT SNACK EVENING", "output": "I am eating a snack in the evening."}
+{"input": "I CLEAN ROOM EVENING", "output": "I am cleaning my room in the evening."}
+{"input": "I WATCH MOVIE EVENING", "output": "I am watching a movie in the evening."}
+{"input": "I PLAY CHESS EVENING", "output": "I am playing chess in the evening."}
+{"input": "I GO MARKET WEEKEND", "output": "I will go to the market on the weekend."}
+{"input": "I PLAY FOOTBALL WEEKEND", "output": "I will play football on the weekend."}
+{"input": "I READ BOOK WEEKEND", "output": "I will read a book on the weekend."}
+{"input": "I WATCH TV WEEKEND", "output": "I will watch TV on the weekend."}
+{"input": "I WRITE LETTER WEEKEND", "output": "I will write a letter on the weekend."}
+{"input": "I CLEAN HOUSE WEEKEND", "output": "I will clean the house on the weekend."}
+{"input": "I PLAY CRICKET WEEKEND", "output": "I will play cricket on the weekend."}
+{"input": "I GO SCHOOL WEEKEND", "output": "I will go to school on the weekend."}
+{"input": "I EAT LUNCH WEEKEND", "output": "I will eat lunch on the weekend."}
+{"input": "I DRINK TEA WEEKEND", "output": "I will drink tea on the weekend."}
+{"input": "I PLAY TENNIS WEEKEND", "output": "I will play tennis on the weekend."}
+{"input": "I WRITE HOMEWORK WEEKEND", "output": "I will write my homework on the weekend."}
+{"input": "I CLEAN ROOM WEEKEND", "output": "I will clean my room on the weekend."}
+{"input": "I WATCH MOVIE WEEKEND", "output": "I will watch a movie on the weekend."}
+{"input": "I PLAY CHESS WEEKEND", "output": "I will play chess on the weekend."}
+{"input": "I GO SHOPPING WEEKEND", "output": "I will go shopping on the weekend."}
+{"input": "I PLAY BADMINTON WEEKEND", "output": "I will play badminton on the weekend."}
+{"input": "I WATCH CARTOON WEEKEND", "output": "I will watch a cartoon on the weekend."}
+{"input": "I WRITE DIARY WEEKEND", "output": "I will write in my diary on the weekend."}
+{"input": "I READ NOVEL WEEKEND", "output": "I will read a novel on the weekend."}
+{"input": "I WATCH NEWS WEEKEND", "output": "I will watch the news on the weekend."}
+{"input": "I PLAY GUITAR WEEKEND", "output": "I will play the guitar on the weekend."}
+{"input": "I WRITE EMAIL WEEKEND", "output": "I will write an email on the weekend."}
+{"input": "I CLEAN TABLE WEEKEND", "output": "I will clean the table on the weekend."}
+{"input": "I GO MARKET TOMORROW", "output": "I will go to the market tomorrow."}
+{"input": "I GO SCHOOL TOMORROW", "output": "I will go to school tomorrow."}
+{"input": "I PLAY FOOTBALL TOMORROW", "output": "I will play football tomorrow."}
+{"input": "I READ BOOK TOMORROW", "output": "I will read a book tomorrow."}
+{"input": "I WATCH TV TOMORROW", "output": "I will watch TV tomorrow."}
+{"input": "I WRITE LETTER TOMORROW", "output": "I will write a letter tomorrow."}
+{"input": "I CLEAN HOUSE TOMORROW", "output": "I will clean the house tomorrow."}
+{"input": "I PLAY CRICKET TOMORROW", "output": "I will play cricket tomorrow."}
+{"input": "I EAT LUNCH TOMORROW", "output": "I will eat lunch tomorrow."}
+{"input": "I DRINK TEA TOMORROW", "output": "I will drink tea tomorrow."}
+{"input": "I PLAY TENNIS TOMORROW", "output": "I will play tennis tomorrow."}
+{"input": "I WRITE HOMEWORK TOMORROW", "output": "I will write my homework tomorrow."}
+{"input": "I CLEAN ROOM TOMORROW", "output": "I will clean my room tomorrow."}
+{"input": "I WATCH MOVIE TOMORROW", "output": "I will watch a movie tomorrow."}
+{"input": "I PLAY CHESS TOMORROW", "output": "I will play chess tomorrow."}
+{"input": "I GO SHOPPING TOMORROW", "output": "I will go shopping tomorrow."}
+{"input": "I PLAY BADMINTON TOMORROW", "output": "I will play badminton tomorrow."}
+{"input": "I WATCH CARTOON TOMORROW", "output": "I will watch a cartoon tomorrow."}
+{"input": "I WRITE DIARY TOMORROW", "output": "I will write in my diary tomorrow."}
+{"input": "I READ NOVEL TOMORROW", "output": "I will read a novel tomorrow."}
+{"input": "I WATCH NEWS TOMORROW", "output": "I will watch the news tomorrow."}
+{"input": "I PLAY GUITAR TOMORROW", "output": "I will play the guitar tomorrow."}
+{"input": "I WRITE EMAIL TOMORROW", "output": "I will write an email tomorrow."}
+{"input": "I CLEAN TABLE TOMORROW", "output": "I will clean the table tomorrow."}
+{"input": "I GO MARKET MORNING", "output": "I am going to the market in the morning."}
+{"input": "I GO SCHOOL MORNING", "output": "I go to school in the morning."}
+{"input": "I EAT BREAKFAST MORNING", "output": "I am eating breakfast in the morning."}
+{"input": "I DRINK WATER MORNING", "output": "I am drinking water in the morning."}
+{"input": "I PLAY FOOTBALL MORNING", "output": "I am playing football in the morning."}
+{"input": "I READ BOOK MORNING", "output": "I am reading a book in the morning."}
+{"input": "I WATCH TV MORNING", "output": "I am watching TV in the morning."}
+{"input": "I WRITE LETTER MORNING", "output": "I am writing a letter in the morning."}
+{"input": "I CLEAN ROOM MORNING", "output": "I am cleaning my room in the morning."}
+{"input": "I GO SHOPPING MORNING", "output": "I am going shopping in the morning."}
+{"input": "I PLAY CRICKET MORNING", "output": "I am playing cricket in the morning."}
+{"input": "I DRINK TEA MORNING", "output": "I am drinking tea in the morning."}
+{"input": "I PLAY TENNIS MORNING", "output": "I am playing tennis in the morning."}
+{"input": "I WRITE DIARY MORNING", "output": "I am writing in my diary in the morning."}
+{"input": "I READ NOVEL MORNING", "output": "I am reading a novel in the morning."}
+{"input": "I WATCH NEWS MORNING", "output": "I am watching the news in the morning."}
+{"input": "I PLAY GUITAR MORNING", "output": "I am playing the guitar in the morning."}
+{"input": "I WRITE EMAIL MORNING", "output": "I am writing an email in the morning."}
+{"input": "I CLEAN TABLE MORNING", "output": "I am cleaning the table in the morning."}
+{"input": "I WATCH CARTOON MORNING", "output": "I am watching a cartoon in the morning."}
+{"input": "I PLAY BADMINTON MORNING", "output": "I am playing badminton in the morning."}
+{"input": "I WRITE HOMEWORK MORNING", "output": "I am writing my homework in the morning."}
+{"input": "I EAT LUNCH AFTERNOON", "output": "I am eating lunch in the afternoon."}
+{"input": "I DRINK WATER AFTERNOON", "output": "I am drinking water in the afternoon."}
+{"input": "I PLAY FOOTBALL AFTERNOON", "output": "I am playing football in the afternoon."}
+{"input": "I READ BOOK AFTERNOON", "output": "I am reading a book in the afternoon."}
+{"input": "I WATCH TV AFTERNOON", "output": "I am watching TV in the afternoon."}
+{"input": "I WRITE LETTER AFTERNOON", "output": "I am writing a letter in the afternoon."}
+{"input": "I CLEAN ROOM AFTERNOON", "output": "I am cleaning my room in the afternoon."}
+{"input": "I GO SHOPPING AFTERNOON", "output": "I am going shopping in the afternoon."}
+{"input": "I PLAY CRICKET AFTERNOON", "output": "I am playing cricket in the afternoon."}
+{"input": "I DRINK TEA AFTERNOON", "output": "I am drinking tea in the afternoon."}
+{"input": "I PLAY TENNIS AFTERNOON", "output": "I am playing tennis in the afternoon."}
+{"input": "I WRITE DIARY AFTERNOON", "output": "I am writing in my diary in the afternoon."}
+{"input": "I READ NOVEL AFTERNOON", "output": "I am reading a novel in the afternoon."}
+{"input": "I WATCH NEWS AFTERNOON", "output": "I am watching the news in the afternoon."}
+{"input": "I PLAY GUITAR AFTERNOON", "output": "I am playing the guitar in the afternoon."}
+{"input": "I WRITE EMAIL AFTERNOON", "output": "I am writing an email in the afternoon."}
+{"input": "I CLEAN TABLE AFTERNOON", "output": "I am cleaning the table in the afternoon."}
+{"input": "I WATCH CARTOON AFTERNOON", "output": "I am watching a cartoon in the afternoon."}
+{"input": "I PLAY BADMINTON AFTERNOON", "output": "I am playing badminton in the afternoon."}
+{"input": "I WRITE HOMEWORK AFTERNOON", "output": "I am writing my homework in the afternoon."}
+{"input": "I EAT DINNER EVENING", "output": "I am eating dinner in the evening."}
+{"input": "I DRINK WATER EVENING", "output": "I am drinking water in the evening."}
+{"input": "I PLAY FOOTBALL EVENING", "output": "I am playing football in the evening."}
+{"input": "I READ BOOK EVENING", "output": "I am reading a book in the evening."}
+{"input": "I WATCH TV EVENING", "output": "I am watching TV in the evening."}
+{"input": "I WRITE LETTER EVENING", "output": "I am writing a letter in the evening."}
+{"input": "I CLEAN ROOM EVENING", "output": "I am cleaning my room in the evening."}
+{"input": "I GO SHOPPING EVENING", "output": "I am going shopping in the evening."}
+{"input": "I PLAY CRICKET EVENING", "output": "I am playing cricket in the evening."}
+{"input": "I DRINK TEA EVENING", "output": "I am drinking tea in the evening."}
+{"input": "I PLAY TENNIS EVENING", "output": "I am playing tennis in the evening."}
+{"input": "I WRITE DIARY EVENING", "output": "I am writing in my diary in the evening."}
+{"input": "I READ NOVEL EVENING", "output": "I am reading a novel in the evening."}
+{"input": "I WATCH NEWS EVENING", "output": "I am watching the news in the evening."}
+{"input": "I PLAY GUITAR EVENING", "output": "I am playing the guitar in the evening."}
+{"input": "I WRITE EMAIL EVENING", "output": "I am writing an email in the evening."}
+{"input": "I CLEAN TABLE EVENING", "output": "I am cleaning the table in the evening."}
+{"input": "I WATCH CARTOON EVENING", "output": "I am watching a cartoon in the evening."}
+{"input": "I PLAY BADMINTON EVENING", "output": "I am playing badminton in the evening."}
+{"input": "I WRITE HOMEWORK EVENING", "output": "I am writing my homework in the evening."}
+{"input": "I EAT SNACK EVENING", "output": "I am eating a snack in the evening."}
+{"input": "I CLEAN ROOM EVENING", "output": "I am cleaning my room in the evening."}
+{"input": "I WATCH MOVIE EVENING", "output": "I am watching a movie in the evening."}
+{"input": "I PLAY CHESS EVENING", "output": "I am playing chess in the evening."}
+{"input": "I GO MARKET WEEKEND", "output": "I will go to the market on the weekend."}
+{"input": "I PLAY FOOTBALL WEEKEND", "output": "I will play football on the weekend."}
+{"input": "I READ BOOK WEEKEND", "output": "I will read a book on the weekend."}
+{"input": "I WATCH TV WEEKEND", "output": "I will watch TV on the weekend."}
+{"input": "I WRITE LETTER WEEKEND", "output": "I will write a letter on the weekend."}
+{"input": "I CLEAN HOUSE WEEKEND", "output": "I will clean the house on the weekend."}
+{"input": "I PLAY CRICKET WEEKEND", "output": "I will play cricket on the weekend."}
+{"input": "I GO SCHOOL WEEKEND", "output": "I will go to school on the weekend."}
+{"input": "I EAT LUNCH WEEKEND", "output": "I will eat lunch on the weekend."}
+{"input": "I DRINK TEA WEEKEND", "output": "I will drink tea on the weekend."}
+{"input": "I PLAY TENNIS WEEKEND", "output": "I will play tennis on the weekend."}
+{"input": "I WRITE HOMEWORK WEEKEND", "output": "I will write my homework on the weekend."}
+{"input": "I CLEAN ROOM WEEKEND", "output": "I will clean my room on the weekend."}
+{"input": "I WATCH MOVIE WEEKEND", "output": "I will watch a movie on the weekend."}
+{"input": "I PLAY CHESS WEEKEND", "output": "I will play chess on the weekend."}
+{"input": "I GO SHOPPING WEEKEND", "output": "I will go shopping on the weekend."}
+{"input": "I PLAY BADMINTON WEEKEND", "output": "I will play badminton on the weekend."}
+{"input": "I WATCH CARTOON WEEKEND", "output": "I will watch a cartoon on the weekend."}
+{"input": "I WRITE DIARY WEEKEND", "output": "I will write in my diary on the weekend."}
+{"input": "I READ NOVEL WEEKEND", "output": "I will read a novel on the weekend."}
+{"input": "I WATCH NEWS WEEKEND", "output": "I will watch the news on the weekend."}
+{"input": "I PLAY GUITAR WEEKEND", "output": "I will play the guitar on the weekend."}
+{"input": "I WRITE EMAIL WEEKEND", "output": "I will write an email on the weekend."}
+{"input": "I CLEAN TABLE WEEKEND", "output": "I will clean the table on the weekend."}
+{"input": "I GO MARKET TOMORROW", "output": "I will go to the market tomorrow."}
+{"input": "I GO SCHOOL TOMORROW", "output": "I will go to school tomorrow."}
+{"input": "I PLAY FOOTBALL TOMORROW", "output": "I will play football tomorrow."}
+{"input": "I READ BOOK TOMORROW", "output": "I will read a book tomorrow."}
+{"input": "I WATCH TV TOMORROW", "output": "I will watch TV tomorrow."}
+{"input": "I WRITE LETTER TOMORROW", "output": "I will write a letter tomorrow."}
+{"input": "I CLEAN HOUSE TOMORROW", "output": "I will clean the house tomorrow."}
+{"input": "I PLAY CRICKET TOMORROW", "output": "I will play cricket tomorrow."}
+{"input": "I EAT LUNCH TOMORROW", "output": "I will eat lunch tomorrow."}
+{"input": "I DRINK TEA TOMORROW", "output": "I will drink tea tomorrow."}
+{"input": "I PLAY TENNIS TOMORROW", "output": "I will play tennis tomorrow."}
+{"input": "I WRITE HOMEWORK TOMORROW", "output": "I will write my homework tomorrow."}
+{"input": "I CLEAN ROOM TOMORROW", "output": "I will clean my room tomorrow."}
+{"input": "I WATCH MOVIE TOMORROW", "output": "I will watch a movie tomorrow."}
+{"input": "I PLAY CHESS TOMORROW", "output": "I will play chess tomorrow."}
+{"input": "I GO SHOPPING TOMORROW", "output": "I will go shopping tomorrow."}
+{"input": "I PLAY BADMINTON TOMORROW", "output": "I will play badminton tomorrow."}
+{"input": "I WATCH CARTOON TOMORROW", "output": "I will watch a cartoon tomorrow."}
+{"input": "I WRITE DIARY TOMORROW", "output": "I will write in my diary tomorrow."}
+{"input": "I READ NOVEL TOMORROW", "output": "I will read a novel tomorrow."}
+{"input": "I WATCH NEWS TOMORROW", "output": "I will watch the news tomorrow."}
+{"input": "I PLAY GUITAR TOMORROW", "output": "I will play the guitar tomorrow."}
+{"input": "I WRITE EMAIL TOMORROW", "output": "I will write an email tomorrow."}
+{"input": "I CLEAN TABLE TOMORROW", "output": "I will clean the table tomorrow."}
+{"input": "I GO MARKET NIGHT", "output": "I am going to the market at night."}
+{"input": "I GO SCHOOL NIGHT", "output": "I go to school at night."}
+{"input": "I PLAY FOOTBALL NIGHT", "output": "I am playing football at night."}
+{"input": "I READ BOOK NIGHT", "output": "I am reading a book at night."}
+{"input": "I WATCH TV NIGHT", "output": "I am watching TV at night."}
+{"input": "I WRITE LETTER NIGHT", "output": "I am writing a letter at night."}
+{"input": "I CLEAN ROOM NIGHT", "output": "I am cleaning my room at night."}
+{"input": "I GO SHOPPING NIGHT", "output": "I am going shopping at night."}
+{"input": "I PLAY CRICKET NIGHT", "output": "I am playing cricket at night."}
+{"input": "I DRINK TEA NIGHT", "output": "I am drinking tea at night."}
+{"input": "I PLAY TENNIS NIGHT", "output": "I am playing tennis at night."}
+{"input": "I WRITE DIARY NIGHT", "output": "I am writing in my diary at night."}
+{"input": "I READ NOVEL NIGHT", "output": "I am reading a novel at night."}
+{"input": "I WATCH NEWS NIGHT", "output": "I am watching the news at night."}
+{"input": "I PLAY GUITAR NIGHT", "output": "I am playing the guitar at night."}
+{"input": "I WRITE EMAIL NIGHT", "output": "I am writing an email at night."}
+{"input": "I CLEAN TABLE NIGHT", "output": "I am cleaning the table at night."}
+{"input": "I WATCH CARTOON NIGHT", "output": "I am watching a cartoon at night."}
+{"input": "I PLAY BADMINTON NIGHT", "output": "I am playing badminton at night."}
+{"input": "I WRITE HOMEWORK NIGHT", "output": "I am writing my homework at night."}
+{"input": "I EAT SNACK NIGHT", "output": "I am eating a snack at night."}
+{"input": "I CLEAN ROOM NIGHT", "output": "I am cleaning my room at night."}
+{"input": "I WATCH MOVIE NIGHT", "output": "I am watching a movie at night."}
+{"input": "I PLAY CHESS NIGHT", "output": "I am playing chess at night."}
+{"input": "I GO MARKET SUNDAY", "output": "I will go to the market on Sunday."}
+{"input": "I GO SCHOOL SUNDAY", "output": "I will go to school on Sunday."}
+{"input": "I PLAY FOOTBALL SUNDAY", "output": "I will play football on Sunday."}
+{"input": "I READ BOOK SUNDAY", "output": "I will read a book on Sunday."}
+{"input": "I WATCH TV SUNDAY", "output": "I will watch TV on Sunday."}
+{"input": "I WRITE LETTER SUNDAY", "output": "I will write a letter on Sunday."}
+{"input": "I CLEAN HOUSE SUNDAY", "output": "I will clean the house on Sunday."}
+{"input": "I PLAY CRICKET SUNDAY", "output": "I will play cricket on Sunday."}
+{"input": "I EAT LUNCH SUNDAY", "output": "I will eat lunch on Sunday."}
+{"input": "I DRINK TEA SUNDAY", "output": "I will drink tea on Sunday."}
+{"input": "I PLAY TENNIS SUNDAY", "output": "I will play tennis on Sunday."}
+{"input": "I WRITE HOMEWORK SUNDAY", "output": "I will write my homework on Sunday."}
+{"input": "I CLEAN ROOM SUNDAY", "output": "I will clean my room on Sunday."}
+{"input": "I WATCH MOVIE SUNDAY", "output": "I will watch a movie on Sunday."}
+{"input": "I PLAY CHESS SUNDAY", "output": "I will play chess on Sunday."}
+{"input": "I GO SHOPPING SUNDAY", "output": "I will go shopping on Sunday."}
+{"input": "I PLAY BADMINTON SUNDAY", "output": "I will play badminton on Sunday."}
+{"input": "I WATCH CARTOON SUNDAY", "output": "I will watch a cartoon on Sunday."}
+{"input": "I WRITE DIARY SUNDAY", "output": "I will write in my diary on Sunday."}
+{"input": "I READ NOVEL SUNDAY", "output": "I will read a novel on Sunday."}
+{"input": "I WATCH NEWS SUNDAY", "output": "I will watch the news on Sunday."}
+{"input": "I PLAY GUITAR SUNDAY", "output": "I will play the guitar on Sunday."}
+{"input": "I WRITE EMAIL SUNDAY", "output": "I will write an email on Sunday."}
+{"input": "I CLEAN TABLE SUNDAY", "output": "I will clean the table on Sunday."}
+{"input": "I GO MARKET MONDAY", "output": "I will go to the market on Monday."}
+{"input": "I GO SCHOOL MONDAY", "output": "I will go to school on Monday."}
+{"input": "I PLAY FOOTBALL MONDAY", "output": "I will play football on Monday."}
+{"input": "I READ BOOK MONDAY", "output": "I will read a book on Monday."}
+{"input": "I WATCH TV MONDAY", "output": "I will watch TV on Monday."}
+{"input": "I WRITE LETTER MONDAY", "output": "I will write a letter on Monday."}
+{"input": "I CLEAN HOUSE MONDAY", "output": "I will clean the house on Monday."}
+{"input": "I PLAY CRICKET MONDAY", "output": "I will play cricket on Monday."}
+{"input": "I EAT LUNCH MONDAY", "output": "I will eat lunch on Monday."}
+{"input": "I DRINK TEA MONDAY", "output": "I will drink tea on Monday."}
+{"input": "I PLAY TENNIS MONDAY", "output": "I will play tennis on Monday."}
+{"input": "I WRITE HOMEWORK MONDAY", "output": "I will write my homework on Monday."}
+{"input": "I CLEAN ROOM MONDAY", "output": "I will clean my room on Monday."}
+{"input": "I WATCH MOVIE MONDAY", "output": "I will watch a movie on Monday."}
+{"input": "I PLAY CHESS MONDAY", "output": "I will play chess on Monday."}
+{"input": "I GO SHOPPING MONDAY", "output": "I will go shopping on Monday."}
+{"input": "I PLAY BADMINTON MONDAY", "output": "I will play badminton on Monday."}
+{"input": "I WATCH CARTOON MONDAY", "output": "I will watch a cartoon on Monday."}
+{"input": "I WRITE DIARY MONDAY", "output": "I will write in my diary on Monday."}
+{"input": "I READ NOVEL MONDAY", "output": "I will read a novel on Monday."}
+{"input": "I WATCH NEWS MONDAY", "output": "I will watch the news on Monday."}
+{"input": "I PLAY GUITAR MONDAY", "output": "I will play the guitar on Monday."}
+{"input": "I WRITE EMAIL MONDAY", "output": "I will write an email on Monday."}
+{"input": "I CLEAN TABLE MONDAY", "output": "I will clean the table on Monday."}
+{"input": "I GO MARKET TUESDAY", "output": "I will go to the market on Tuesday."}
+{"input": "I GO SCHOOL TUESDAY", "output": "I will go to school on Tuesday."}
+{"input": "I PLAY FOOTBALL TUESDAY", "output": "I will play football on Tuesday."}
+{"input": "I READ BOOK TUESDAY", "output": "I will read a book on Tuesday."}
+{"input": "I WATCH TV TUESDAY", "output": "I will watch TV on Tuesday."}
+{"input": "I WRITE LETTER TUESDAY", "output": "I will write a letter on Tuesday."}
+{"input": "I CLEAN HOUSE TUESDAY", "output": "I will clean the house on Tuesday."}
+{"input": "I PLAY CRICKET TUESDAY", "output": "I will play cricket on Tuesday."}
+{"input": "I EAT LUNCH TUESDAY", "output": "I will eat lunch on Tuesday."}
+{"input": "I DRINK TEA TUESDAY", "output": "I will drink tea on Tuesday."}
+{"input": "I PLAY TENNIS TUESDAY", "output": "I will play tennis on Tuesday."}
+{"input": "I WRITE HOMEWORK TUESDAY", "output": "I will write my homework on Tuesday."}
+{"input": "I CLEAN ROOM TUESDAY", "output": "I will clean my room on Tuesday."}
+{"input": "I WATCH MOVIE TUESDAY", "output": "I will watch a movie on Tuesday."}
+{"input": "I PLAY CHESS TUESDAY", "output": "I will play chess on Tuesday."}
+{"input": "I GO SHOPPING TUESDAY", "output": "I will go shopping on Tuesday."}
+{"input": "I PLAY BADMINTON TUESDAY", "output": "I will play badminton on Tuesday."}
+{"input": "I WATCH CARTOON TUESDAY", "output": "I will watch a cartoon on Tuesday."}
+{"input": "I WRITE DIARY TUESDAY", "output": "I will write in my diary on Tuesday."}
+{"input": "I READ NOVEL TUESDAY", "output": "I will read a novel on Tuesday."}
+{"input": "I WATCH NEWS TUESDAY", "output": "I will watch the news on Tuesday."}
+{"input": "I PLAY GUITAR TUESDAY", "output": "I will play the guitar on Tuesday."}
+{"input": "I WRITE EMAIL TUESDAY", "output": "I will write an email on Tuesday."}
+{"input": "I CLEAN TABLE TUESDAY", "output": "I will clean the table on Tuesday."}
+{"input": "I GO MARKET WEDNESDAY", "output": "I will go to the market on Wednesday."}
+{"input": "I GO SCHOOL WEDNESDAY", "output": "I will go to school on Wednesday."}
+{"input": "I PLAY FOOTBALL WEDNESDAY", "output": "I will play football on Wednesday."}
+{"input": "I READ BOOK WEDNESDAY", "output": "I will read a book on Wednesday."}
+{"input": "I WATCH TV WEDNESDAY", "output": "I will watch TV on Wednesday."}
+{"input": "I WRITE LETTER WEDNESDAY", "output": "I will write a letter on Wednesday."}
+{"input": "I CLEAN HOUSE WEDNESDAY", "output": "I will clean the house on Wednesday."}
+{"input": "I PLAY CRICKET WEDNESDAY", "output": "I will play cricket on Wednesday."}
+{"input": "I EAT LUNCH WEDNESDAY", "output": "I will eat lunch on Wednesday."}
+{"input": "I DRINK TEA WEDNESDAY", "output": "I will drink tea on Wednesday."}
+{"input": "I PLAY TENNIS WEDNESDAY", "output": "I will play tennis on Wednesday."}
+{"input": "I WRITE HOMEWORK WEDNESDAY", "output": "I will write my homework on Wednesday."}
+{"input": "I CLEAN ROOM WEDNESDAY", "output": "I will clean my room on Wednesday."}
+{"input": "I WATCH MOVIE WEDNESDAY", "output": "I will watch a movie on Wednesday."}
+{"input": "I PLAY CHESS WEDNESDAY", "output": "I will play chess on Wednesday."}
+{"input": "I GO SHOPPING WEDNESDAY", "output": "I will go shopping on Wednesday."}
+{"input": "I PLAY BADMINTON WEDNESDAY", "output": "I will play badminton on Wednesday."}
+{"input": "I WATCH CARTOON WEDNESDAY", "output": "I will watch a cartoon on Wednesday."}
+{"input": "I WRITE DIARY WEDNESDAY", "output": "I will write in my diary on Wednesday."}
+{"input": "I READ NOVEL WEDNESDAY", "output": "I will read a novel on Wednesday."}
+{"input": "I WATCH NEWS WEDNESDAY", "output": "I will watch the news on Wednesday."}
+{"input": "I PLAY GUITAR WEDNESDAY", "output": "I will play the guitar on Wednesday."}
+{"input": "I WRITE EMAIL WEDNESDAY", "output": "I will write an email on Wednesday."}
+{"input": "I CLEAN TABLE WEDNESDAY", "output": "I will clean the table on Wednesday."}
+{"input": "I GO MARKET THURSDAY", "output": "I will go to the market on Thursday."}
+{"input": "I GO SCHOOL THURSDAY", "output": "I will go to school on Thursday."}
+{"input": "I PLAY FOOTBALL THURSDAY", "output": "I will play football on Thursday."}
+{"input": "I READ BOOK THURSDAY", "output": "I will read a book on Thursday."}
+{"input": "I WATCH TV THURSDAY", "output": "I will watch TV on Thursday."}
+{"input": "I WRITE LETTER THURSDAY", "output": "I will write a letter on Thursday."}
+{"input": "I CLEAN HOUSE THURSDAY", "output": "I will clean the house on Thursday."}
+{"input": "I PLAY CRICKET THURSDAY", "output": "I will play cricket on Thursday."}
+{"input": "I EAT LUNCH THURSDAY", "output": "I will eat lunch on Thursday."}
+{"input": "I DRINK TEA THURSDAY", "output": "I will drink tea on Thursday."}
+{"input": "I PLAY TENNIS THURSDAY", "output": "I will play tennis on Thursday."}
+{"input": "I WRITE HOMEWORK THURSDAY", "output": "I will write my homework on Thursday."}
+{"input": "I CLEAN ROOM THURSDAY", "output": "I will clean my room on Thursday."}
+{"input": "I WATCH MOVIE THURSDAY", "output": "I will watch a movie on Thursday."}
+{"input": "I PLAY CHESS THURSDAY", "output": "I will play chess on Thursday."}
+{"input": "I GO SHOPPING THURSDAY", "output": "I will go shopping on Thursday."}
+{"input": "I PLAY BADMINTON THURSDAY", "output": "I will play badminton on Thursday."}
+{"input": "I WATCH CARTOON THURSDAY", "output": "I will watch a cartoon on Thursday."}
+{"input": "I WRITE DIARY THURSDAY", "output": "I will write in my diary on Thursday."}
+{"input": "I READ NOVEL THURSDAY", "output": "I will read a novel on Thursday."}
+{"input": "I WATCH NEWS THURSDAY", "output": "I will watch the news on Thursday."}
+{"input": "I PLAY GUITAR THURSDAY", "output": "I will play the guitar on Thursday."}
+{"input": "I WRITE EMAIL THURSDAY", "output": "I will write an email on Thursday."}
+{"input": "I CLEAN TABLE THURSDAY", "output": "I will clean the table on Thursday."}
+{"input": "I GO MARKET FRIDAY", "output": "I will go to the market on Friday."}
+{"input": "I GO SCHOOL FRIDAY", "output": "I will go to school on Friday."}
+{"input": "I PLAY FOOTBALL FRIDAY", "output": "I will play football on Friday."}
+{"input": "I READ BOOK FRIDAY", "output": "I will read a book on Friday."}
+{"input": "I WATCH TV FRIDAY", "output": "I will watch TV on Friday."}
+{"input": "I WRITE LETTER FRIDAY", "output": "I will write a letter on Friday."}
+{"input": "I CLEAN HOUSE FRIDAY", "output": "I will clean the house on Friday."}
+{"input": "I PLAY CRICKET FRIDAY", "output": "I will play cricket on Friday."}
+{"input": "I EAT LUNCH FRIDAY", "output": "I will eat lunch on Friday."}
+{"input": "I DRINK TEA FRIDAY", "output": "I will drink tea on Friday."}
+{"input": "I PLAY TENNIS FRIDAY", "output": "I will play tennis on Friday."}
+{"input": "I WRITE HOMEWORK FRIDAY", "output": "I will write my homework on Friday."}
+{"input": "I CLEAN ROOM FRIDAY", "output": "I will clean my room on Friday."}
+{"input": "I WATCH MOVIE FRIDAY", "output": "I will watch a movie on Friday."}
+{"input": "I PLAY CHESS FRIDAY", "output": "I will play chess on Friday."}
+{"input": "I GO SHOPPING FRIDAY", "output": "I will go shopping on Friday."}
+{"input": "I PLAY BADMINTON FRIDAY", "output": "I will play badminton on Friday."}
+{"input": "I WATCH CARTOON FRIDAY", "output": "I will watch a cartoon on Friday."}
+{"input": "I WRITE DIARY FRIDAY", "output": "I will write in my diary on Friday."}
+{"input": "I READ NOVEL FRIDAY", "output": "I will read a novel on Friday."}
+{"input": "I WATCH NEWS FRIDAY", "output": "I will watch the news on Friday."}
+{"input": "I PLAY GUITAR FRIDAY", "output": "I will play the guitar on Friday."}
+{"input": "I WRITE EMAIL FRIDAY", "output": "I will write an email on Friday."}
+{"input": "I CLEAN TABLE FRIDAY", "output": "I will clean the table on Friday."}
+{"input": "I GO MARKET SATURDAY", "output": "I will go to the market on Saturday."}
+{"input": "I GO SCHOOL SATURDAY", "output": "I will go to school on Saturday."}
+{"input": "I PLAY FOOTBALL SATURDAY", "output": "I will play football on Saturday."}
+{"input": "I READ BOOK SATURDAY", "output": "I will read a book on Saturday."}
+{"input": "I WATCH TV SATURDAY", "output": "I will watch TV on Saturday."}
+{"input": "I WRITE LETTER SATURDAY", "output": "I will write a letter on Saturday."}
+{"input": "I CLEAN HOUSE SATURDAY", "output": "I will clean the house on Saturday."}
+{"input": "I PLAY CRICKET SATURDAY", "output": "I will play cricket on Saturday."}
+{"input": "I EAT LUNCH SATURDAY", "output": "I will eat lunch on Saturday."}
+{"input": "I DRINK TEA SATURDAY", "output": "I will drink tea on Saturday."}
+{"input": "I PLAY TENNIS SATURDAY", "output": "I will play tennis on Saturday."}
+{"input": "I WRITE HOMEWORK SATURDAY", "output": "I will write my homework on Saturday."}
+{"input": "I CLEAN ROOM SATURDAY", "output": "I will clean my room on Saturday."}
+{"input": "I WATCH MOVIE SATURDAY", "output": "I will watch a movie on Saturday."}
+{"input": "I PLAY CHESS SATURDAY", "output": "I will play chess on Saturday."}
+{"input": "I GO SHOPPING SATURDAY", "output": "I will go shopping on Saturday."}
+{"input": "I PLAY BADMINTON SATURDAY", "output": "I will play badminton on Saturday."}
+{"input": "I WATCH CARTOON SATURDAY", "output": "I will watch a cartoon on Saturday."}
+{"input": "I WRITE DIARY SATURDAY", "output": "I will write in my diary on Saturday."}
+{"input": "I READ NOVEL SATURDAY", "output": "I will read a novel on Saturday."}
+{"input": "I WATCH NEWS SATURDAY", "output": "I will watch the news on Saturday."}
+{"input": "I PLAY GUITAR SATURDAY", "output": "I will play the guitar on Saturday."}
+{"input": "I WRITE EMAIL SATURDAY", "output": "I will write an email on Saturday."}
+{"input": "I CLEAN TABLE SATURDAY", "output": "I will clean the table on Saturday."}
+{"input": "WHAT YOUR NAME", "output": "What is your name?"}
+{"input": "HOW YOU", "output": "How are you?"}
+{"input": "I FINE", "output": "I am fine."}
+{"input": "WHAT YOU DOING", "output": "What are you doing?"}
+{"input": "I STUDY", "output": "I am studying."}
+{"input": "I WORK", "output": "I am working."}
+{"input": "YOU OK", "output": "Are you okay?"}
+{"input": "I HUNGRY", "output": "I am hungry."}
+{"input": "I THIRSTY", "output": "I am thirsty."}
+{"input": "I WANT WATER", "output": "I want water."}
+{"input": "I WANT FOOD", "output": "I want food."}
+{"input": "YOU COME HERE", "output": "Can you come here?"}
+{"input": "YOU HELP ME", "output": "Can you help me?"}
+{"input": "THANK YOU", "output": "Thank you."}
+{"input": "SORRY", "output": "Sorry."}
+{"input": "GOOD MORNING", "output": "Good morning."}
+{"input": "GOOD NIGHT", "output": "Good night."}
+{"input": "PLEASE WAIT", "output": "Please wait."}
+{"input": "STOP", "output": "Stop."}
+{"input": "GO", "output": "Go."}
+{"input": "COME", "output": "Come."}
+{"input": "SIT", "output": "Sit."}
+{"input": "STAND", "output": "Stand."}
+{"input": "OPEN DOOR", "output": "Open the door."}
+{"input": "CLOSE DOOR", "output": "Close the door."}
+{"input": "TURN LIGHT ON", "output": "Turn the light on."}
+{"input": "TURN LIGHT OFF", "output": "Turn the light off."}
+{"input": "PHONE RING", "output": "The phone is ringing."}
+{"input": "CALL ME", "output": "Call me."}
+{"input": "MESSAGE SEND", "output": "Send the message."}
+{"input": "I HAPPY", "output": "I am happy."}
+{"input": "I SAD", "output": "I am sad."}
+{"input": "I ANGRY", "output": "I am angry."}
+{"input": "I SCARED", "output": "I am scared."}
+{"input": "I TIRED", "output": "I am tired."}
+{"input": "I SLEEPY", "output": "I am sleepy."}
+{"input": "YOU READY", "output": "Are you ready?"}
+{"input": "LET US GO", "output": "Let us go."}
+{"input": "WAIT MOMENT", "output": "Wait a moment."}
+{"input": "I UNDERSTAND", "output": "I understand."}
+{"input": "I NOT UNDERSTAND", "output": "I do not understand."}
+{"input": "REPEAT PLEASE", "output": "Please repeat."}
+{"input": "SPEAK SLOW", "output": "Speak slowly."}
+{"input": "WRITE HERE", "output": "Write here."}
+{"input": "READ THIS", "output": "Read this."}
+{"input": "LOOK HERE", "output": "Look here."}
+{"input": "LISTEN ME", "output": "Listen to me."}
+{"input": "I AGREE", "output": "I agree."}
+{"input": "I DISAGREE", "output": "I disagree."}
+{"input": "YOU UNDERSTAND", "output": "Do you understand?"}
+{"input": "WHAT THIS", "output": "What is this?"}
+{"input": "WHAT THAT", "output": "What is that?"}
+{"input": "WHO YOU", "output": "Who are you?"}
+{"input": "WHERE YOU", "output": "Where are you?"}
+{"input": "WHY YOU LATE", "output": "Why are you late?"}
+{"input": "HOW MUCH", "output": "How much is it?"}
+{"input": "WHERE TOILET", "output": "Where is the toilet?"}
+{"input": "WHERE BUS STOP", "output": "Where is the bus stop?"}
+{"input": "I LOST", "output": "I am lost."}
+{"input": "HELP POLICE", "output": "Help, call the police."}
+{"input": "DANGER", "output": "There is danger."}
+{"input": "FIRE", "output": "There is a fire."}
+{"input": "AMBULANCE CALL", "output": "Call an ambulance."}
+{"input": "I SICK", "output": "I am sick."}
+{"input": "I PAIN", "output": "I am in pain."}
+{"input": "NEED DOCTOR", "output": "I need a doctor."}
+{"input": "TAKE MEDICINE", "output": "Take the medicine."}
+{"input": "EAT SLOW", "output": "Eat slowly."}
+{"input": "DRINK WATER", "output": "Drink water."}
+{"input": "REST PLEASE", "output": "Please take rest."}
+{"input": "I READY", "output": "I am ready."}
+{"input": "YOU COME", "output": "Are you coming?"}
+{"input": "YES COME", "output": "Yes, I am coming."}
+{"input": "NO COME", "output": "No, I am not coming."}
+{"input": "I BUSY", "output": "I am busy."}
+{"input": "FREE NOW", "output": "I am free now."}
+{"input": "MEET ME", "output": "Meet me."}
+{"input": "WAIT HERE", "output": "Wait here."}
+{"input": "GO HOME", "output": "Go home."}
+{"input": "COME SOON", "output": "Come soon."}
+{"input": "GOOD JOB", "output": "Good job."}
+{"input": "VERY NICE", "output": "Very nice."}
+{"input": "I LIKE", "output": "I like it."}
+{"input": "I NOT LIKE", "output": "I do not like it."}
+{"input": "BE CAREFUL", "output": "Be careful."}
+{"input": "SLOW DOWN", "output": "Slow down."}
+{"input": "HURRY UP", "output": "Hurry up."}
+{"input": "YOU NAME WHAT", "output": "What is your name?"}
+{"input": "YOU FEEL OK", "output": "Do you feel okay?"}
+{"input": "I FEEL GOOD", "output": "I feel good."}
+{"input": "I FEEL BAD", "output": "I feel bad."}
+{"input": "YOU LIKE ME", "output": "Do you like me?"}
+{"input": "I LIKE YOU", "output": "I like you."}
+{"input": "I MISS YOU", "output": "I miss you."}
+{"input": "COME WITH ME", "output": "Come with me."}
+{"input": "GO WITH ME", "output": "Go with me."}
+{"input": "STAY HERE", "output": "Stay here."}
+{"input": "DON'T GO", "output": "Do not go."}
+{"input": "WAIT ME", "output": "Wait for me."}
+{"input": "I WAIT", "output": "I will wait."}
+{"input": "I COMING", "output": "I am coming."}
+{"input": "I LEAVING", "output": "I am leaving."}
+{"input": "YOU LEAVING", "output": "Are you leaving?"}
+{"input": "YOU COMING", "output": "Are you coming?"}
+{"input": "I FINISH", "output": "I have finished."}
+{"input": "YOU FINISH", "output": "Have you finished?"}
+{"input": "START NOW", "output": "Start now."}
+{"input": "STOP NOW", "output": "Stop now."}
+{"input": "I NEED HELP", "output": "I need help."}
+{"input": "HELP ME", "output": "Help me."}
+{"input": "CALL YOU", "output": "I will call you."}
+{"input": "CALL ME", "output": "Call me."}
+{"input": "TEXT ME", "output": "Text me."}
+{"input": "CHECK THIS", "output": "Check this."}
+{"input": "SEE THIS", "output": "See this."}
+{"input": "WATCH THIS", "output": "Watch this."}
+{"input": "HEAR THIS", "output": "Listen to this."}
+{"input": "UNDERSTAND ME", "output": "Understand me."}
+{"input": "TRUST ME", "output": "Trust me."}
+{"input": "BELIEVE ME", "output": "Believe me."}
+{"input": "I PROMISE", "output": "I promise."}
+{"input": "DON'T WORRY", "output": "Do not worry."}
+{"input": "RELAX", "output": "Relax."}
+{"input": "CALM DOWN", "output": "Calm down."}
+{"input": "SMILE PLEASE", "output": "Please smile."}
+{"input": "DON'T CRY", "output": "Do not cry."}
+{"input": "FEEL BETTER", "output": "Feel better."}
+{"input": "TAKE CARE", "output": "Take care."}
+{"input": "I FORGOT", "output": "I forgot."}
+{"input": "I REMEMBER", "output": "I remember."}
+{"input": "YOU REMEMBER", "output": "Do you remember?"}
+{"input": "YOU FORGOT", "output": "Did you forget?"}
+{"input": "COME INSIDE", "output": "Come inside."}
+{"input": "GO OUTSIDE", "output": "Go outside."}
+{"input": "STAND UP", "output": "Stand up."}
+{"input": "SIT DOWN", "output": "Sit down."}
+{"input": "MOVE ASIDE", "output": "Move aside."}
+{"input": "COME CLOSER", "output": "Come closer."}
+{"input": "GO FAR", "output": "Go far."}
+{"input": "NEAR HERE", "output": "It is near here."}
+{"input": "FAR AWAY", "output": "It is far away."}
+{"input": "OPEN WINDOW", "output": "Open the window."}
+{"input": "CLOSE WINDOW", "output": "Close the window."}
+{"input": "LOCK DOOR", "output": "Lock the door."}
+{"input": "UNLOCK DOOR", "output": "Unlock the door."}
+{"input": "CLEAN THIS", "output": "Clean this."}
+{"input": "WASH HAND", "output": "Wash your hands."}
+{"input": "DRY THIS", "output": "Dry this."}
+{"input": "FOLD THIS", "output": "Fold this."}
+{"input": "GIVE ME", "output": "Give it to me."}
+{"input": "TAKE THIS", "output": "Take this."}
+{"input": "PUT HERE", "output": "Put it here."}
+{"input": "PUT THERE", "output": "Put it there."}
+{"input": "HOLD THIS", "output": "Hold this."}
+{"input": "DROP THIS", "output": "Drop this."}
+{"input": "BUY THIS", "output": "Buy this."}
+{"input": "SELL THIS", "output": "Sell this."}
+{"input": "CHEAP", "output": "It is cheap."}
+{"input": "EXPENSIVE", "output": "It is expensive."}
+{"input": "I PAY", "output": "I will pay."}
+{"input": "YOU PAY", "output": "Will you pay?"}
+{"input": "CASH OR CARD", "output": "Cash or card?"}
+{"input": "PRICE WHAT", "output": "What is the price?"}
+{"input": "DISCOUNT HAVE", "output": "Is there a discount?"}
+{"input": "TOO MUCH", "output": "It is too much."}
+{"input": "LITTLE MORE", "output": "A little more."}
+{"input": "ENOUGH", "output": "That is enough."}
+{"input": "I FULL", "output": "I am full."}
+{"input": "I STILL HUNGRY", "output": "I am still hungry."}
+{"input": "TASTE GOOD", "output": "It tastes good."}
+{"input": "TASTE BAD", "output": "It tastes bad."}
+{"input": "HOT FOOD", "output": "The food is hot."}
+{"input": "COLD FOOD", "output": "The food is cold."}
+{"input": "MORE WATER", "output": "More water please."}
+{"input": "NO SUGAR", "output": "No sugar please."}
+{"input": "LESS SALT", "output": "Less salt please."}
+{"input": "SPICY", "output": "It is spicy."}
+{"input": "SWEET", "output": "It is sweet."}
+{"input": "BITTER", "output": "It is bitter."}
+{"input": "SOUR", "output": "It is sour."}
+{"input": "YOU LIKE FOOD", "output": "Do you like the food?"}
+{"input": "I LIKE FOOD", "output": "I like the food."}
+{"input": "I NOT LIKE FOOD", "output": "I do not like the food."}
+{"input": "CHANGE THIS", "output": "Change this."}
+{"input": "RETURN THIS", "output": "Return this."}
+{"input": "EXCHANGE THIS", "output": "Exchange this."}
+{"input": "WRONG ITEM", "output": "This is the wrong item."}
+{"input": "RIGHT ITEM", "output": "This is the right item."}
+{"input": "BROKEN", "output": "It is broken."}
+{"input": "WORKING", "output": "It is working."}
+{"input": "NOT WORK", "output": "It does not work."}
+{"input": "FIX THIS", "output": "Fix this."}
+{"input": "CHARGE PHONE", "output": "Charge the phone."}
+{"input": "BATTERY LOW", "output": "The battery is low."}
+{"input": "INTERNET SLOW", "output": "The internet is slow."}
+{"input": "NO SIGNAL", "output": "There is no signal."}
+{"input": "LOUD SOUND", "output": "The sound is loud."}
+{"input": "LOW SOUND", "output": "The sound is low."}
+{"input": "TURN VOLUME UP", "output": "Turn the volume up."}
+{"input": "TURN VOLUME DOWN", "output": "Turn the volume down."}
+{"input": "TAKE PHOTO", "output": "Take a photo."}
+{"input": "RECORD VIDEO", "output": "Record a video."}
+{"input": "DELETE THIS", "output": "Delete this."}
+{"input": "SAVE THIS", "output": "Save this."}
+{"input": "SEND THIS", "output": "Send this."}
+{"input": "RECEIVE THIS", "output": "Receive this."}
+{"input": "SHARE THIS", "output": "Share this."}
+{"input": "BLOCK THIS", "output": "Block this."}
+{"input": "UNBLOCK THIS", "output": "Unblock this."}
+{"input": "YOU OK", "output": "Are you okay?"}
+{"input": "I OK", "output": "I am okay."}
+{"input": "YOU TIRED", "output": "Are you tired?"}
+{"input": "I TIRED", "output": "I am tired."}
+{"input": "YOU HAPPY", "output": "Are you happy?"}
+{"input": "I HAPPY", "output": "I am happy."}
+{"input": "YOU SAD", "output": "Are you sad?"}
+{"input": "I SAD", "output": "I am sad."}
+{"input": "YOU ANGRY", "output": "Are you angry?"}
+{"input": "I ANGRY", "output": "I am angry."}
+{"input": "YOU SICK", "output": "Are you sick?"}
+{"input": "I SICK", "output": "I am sick."}
+{"input": "YOU BUSY", "output": "Are you busy?"}
+{"input": "I BUSY", "output": "I am busy."}
+{"input": "YOU FREE", "output": "Are you free?"}
+{"input": "I FREE", "output": "I am free."}
+{"input": "YOU READY", "output": "Are you ready?"}
+{"input": "I READY", "output": "I am ready."}
+{"input": "YOU SLEEP", "output": "Are you sleeping?"}
+{"input": "I SLEEP", "output": "I am sleeping."}
+{"input": "YOU AWAKE", "output": "Are you awake?"}
+{"input": "I AWAKE", "output": "I am awake."}
+{"input": "YOU WORK", "output": "Are you working?"}
+{"input": "I WORK", "output": "I am working."}
+{"input": "YOU STUDY", "output": "Are you studying?"}
+{"input": "I STUDY", "output": "I am studying."}
+{"input": "YOU COOK", "output": "Are you cooking?"}
+{"input": "I COOK", "output": "I am cooking."}
+{"input": "YOU EAT", "output": "Are you eating?"}
+{"input": "I EAT", "output": "I am eating."}
+{"input": "YOU DRINK", "output": "Are you drinking?"}
+{"input": "I DRINK", "output": "I am drinking."}
+{"input": "YOU WALK", "output": "Are you walking?"}
+{"input": "I WALK", "output": "I am walking."}
+{"input": "YOU RUN", "output": "Are you running?"}
+{"input": "I RUN", "output": "I am running."}
+{"input": "YOU DRIVE", "output": "Are you driving?"}
+{"input": "I DRIVE", "output": "I am driving."}
+{"input": "YOU TALK", "output": "Are you talking?"}
+{"input": "I TALK", "output": "I am talking."}
+{"input": "YOU LISTEN", "output": "Are you listening?"}
+{"input": "I LISTEN", "output": "I am listening."}
+{"input": "YOU SEE", "output": "Do you see?"}
+{"input": "I SEE", "output": "I see."}
+{"input": "YOU HEAR", "output": "Do you hear?"}
+{"input": "I HEAR", "output": "I hear."}
+{"input": "YOU KNOW", "output": "Do you know?"}
+{"input": "I KNOW", "output": "I know."}
+{"input": "YOU UNDERSTAND", "output": "Do you understand?"}
+{"input": "I UNDERSTAND", "output": "I understand."}
+{"input": "YOU FORGET", "output": "Did you forget?"}
+{"input": "I FORGET", "output": "I forgot."}
+{"input": "YOU REMEMBER", "output": "Do you remember?"}
+{"input": "I REMEMBER", "output": "I remember."}
+{"input": "YOU AGREE", "output": "Do you agree?"}
+{"input": "I AGREE", "output": "I agree."}
+{"input": "YOU DISAGREE", "output": "Do you disagree?"}
+{"input": "I DISAGREE", "output": "I disagree."}
+{"input": "YOU WANT", "output": "Do you want it?"}
+{"input": "I WANT", "output": "I want it."}
+{"input": "YOU NEED", "output": "Do you need it?"}
+{"input": "I NEED", "output": "I need it."}
+{"input": "YOU LIKE", "output": "Do you like it?"}
+{"input": "I LIKE", "output": "I like it."}
+{"input": "YOU LOVE", "output": "Do you love it?"}
+{"input": "I LOVE", "output": "I love it."}
+{"input": "YOU HATE", "output": "Do you hate it?"}
+{"input": "I HATE", "output": "I hate it."}
+{"input": "YOU WAIT", "output": "Will you wait?"}
+{"input": "I WAIT", "output": "I will wait."}
+{"input": "YOU COME", "output": "Will you come?"}
+{"input": "I COME", "output": "I will come."}
+{"input": "YOU GO", "output": "Will you go?"}
+{"input": "I GO", "output": "I will go."}
+{"input": "YOU PAY", "output": "Will you pay?"}
+{"input": "I PAY", "output": "I will pay."}
+{"input": "YOU CALL", "output": "Will you call?"}
+{"input": "I CALL", "output": "I will call."}
+{"input": "YOU SEND", "output": "Will you send it?"}
+{"input": "I SEND", "output": "I will send it."}
+{"input": "YOU WAIT HERE", "output": "Will you wait here?"}
+{"input": "WAIT HERE", "output": "Wait here."}
+{"input": "GO THERE", "output": "Go there."}
+{"input": "COME HERE", "output": "Come here."}
+{"input": "LOOK HERE", "output": "Look here."}
+{"input": "LOOK THERE", "output": "Look there."}
+{"input": "TURN LEFT", "output": "Turn left."}
+{"input": "TURN RIGHT", "output": "Turn right."}
+{"input": "GO STRAIGHT", "output": "Go straight."}
+{"input": "STOP HERE", "output": "Stop here."}
+{"input": "MOVE FAST", "output": "Move fast."}
+{"input": "MOVE SLOW", "output": "Move slowly."}
+{"input": "BE QUIET", "output": "Be quiet."}
+{"input": "TALK LOUD", "output": "Talk loudly."}
+{"input": "SPEAK SLOW", "output": "Speak slowly."}
+{"input": "REPEAT AGAIN", "output": "Repeat again."}
+{"input": "SAY AGAIN", "output": "Say it again."}
+{"input": "WRITE AGAIN", "output": "Write again."}
+{"input": "READ AGAIN", "output": "Read again."}
+{"input": "TRY AGAIN", "output": "Try again."}
+{"input": "START AGAIN", "output": "Start again."}
+{"input": "STOP AGAIN", "output": "Stop again."}
+{"input": "OPEN AGAIN", "output": "Open it again."}
+{"input": "CLOSE AGAIN", "output": "Close it again."}
+{"input": "TURN ON", "output": "Turn it on."}
+{"input": "TURN OFF", "output": "Turn it off."}
+{"input": "PLUG IN", "output": "Plug it in."}
+{"input": "UNPLUG", "output": "Unplug it."}
+{"input": "LOGIN NOW", "output": "Log in now."}
+{"input": "LOGOUT NOW", "output": "Log out now."}
+{"input": "SIGN UP", "output": "Sign up."}
+{"input": "SIGN IN", "output": "Sign in."}
+{"input": "PASSWORD WRONG", "output": "The password is wrong."}
+{"input": "USERNAME WRONG", "output": "The username is wrong."}
+{"input": "TRY LATER", "output": "Try again later."}
+{"input": "SERVER DOWN", "output": "The server is down."}
+{"input": "APP CRASH", "output": "The app crashed."}
+{"input": "YOU HOME", "output": "Are you at home?"}
+{"input": "I HOME", "output": "I am at home."}
+{"input": "YOU OUTSIDE", "output": "Are you outside?"}
+{"input": "I OUTSIDE", "output": "I am outside."}
+{"input": "YOU INSIDE", "output": "Are you inside?"}
+{"input": "I INSIDE", "output": "I am inside."}
+{"input": "YOU ALONE", "output": "Are you alone?"}
+{"input": "I ALONE", "output": "I am alone."}
+{"input": "YOU WITH FRIEND", "output": "Are you with your friend?"}
+{"input": "I WITH FRIEND", "output": "I am with my friend."}
+{"input": "YOU WITH FAMILY", "output": "Are you with your family?"}
+{"input": "I WITH FAMILY", "output": "I am with my family."}
+{"input": "YOU SAFE", "output": "Are you safe?"}
+{"input": "I SAFE", "output": "I am safe."}
+{"input": "YOU SCARED", "output": "Are you scared?"}
+{"input": "I SCARED", "output": "I am scared."}
+{"input": "YOU CONFUSED", "output": "Are you confused?"}
+{"input": "I CONFUSED", "output": "I am confused."}
+{"input": "YOU EXCITED", "output": "Are you excited?"}
+{"input": "I EXCITED", "output": "I am excited."}
+{"input": "YOU BORED", "output": "Are you bored?"}
+{"input": "I BORED", "output": "I am bored."}
+{"input": "YOU NERVOUS", "output": "Are you nervous?"}
+{"input": "I NERVOUS", "output": "I am nervous."}
+{"input": "YOU PROUD", "output": "Are you proud?"}
+{"input": "I PROUD", "output": "I am proud."}
+{"input": "YOU SHY", "output": "Are you shy?"}
+{"input": "I SHY", "output": "I am shy."}
+{"input": "YOU READY NOW", "output": "Are you ready now?"}
+{"input": "I READY NOW", "output": "I am ready now."}
+{"input": "YOU LATE", "output": "Are you late?"}
+{"input": "I LATE", "output": "I am late."}
+{"input": "YOU EARLY", "output": "Are you early?"}
+{"input": "I EARLY", "output": "I am early."}
+{"input": "YOU FAST", "output": "Are you fast?"}
+{"input": "I FAST", "output": "I am fast."}
+{"input": "YOU SLOW", "output": "Are you slow?"}
+{"input": "I SLOW", "output": "I am slow."}
+{"input": "YOU STRONG", "output": "Are you strong?"}
+{"input": "I STRONG", "output": "I am strong."}
+{"input": "YOU WEAK", "output": "Are you weak?"}
+{"input": "I WEAK", "output": "I am weak."}
+{"input": "YOU TALL", "output": "Are you tall?"}
+{"input": "I TALL", "output": "I am tall."}
+{"input": "YOU SHORT", "output": "Are you short?"}
+{"input": "I SHORT", "output": "I am short."}
+{"input": "YOU OLD", "output": "Are you old?"}
+{"input": "I OLD", "output": "I am old."}
+{"input": "YOU YOUNG", "output": "Are you young?"}
+{"input": "I YOUNG", "output": "I am young."}
+{"input": "YOU READY EAT", "output": "Are you ready to eat?"}
+{"input": "I READY EAT", "output": "I am ready to eat."}
+{"input": "YOU READY GO", "output": "Are you ready to go?"}
+{"input": "I READY GO", "output": "I am ready to go."}
+{"input": "YOU FINISH EAT", "output": "Have you finished eating?"}
+{"input": "I FINISH EAT", "output": "I have finished eating."}
+{"input": "YOU FINISH WORK", "output": "Have you finished work?"}
+{"input": "I FINISH WORK", "output": "I have finished work."}
+{"input": "YOU NEED REST", "output": "Do you need rest?"}
+{"input": "I NEED REST", "output": "I need rest."}
+{"input": "YOU NEED SLEEP", "output": "Do you need sleep?"}
+{"input": "I NEED SLEEP", "output": "I need sleep."}
+{"input": "YOU NEED BREAK", "output": "Do you need a break?"}
+{"input": "I NEED BREAK", "output": "I need a break."}
+{"input": "YOU WANT FOOD", "output": "Do you want food?"}
+{"input": "I WANT FOOD", "output": "I want food."}
+{"input": "YOU WANT WATER", "output": "Do you want water?"}
+{"input": "I WANT WATER", "output": "I want water."}
+{"input": "YOU WANT HELP", "output": "Do you want help?"}
+{"input": "I WANT HELP", "output": "I want help."}
+{"input": "YOU WANT TALK", "output": "Do you want to talk?"}
+{"input": "I WANT TALK", "output": "I want to talk."}
+{"input": "YOU WANT LEAVE", "output": "Do you want to leave?"}
+{"input": "I WANT LEAVE", "output": "I want to leave."}
+{"input": "YOU WANT STAY", "output": "Do you want to stay?"}
+{"input": "I WANT STAY", "output": "I want to stay."}
+{"input": "YOU NEED CHARGE", "output": "Do you need to charge it?"}
+{"input": "I NEED CHARGE", "output": "I need to charge it."}
+{"input": "YOU NEED WIFI", "output": "Do you need WiFi?"}
+{"input": "I NEED WIFI", "output": "I need WiFi."}
+{"input": "YOU READY PAY", "output": "Are you ready to pay?"}
+{"input": "I READY PAY", "output": "I am ready to pay."}
+{"input": "YOU FINISH TALK", "output": "Have you finished talking?"}
+{"input": "I FINISH TALK", "output": "I have finished talking."}
+{"input": "YOU FINISH CALL", "output": "Have you finished the call?"}
+{"input": "I FINISH CALL", "output": "I have finished the call."}
+{"input": "YOU START WORK", "output": "Did you start working?"}
+{"input": "I START WORK", "output": "I started working."}
+{"input": "YOU START EAT", "output": "Did you start eating?"}
+{"input": "I START EAT", "output": "I started eating."}
+{"input": "YOU START WALK", "output": "Did you start walking?"}
+{"input": "I START WALK", "output": "I started walking."}
+{"input": "YOU KNOW ME", "output": "Do you know me?"}
+{"input": "I KNOW YOU", "output": "I know you."}
+{"input": "YOU TRUST ME", "output": "Do you trust me?"}
+{"input": "I TRUST YOU", "output": "I trust you."}
+{"input": "YOU BELIEVE ME", "output": "Do you believe me?"}
+{"input": "I BELIEVE YOU", "output": "I believe you."}
+{"input": "YOU MISS ME", "output": "Do you miss me?"}
+{"input": "I MISS YOU", "output": "I miss you."}
+{"input": "YOU FORGIVE ME", "output": "Will you forgive me?"}
+{"input": "I FORGIVE YOU", "output": "I forgive you."}
+{"input": "YOU ANNOYED", "output": "Are you annoyed?"}
+{"input": "I ANNOYED", "output": "I am annoyed."}
+{"input": "YOU SURPRISED", "output": "Are you surprised?"}
+{"input": "I SURPRISED", "output": "I am surprised."}
+{"input": "YOU RELAXED", "output": "Are you relaxed?"}
+{"input": "I RELAXED", "output": "I am relaxed."}
+{"input": "YOU STRESSED", "output": "Are you stressed?"}
+{"input": "I STRESSED", "output": "I am stressed."}
+{"input": "YOU CONFIDENT", "output": "Are you confident?"}
+{"input": "I CONFIDENT", "output": "I am confident."}
+{"input": "YOU LOST", "output": "Are you lost?"}
+{"input": "I LOST", "output": "I am lost."}
+{"input": "YOU FOUND IT", "output": "Did you find it?"}
+{"input": "I FOUND IT", "output": "I found it."}
+{"input": "YOU NEED THIS", "output": "Do you need this?"}
+{"input": "I NEED THIS", "output": "I need this."}
+{"input": "YOU WANT THIS", "output": "Do you want this?"}
+{"input": "I WANT THIS", "output": "I want this."}
+{"input": "YOU LIKE THIS", "output": "Do you like this?"}
+{"input": "I LIKE THIS", "output": "I like this."}
+{"input": "YOU HATE THIS", "output": "Do you hate this?"}
+{"input": "I HATE THIS", "output": "I hate this."}
+{"input": "YOU TRY THIS", "output": "Will you try this?"}
+{"input": "I TRY THIS", "output": "I will try this."}
+{"input": "YOU USE THIS", "output": "Will you use this?"}
+{"input": "I USE THIS", "output": "I will use this."}
+{"input": "YOU FIX THIS", "output": "Will you fix this?"}
+{"input": "I FIX THIS", "output": "I will fix this."}
+{"input": "YOU CLEAN THIS", "output": "Will you clean this?"}
+{"input": "I CLEAN THIS", "output": "I will clean this."}
+{"input": "YOU WASH THIS", "output": "Will you wash this?"}
+{"input": "I WASH THIS", "output": "I will wash this."}
+{"input": "YOU DRY THIS", "output": "Will you dry this?"}
+{"input": "I DRY THIS", "output": "I will dry this."}
+{"input": "YOU CARRY THIS", "output": "Will you carry this?"}
+{"input": "I CARRY THIS", "output": "I will carry this."}
+{"input": "YOU THROW THIS", "output": "Will you throw this?"}
+{"input": "I THROW THIS", "output": "I will throw this."}
+{"input": "YOU OPEN THIS", "output": "Will you open this?"}
+{"input": "I OPEN THIS", "output": "I will open this."}
+{"input": "YOU CLOSE THIS", "output": "Will you close this?"}
+{"input": "I CLOSE THIS", "output": "I will close this."}
+{"input": "YOU TURN THIS", "output": "Will you turn this?"}
+{"input": "I TURN THIS", "output": "I will turn this."}
+{"input": "YOU CHECK THIS", "output": "Will you check this?"}
+{"input": "I CHECK THIS", "output": "I will check this."}
+{"input": "YOU READ THIS", "output": "Will you read this?"}
+{"input": "I READ THIS", "output": "I will read this."}
+{"input": "YOU WRITE THIS", "output": "Will you write this?"}
+{"input": "I WRITE THIS", "output": "I will write this."}
+{"input": "YOU WATCH THIS", "output": "Will you watch this?"}
+{"input": "I WATCH THIS", "output": "I will watch this."}
+{"input": "YOU LISTEN THIS", "output": "Will you listen to this?"}
+{"input": "I LISTEN THIS", "output": "I will listen to this."}
+{"input": "YOU LEARN THIS", "output": "Will you learn this?"}
+{"input": "I LEARN THIS", "output": "I will learn this."}
+{"input": "YOU TEACH ME", "output": "Will you teach me?"}
+{"input": "I TEACH YOU", "output": "I will teach you."}
+{"input": "YOU FOLLOW ME", "output": "Will you follow me?"}
+{"input": "I FOLLOW YOU", "output": "I will follow you."}
+{"input": "YOU LEAD ME", "output": "Will you lead me?"}
+{"input": "I LEAD YOU", "output": "I will lead you."}
+{"input": "YOU PROTECT ME", "output": "Will you protect me?"}
+{"input": "I PROTECT YOU", "output": "I will protect you."}
+{"input": "YOU SUPPORT ME", "output": "Will you support me?"}
+{"input": "I SUPPORT YOU", "output": "I will support you."}
+{"input": "YOU HELP ME", "output": "Will you help me?"}
+{"input": "I HELP YOU", "output": "I will help you."}
+{"input": "YOU GUIDE ME", "output": "Will you guide me?"}
+{"input": "I GUIDE YOU", "output": "I will guide you."}
+{"input": "YOU STOP ME", "output": "Will you stop me?"}
+{"input": "I STOP YOU", "output": "I will stop you."}
+{"input": "YOU ALLOW ME", "output": "Will you allow me?"}
+{"input": "I ALLOW YOU", "output": "I will allow you."}
+{"input": "YOU WARN ME", "output": "Will you warn me?"}
+{"input": "I WARN YOU", "output": "I will warn you."}
+{"input": "YOU REMIND ME", "output": "Will you remind me?"}
+{"input": "I REMIND YOU", "output": "I will remind you."}
+{"input": "YOU INVITE ME", "output": "Will you invite me?"}
+{"input": "I INVITE YOU", "output": "I will invite you."}
+{"input": "YOU JOIN ME", "output": "Will you join me?"}
+{"input": "I JOIN YOU", "output": "I will join you."}
+{"input": "YOU LEAVE ME", "output": "Will you leave me?"}
+{"input": "I LEAVE YOU", "output": "I will leave you."}
+{"input": "WHAT YOUR NAME", "output": "What is your name?"}
+{"input": "WHO YOU", "output": "Who are you?"}
+{"input": "WHERE YOU LIVE", "output": "Where do you live?"}
+{"input": "HOW YOU FEEL", "output": "How do you feel?"}
+{"input": "WHAT THIS", "output": "What is this?"}
+{"input": "WHO THAT PERSON", "output": "Who is that person?"}
+{"input": "WHERE MY PHONE", "output": "Where is my phone?"}
+{"input": "HOW THIS WORK", "output": "How does this work?"}
+{"input": "WHAT YOUR JOB", "output": "What is your job?"}
+{"input": "WHO YOUR FRIEND", "output": "Who is your friend?"}
+
+{"input": "WHERE BUS STOP", "output": "Where is the bus stop?"}
+{"input": "WHAT YOU DOING", "output": "What are you doing?"}
+{"input": "HOW YOU KNOW", "output": "How do you know?"}
+{"input": "WHO CALL YOU", "output": "Who called you?"}
+{"input": "WHERE WATER", "output": "Where is the water?"}
+{"input": "WHAT THIS CALLED", "output": "What is this called?"}
+{"input": "HOW MUCH THIS", "output": "How much is this?"}
+{"input": "WHO TEACH YOU", "output": "Who teaches you?"}
+{"input": "WHERE FOOD", "output": "Where is the food?"}
+{"input": "WHAT YOU WANT", "output": "What do you want?"}
+
+{"input": "WHO WRITE THIS", "output": "Who wrote this?"}
+{"input": "WHERE BAG", "output": "Where is the bag?"}
+{"input": "HOW YOU COME", "output": "How did you come?"}
+{"input": "WHAT THAT SOUND", "output": "What is that sound?"}
+{"input": "WHO OPEN DOOR", "output": "Who opened the door?"}
+{"input": "WHERE KEY", "output": "Where is the key?"}
+{"input": "HOW YOU COOK", "output": "How do you cook?"}
+{"input": "WHAT YOUR PLAN", "output": "What is your plan?"}
+{"input": "WHO YOUR TEACHER", "output": "Who is your teacher?"}
+{"input": "WHERE SHOES", "output": "Where are my shoes?"}
+
+{"input": "WHAT YOU THINK", "output": "What do you think?"}
+{"input": "WHO SEND MESSAGE", "output": "Who sent the message?"}
+{"input": "WHERE MARKET", "output": "Where is the market?"}
+{"input": "HOW YOU LEARN", "output": "How do you learn?"}
+{"input": "WHAT THIS MEAN", "output": "What does this mean?"}
+{"input": "WHO BREAK GLASS", "output": "Who broke the glass?"}
+{"input": "WHERE CHAIR", "output": "Where is the chair?"}
+{"input": "HOW YOU OPEN", "output": "How do you open this?"}
+{"input": "WHAT YOUR HOBBY", "output": "What is your hobby?"}
+{"input": "WHO COOK FOOD", "output": "Who cooked the food?"}
+
+{"input": "WHERE BOOK", "output": "Where is the book?"}
+{"input": "HOW YOU FIX", "output": "How do you fix this?"}
+{"input": "WHAT YOU LIKE", "output": "What do you like?"}
+{"input": "WHO BUY THIS", "output": "Who bought this?"}
+{"input": "WHERE MY WALLET", "output": "Where is my wallet?"}
+{"input": "HOW YOU WRITE", "output": "How do you write this?"}
+{"input": "WHAT THIS USE", "output": "What is this used for?"}
+{"input": "WHO DRIVE CAR", "output": "Who drives the car?"}
+{"input": "WHERE MY GLASSES", "output": "Where are my glasses?"}
+{"input": "HOW YOU START", "output": "How do you start this?"}
+
+{"input": "WHAT YOU SEARCH", "output": "What are you searching for?"}
+{"input": "WHO SING SONG", "output": "Who is singing the song?"}
+{"input": "WHERE MY CHARGER", "output": "Where is my charger?"}
+{"input": "HOW YOU SOLVE", "output": "How do you solve this?"}
+{"input": "WHAT YOUR FAVOURITE", "output": "What is your favourite?"}
+{"input": "WHO CLEAN ROOM", "output": "Who cleaned the room?"}
+{"input": "WHERE TICKET", "output": "Where is the ticket?"}
+{"input": "HOW YOU REMEMBER", "output": "How do you remember this?"}
+{"input": "WHAT THIS FOR", "output": "What is this for?"}
+{"input": "WHO MAKE CAKE", "output": "Who made the cake?"}
+
+{"input": "WHAT YOU WATCH", "output": "What are you watching?"}
+{"input": "WHO FIX COMPUTER", "output": "Who fixed the computer?"}
+{"input": "WHERE REMOTE", "output": "Where is the remote?"}
+{"input": "HOW YOU FIND", "output": "How did you find this?"}
+{"input": "WHAT YOU NEED", "output": "What do you need?"}
+{"input": "WHO OPEN WINDOW", "output": "Who opened the window?"}
+{"input": "WHERE BOTTLE", "output": "Where is the bottle?"}
+{"input": "HOW YOU USE", "output": "How do you use this?"}
+{"input": "WHAT YOU BUY", "output": "What did you buy?"}
+{"input": "WHO SEND EMAIL", "output": "Who sent the email?"}
+{"input": "PLANET NAMES", "output": "What are the names of the planets?"}
+{"input": "PLANETS HOW MANY", "output": "How many planets are there?"}
+{"input": "PLANET ORDER", "output": "What is the order of the planets?"}
+{"input": "PLANET INFORMATION", "output": "Can you give information about the planets?"}
+{"input": "BIGGEST PLANET", "output": "Which is the biggest planet?"}
+{"input": "SMALLEST PLANET", "output": "Which is the smallest planet?"}
+
+{"input": "FRUIT NAMES", "output": "What are the names of fruits?"}
+{"input": "FRUITS HOW MANY", "output": "How many fruits are there?"}
+{"input": "FRUIT COLOURS", "output": "What are the colours of fruits?"}
+{"input": "SWEET FRUITS", "output": "Which fruits are sweet?"}
+{"input": "SOUR FRUITS", "output": "Which fruits are sour?"}
+
+{"input": "ANIMAL NAMES", "output": "What are the names of animals?"}
+{"input": "WILD ANIMALS", "output": "What are wild animals?"}
+{"input": "PET ANIMALS", "output": "What are pet animals?"}
+{"input": "FASTEST ANIMAL", "output": "Which is the fastest animal?"}
+{"input": "BIGGEST ANIMAL", "output": "Which is the biggest animal?"}
+
+{"input": "BIRD NAMES", "output": "What are the names of birds?"}
+{"input": "FLYING BIRDS", "output": "Which birds can fly?"}
+{"input": "SMALLEST BIRD", "output": "Which is the smallest bird?"}
+{"input": "NATIONAL BIRD", "output": "What is the national bird?"}
+
+{"input": "COLOUR NAMES", "output": "What are the names of colours?"}
+{"input": "PRIMARY COLOURS", "output": "What are the primary colours?"}
+{"input": "DARK COLOURS", "output": "Which are dark colours?"}
+{"input": "LIGHT COLOURS", "output": "Which are light colours?"}
+
+{"input": "VEHICLE NAMES", "output": "What are the names of vehicles?"}
+{"input": "FAST VEHICLES", "output": "Which vehicles are fast?"}
+{"input": "TWO WHEEL VEHICLES", "output": "What are two-wheel vehicles?"}
+{"input": "FOUR WHEEL VEHICLES", "output": "What are four-wheel vehicles?"}
+
+{"input": "BODY PART NAMES", "output": "What are the names of body parts?"}
+{"input": "INTERNAL ORGANS", "output": "What are internal organs?"}
+{"input": "EXTERNAL BODY PARTS", "output": "What are external body parts?"}
+
+{"input": "FLOWER NAMES", "output": "What are the names of flowers?"}
+{"input": "RED FLOWERS", "output": "Which flowers are red?"}
+{"input": "NATIONAL FLOWER", "output": "What is the national flower?"}
+
+{"input": "COUNTRY NAMES", "output": "What are the names of countries?"}
+{"input": "CAPITAL NAMES", "output": "What are the names of capitals?"}
+{"input": "BIG COUNTRIES", "output": "Which are big countries?"}
+{"input": "SMALL COUNTRIES", "output": "Which are small countries?"}
+
+{"input": "OCEAN NAMES", "output": "What are the names of oceans?"}
+{"input": "SEA NAMES", "output": "What are the names of seas?"}
+{"input": "BIGGEST OCEAN", "output": "Which is the biggest ocean?"}
+
+{"input": "RIVER NAMES", "output": "What are the names of rivers?"}
+{"input": "LONGEST RIVER", "output": "Which is the longest river?"}
+{"input": "SMALLEST RIVER", "output": "Which is the smallest river?"}
+
+{"input": "MOUNTAIN NAMES", "output": "What are the names of mountains?"}
+{"input": "HIGHEST MOUNTAIN", "output": "Which is the highest mountain?"}
+
+{"input": "FOOD NAMES", "output": "What are the names of foods?"}
+{"input": "FAST FOOD", "output": "What is fast food?"}
+{"input": "HEALTHY FOOD", "output": "What is healthy food?"}
+
+{"input": "SPORTS NAMES", "output": "What are the names of sports?"}
+{"input": "INDOOR GAMES", "output": "What are indoor games?"}
+{"input": "OUTDOOR GAMES", "output": "What are outdoor games?"}
+
+{"input": "SUBJECT NAMES", "output": "What are the names of subjects?"}
+{"input": "SCIENCE SUBJECTS", "output": "What are science subjects?"}
+{"input": "ART SUBJECTS", "output": "What are art subjects?"}
+
+{"input": "TOOL NAMES", "output": "What are the names of tools?"}
+{"input": "KITCHEN TOOLS", "output": "What are kitchen tools?"}
+{"input": "FARM TOOLS", "output": "What are farm tools?"}
+
+{"input": "WEATHER TYPES", "output": "What are the types of weather?"}
+{"input": "RAINY WEATHER", "output": "What is rainy weather?"}
+{"input": "HOT WEATHER", "output": "What is hot weather?"}
+{"input": "COLD WEATHER", "output": "What is cold weather?"}
+
+{"input": "SHAPE NAMES", "output": "What are the names of shapes?"}
+{"input": "2D SHAPES", "output": "What are two-dimensional shapes?"}
+{"input": "3D SHAPES", "output": "What are three-dimensional shapes?"}
+
+{"input": "NUMBER NAMES", "output": "What are the names of numbers?"}
+{"input": "EVEN NUMBERS", "output": "What are even numbers?"}
+{"input": "ODD NUMBERS", "output": "What are odd numbers?"}
+{"input": "STAR NAMES", "output": "What are the names of stars?"}
+{"input": "SUN INFORMATION", "output": "Can you give information about the sun?"}
+{"input": "MOON PHASES", "output": "What are the phases of the moon?"}
+{"input": "SOLAR SYSTEM", "output": "What is the solar system?"}
+{"input": "ECLIPSE TYPES", "output": "What are the types of eclipses?"}
+
+{"input": "TREE NAMES", "output": "What are the names of trees?"}
+{"input": "MEDICINAL PLANTS", "output": "What are medicinal plants?"}
+{"input": "SEASON TYPES", "output": "What are the types of seasons?"}
+{"input": "NATURAL RESOURCES", "output": "What are natural resources?"}
+{"input": "RENEWABLE ENERGY", "output": "What is renewable energy?"}
+
+{"input": "TRANSPORT TYPES", "output": "What are the types of transport?"}
+{"input": "PUBLIC TRANSPORT", "output": "What is public transport?"}
+{"input": "PRIVATE TRANSPORT", "output": "What is private transport?"}
+{"input": "TRAFFIC SIGNAL COLOURS", "output": "What are the colours of traffic signals?"}
+{"input": "ROAD SAFETY RULES", "output": "What are road safety rules?"}
+
+{"input": "COMPUTER PART NAMES", "output": "What are the names of computer parts?"}
+{"input": "INPUT DEVICES", "output": "What are input devices?"}
+{"input": "OUTPUT DEVICES", "output": "What are output devices?"}
+{"input": "STORAGE DEVICES", "output": "What are storage devices?"}
+{"input": "COMPUTER MEMORY", "output": "What is computer memory?"}
+
+{"input": "INTERNET USES", "output": "What are the uses of the internet?"}
+{"input": "SOCIAL MEDIA", "output": "What is social media?"}
+{"input": "EMAIL USE", "output": "What is email used for?"}
+{"input": "SEARCH ENGINE", "output": "What is a search engine?"}
+{"input": "CYBER SAFETY", "output": "What is cyber safety?"}
+
+{"input": "BANK SERVICES", "output": "What services do banks provide?"}
+{"input": "ATM USE", "output": "What is an ATM used for?"}
+{"input": "ONLINE PAYMENT", "output": "What is online payment?"}
+{"input": "SAVING MONEY", "output": "Why should we save money?"}
+{"input": "LOAN MEANING", "output": "What is a loan?"}
+
+{"input": "HEALTHY HABITS", "output": "What are healthy habits?"}
+{"input": "EXERCISE BENEFITS", "output": "What are the benefits of exercise?"}
+{"input": "BALANCED DIET", "output": "What is a balanced diet?"}
+{"input": "FIRST AID", "output": "What is first aid?"}
+{"input": "COMMON DISEASES", "output": "What are common diseases?"}
+
+{"input": "DOCTOR ROLE", "output": "What is the role of a doctor?"}
+{"input": "TEACHER ROLE", "output": "What is the role of a teacher?"}
+{"input": "POLICE DUTY", "output": "What is the duty of the police?"}
+{"input": "FARMER WORK", "output": "What work does a farmer do?"}
+{"input": "ENGINEER JOB", "output": "What is the job of an engineer?"}
+
+{"input": "FESTIVAL NAMES", "output": "What are the names of festivals?"}
+{"input": "NATIONAL FESTIVALS", "output": "What are national festivals?"}
+{"input": "RELIGIOUS FESTIVALS", "output": "What are religious festivals?"}
+{"input": "HARVEST FESTIVAL", "output": "What is a harvest festival?"}
+{"input": "CULTURAL FESTIVAL", "output": "What is a cultural festival?"}
+
+{"input": "DANCE TYPES", "output": "What are the types of dance?"}
+{"input": "MUSIC TYPES", "output": "What are the types of music?"}
+{"input": "INSTRUMENT NAMES", "output": "What are the names of musical instruments?"}
+{"input": "CLASSICAL MUSIC", "output": "What is classical music?"}
+{"input": "FOLK DANCE", "output": "What is folk dance?"}
+
+{"input": "LANGUAGE NAMES", "output": "What are the names of languages?"}
+{"input": "MOTHER TONGUE", "output": "What is a mother tongue?"}
+{"input": "NATIONAL LANGUAGE", "output": "What is the national language?"}
+{"input": "INTERNATIONAL LANGUAGE", "output": "What is an international language?"}
+{"input": "SIGN LANGUAGE", "output": "What is sign language?"}
+
+{"input": "LAW MEANING", "output": "What is law?"}
+{"input": "COURT FUNCTION", "output": "What is the function of a court?"}
+{"input": "JUDGE ROLE", "output": "What is the role of a judge?"}
+{"input": "LAWYER WORK", "output": "What does a lawyer do?"}
+{"input": "CRIME MEANING", "output": "What is a crime?"}
+
+{"input": "PLANT PARTS", "output": "What are the parts of a plant?"}
+{"input": "ROOT FUNCTION", "output": "What is the function of roots?"}
+{"input": "LEAF FUNCTION", "output": "What is the function of leaves?"}
+{"input": "FLOWER FUNCTION", "output": "What is the function of flowers?"}
+{"input": "SEED GROWTH", "output": "How does a seed grow?"}
+
+{"input": "WATER SOURCES", "output": "What are the sources of water?"}
+{"input": "DRINKING WATER", "output": "What is drinking water?"}
+{"input": "WATER CONSERVATION", "output": "What is water conservation?"}
+{"input": "RAIN WATER HARVESTING", "output": "What is rainwater harvesting?"}
+{"input": "WATER CYCLE", "output": "What is the water cycle?"}
+
+{"input": "AIR POLLUTION", "output": "What is air pollution?"}
+{"input": "WATER POLLUTION", "output": "What is water pollution?"}
+{"input": "NOISE POLLUTION", "output": "What is noise pollution?"}
+{"input": "POLLUTION EFFECTS", "output": "What are the effects of pollution?"}
+{"input": "SAVE ENVIRONMENT", "output": "Why should we save the environment?"}
+{"input": "PLANET DISTANCE", "output": "What is the distance between the planets?"}
+{"input": "EARTH SHAPE", "output": "What is the shape of the Earth?"}
+{"input": "GRAVITY MEANING", "output": "What is gravity?"}
+{"input": "LIGHT SPEED", "output": "What is the speed of light?"}
+{"input": "SOUND SPEED", "output": "What is the speed of sound?"}
+
+{"input": "WEATHER MEANING", "output": "What is weather?"}
+{"input": "CLIMATE MEANING", "output": "What is climate?"}
+{"input": "RAIN FORMATION", "output": "How is rain formed?"}
+{"input": "CLOUD TYPES", "output": "What are the types of clouds?"}
+{"input": "WIND FORMATION", "output": "How is wind formed?"}
+
+{"input": "FOOD NUTRIENTS", "output": "What are nutrients in food?"}
+{"input": "PROTEIN FOODS", "output": "Which foods give protein?"}
+{"input": "CARBOHYDRATE FOODS", "output": "Which foods give carbohydrates?"}
+{"input": "VITAMIN FOODS", "output": "Which foods give vitamins?"}
+{"input": "MINERAL FOODS", "output": "Which foods give minerals?"}
+
+{"input": "DIGESTION PROCESS", "output": "How does digestion happen?"}
+{"input": "HEART FUNCTION", "output": "What is the function of the heart?"}
+{"input": "BRAIN FUNCTION", "output": "What is the function of the brain?"}
+{"input": "LUNGS FUNCTION", "output": "What is the function of the lungs?"}
+{"input": "BLOOD FUNCTION", "output": "What is the function of blood?"}
+
+{"input": "BIRD TYPES", "output": "What are the types of birds?"}
+{"input": "WILD ANIMALS", "output": "What are wild animals?"}
+{"input": "DOMESTIC ANIMALS", "output": "What are domestic animals?"}
+{"input": "HERBIVORE ANIMALS", "output": "What are herbivore animals?"}
+{"input": "CARNIVORE ANIMALS", "output": "What are carnivore animals?"}
+
+{"input": "OMICRO HABITAT", "output": "What is a habitat?"}
+{"input": "FOREST ECOSYSTEM", "output": "What is a forest ecosystem?"}
+{"input": "DESERT ECOSYSTEM", "output": "What is a desert ecosystem?"}
+{"input": "AQUATIC ANIMALS", "output": "What are aquatic animals?"}
+{"input": "TERRESTRIAL ANIMALS", "output": "What are terrestrial animals?"}
+
+{"input": "MAP USE", "output": "What is the use of a map?"}
+{"input": "GLOBE USE", "output": "What is the use of a globe?"}
+{"input": "DIRECTION TYPES", "output": "What are the types of directions?"}
+{"input": "COMPASS USE", "output": "What is the use of a compass?"}
+{"input": "LATITUDE MEANING", "output": "What is latitude?"}
+
+{"input": "LONGITUDE MEANING", "output": "What is longitude?"}
+{"input": "EQUATOR MEANING", "output": "What is the equator?"}
+{"input": "HEMISPHERE TYPES", "output": "What are the types of hemispheres?"}
+{"input": "CONTINENT NAMES", "output": "What are the names of continents?"}
+{"input": "OCEAN NAMES", "output": "What are the names of oceans?"}
+
+{"input": "STATE NAMES", "output": "What are the names of states?"}
+{"input": "CAPITAL CITIES", "output": "What are capital cities?"}
+{"input": "NATIONAL SYMBOLS", "output": "What are national symbols?"}
+{"input": "FLAG MEANING", "output": "What does the national flag represent?"}
+{"input": "NATIONAL ANTHEM", "output": "What is the national anthem?"}
+
+{"input": "VOTING MEANING", "output": "What is voting?"}
+{"input": "DEMOCRACY MEANING", "output": "What is democracy?"}
+{"input": "CONSTITUTION MEANING", "output": "What is the constitution?"}
+{"input": "RIGHTS MEANING", "output": "What are fundamental rights?"}
+{"input": "DUTIES MEANING", "output": "What are fundamental duties?"}
+
+{"input": "SCHOOL RULES", "output": "What are school rules?"}
+{"input": "CLASSROOM DISCIPLINE", "output": "Why is classroom discipline important?"}
+{"input": "HOMEWORK USE", "output": "Why is homework given?"}
+{"input": "EXAM MEANING", "output": "What is an examination?"}
+{"input": "RESULT MEANING", "output": "What is a result?"}
+
+{"input": "BUSINESS MEANING", "output": "What is business?"}
+{"input": "PROFIT MEANING", "output": "What is profit?"}
+{"input": "LOSS MEANING", "output": "What is loss?"}
+{"input": "CUSTOMER MEANING", "output": "Who is a customer?"}
+{"input": "SHOPKEEPER ROLE", "output": "What is the role of a shopkeeper?"}
+
+{"input": "ADVERTISEMENT MEANING", "output": "What is an advertisement?"}
+{"input": "BRAND MEANING", "output": "What is a brand?"}
+{"input": "QUALITY MEANING", "output": "What is quality?"}
+{"input": "PRICE MEANING", "output": "What is price?"}
+{"input": "DISCOUNT MEANING", "output": "What is a discount?"}
+
+{"input": "ENERGY MEANING", "output": "What is energy?"}
+{"input": "KINETIC ENERGY", "output": "What is kinetic energy?"}
+{"input": "POTENTIAL ENERGY", "output": "What is potential energy?"}
+{"input": "FORCE MEANING", "output": "What is force?"}
+{"input": "FRICTION MEANING", "output": "What is friction?"}
+
+{"input": "MAGNET USE", "output": "What is the use of a magnet?"}
+{"input": "ELECTRICITY MEANING", "output": "What is electricity?"}
+{"input": "CIRCUIT MEANING", "output": "What is an electric circuit?"}
+{"input": "SWITCH USE", "output": "What is the use of a switch?"}
+{"input": "BATTERY USE", "output": "What is the use of a battery?"}
+
+{"input": "METAL MEANING", "output": "What is a metal?"}
+{"input": "NONMETAL MEANING", "output": "What is a non-metal?"}
+{"input": "ALLOY MEANING", "output": "What is an alloy?"}
+{"input": "RUSTING MEANING", "output": "What is rusting?"}
+{"input": "CORROSION MEANING", "output": "What is corrosion?"}
+
+{"input": "SOLID MEANING", "output": "What is a solid?"}
+{"input": "LIQUID MEANING", "output": "What is a liquid?"}
+{"input": "GAS MEANING", "output": "What is a gas?"}
+{"input": "EVAPORATION MEANING", "output": "What is evaporation?"}
+{"input": "CONDENSATION MEANING", "output": "What is condensation?"}
+{"input": "INTERNET MEANING", "output": "What is the internet?"}
+{"input": "EMAIL MEANING", "output": "What is an email?"}
+{"input": "PASSWORD USE", "output": "Why is a password needed?"}
+{"input": "WEBSITE MEANING", "output": "What is a website?"}
+{"input": "SEARCH ENGINE MEANING", "output": "What is a search engine?"}
+
+{"input": "MOBILE PHONE USE", "output": "What is the use of a mobile phone?"}
+{"input": "COMPUTER USE", "output": "What is the use of a computer?"}
+{"input": "KEYBOARD USE", "output": "What is the use of a keyboard?"}
+{"input": "MOUSE USE", "output": "What is the use of a mouse?"}
+{"input": "MONITOR USE", "output": "What is the use of a monitor?"}
+
+{"input": "SOFTWARE MEANING", "output": "What is software?"}
+{"input": "HARDWARE MEANING", "output": "What is hardware?"}
+{"input": "APPLICATION MEANING", "output": "What is an application?"}
+{"input": "FILE MEANING", "output": "What is a file?"}
+{"input": "FOLDER MEANING", "output": "What is a folder?"}
+
+{"input": "LOGIN MEANING", "output": "What does login mean?"}
+{"input": "LOGOUT MEANING", "output": "What does logout mean?"}
+{"input": "DOWNLOAD MEANING", "output": "What does download mean?"}
+{"input": "UPLOAD MEANING", "output": "What does upload mean?"}
+{"input": "UPDATE MEANING", "output": "What does update mean?"}
+
+{"input": "CAMERA USE", "output": "What is the use of a camera?"}
+{"input": "MICROPHONE USE", "output": "What is the use of a microphone?"}
+{"input": "SPEAKER USE", "output": "What is the use of a speaker?"}
+{"input": "HEADPHONE USE", "output": "What is the use of a headphone?"}
+{"input": "PRINTER USE", "output": "What is the use of a printer?"}
+
+{"input": "ONLINE CLASS MEANING", "output": "What is an online class?"}
+{"input": "VIDEO CALL MEANING", "output": "What is a video call?"}
+{"input": "MESSAGE MEANING", "output": "What is a message?"}
+{"input": "CONTACT LIST MEANING", "output": "What is a contact list?"}
+{"input": "NOTIFICATION MEANING", "output": "What is a notification?"}
+
+{"input": "POWER BUTTON USE", "output": "What is the use of the power button?"}
+{"input": "CHARGER USE", "output": "What is the use of a charger?"}
+{"input": "BATTERY PERCENTAGE", "output": "What does battery percentage mean?"}
+{"input": "STORAGE SPACE MEANING", "output": "What is storage space?"}
+{"input": "MEMORY MEANING", "output": "What is memory?"}
+{"input": "YOUR NAME WHAT", "output": "What is your name?"}
+{"input": "YOUR AGE WHAT", "output": "What is your age?"}
+{"input": "YOU FROM WHERE", "output": "Where are you from?"}
+{"input": "YOU STUDENT", "output": "Are you a student?"}
+{"input": "YOU WORK WHAT", "output": "What do you do for work?"}
+
+{"input": "TIME NOW WHAT", "output": "What is the time now?"}
+{"input": "TODAY DATE WHAT", "output": "What is today’s date?"}
+{"input": "WEATHER TODAY HOW", "output": "How is the weather today?"}
+{"input": "RAIN TODAY", "output": "Is it raining today?"}
+{"input": "HOT TODAY", "output": "Is it hot today?"}
+
+{"input": "YOU OK", "output": "Are you okay?"}
+{"input": "YOU HAPPY", "output": "Are you happy?"}
+{"input": "YOU SAD WHY", "output": "Why are you sad?"}
+{"input": "YOU TIRED", "output": "Are you tired?"}
+{"input": "YOU ANGRY WHY", "output": "Why are you angry?"}
+
+{"input": "FOOD YOU LIKE WHAT", "output": "What food do you like?"}
+{"input": "TEA OR COFFEE YOU LIKE", "output": "Do you like tea or coffee?"}
+{"input": "WATER YOU WANT", "output": "Do you want water?"}
+{"input": "HUNGRY YOU", "output": "Are you hungry?"}
+{"input": "FOOD READY", "output": "Is the food ready?"}
+
+{"input": "HELP YOU NEED", "output": "Do you need help?"}
+{"input": "PROBLEM WHAT", "output": "What is the problem?"}
+{"input": "I HELP YOU", "output": "Can I help you?"}
+{"input": "YOU UNDERSTAND", "output": "Do you understand?"}
+{"input": "AGAIN SAY", "output": "Please say it again."}
+
+{"input": "THIS PRICE HOW MUCH", "output": "How much is this?"}
+{"input": "CHEAP OR EXPENSIVE", "output": "Is it cheap or expensive?"}
+{"input": "DISCOUNT AVAILABLE", "output": "Is there a discount available?"}
+{"input": "PAYMENT HOW", "output": "How can I pay?"}
+{"input": "CASH OR CARD", "output": "Can I pay by cash or card?"}
+
+{"input": "BUS STOP WHERE", "output": "Where is the bus stop?"}
+{"input": "TRAIN STATION WHERE", "output": "Where is the train station?"}
+{"input": "HOSPITAL WHERE", "output": "Where is the hospital?"}
+{"input": "POLICE STATION WHERE", "output": "Where is the police station?"}
+{"input": "TOILET WHERE", "output": "Where is the toilet?"}
+
+{"input": "PHONE BATTERY LOW", "output": "My phone battery is low."}
+{"input": "CHARGER YOU HAVE", "output": "Do you have a charger?"}
+{"input": "INTERNET WORK NOT", "output": "The internet is not working."}
+{"input": "CALL YOU LATER", "output": "I will call you later."}
+{"input": "MESSAGE YOU SEND", "output": "I will send you a message."}
+
+{"input": "CLASS START WHEN", "output": "When will the class start?"}
+{"input": "CLASS END WHEN", "output": "When will the class end?"}
+{"input": "TEACHER WHERE", "output": "Where is the teacher?"}
+{"input": "HOMEWORK YOU DO", "output": "Did you do your homework?"}
+{"input": "EXAM HARD", "output": "Is the exam hard?"}
+
+{"input": "MOVIE YOU WATCH", "output": "Did you watch the movie?"}
+{"input": "MOVIE GOOD", "output": "Was the movie good?"}
+{"input": "SONG YOU LIKE", "output": "Do you like this song?"}
+{"input": "MUSIC LOUD", "output": "Is the music loud?"}
+{"input": "TV ON", "output": "Is the TV on?"}
+
+{"input": "DOOR OPEN", "output": "Is the door open?"}
+{"input": "WINDOW CLOSE", "output": "Is the window closed?"}
+{"input": "LIGHT ON", "output": "Is the light on?"}
+{"input": "FAN ON", "output": "Is the fan on?"}
+{"input": "AC WORK", "output": "Is the air conditioner working?"}
+
+{"input": "YOU FREE NOW", "output": "Are you free now?"}
+{"input": "YOU BUSY", "output": "Are you busy?"}
+{"input": "MEET YOU NOW", "output": "Can I meet you now?"}
+{"input": "WAIT YOU CAN", "output": "Can you wait?"}
+{"input": "HURRY UP", "output": "Please hurry up."}
+
+{"input": "YOU COME WHEN", "output": "When will you come?"}
+{"input": "YOU GO WHERE", "output": "Where are you going?"}
+{"input": "YOU STAY HERE", "output": "Will you stay here?"}
+{"input": "YOU COME WITH ME", "output": "Will you come with me?"}
+{"input": "I GO NOW", "output": "I am going now."}
+{"input": "YOUR FATHER NAME WHAT", "output": "What is your father's name?"}
+{"input": "YOUR MOTHER NAME WHAT", "output": "What is your mother's name?"}
+{"input": "YOU LIVE WHERE", "output": "Where do you live?"}
+{"input": "YOU STUDY WHAT", "output": "What do you study?"}
+{"input": "YOU JOB WHAT", "output": "What is your job?"}
+
+{"input": "YOU MARRIED", "output": "Are you married?"}
+{"input": "YOU SINGLE", "output": "Are you single?"}
+{"input": "YOU CHILD HAVE", "output": "Do you have children?"}
+{"input": "YOU BROTHER HAVE", "output": "Do you have a brother?"}
+{"input": "YOU SISTER HAVE", "output": "Do you have a sister?"}
+
+{"input": "YOU LIKE SPORTS", "output": "Do you like sports?"}
+{"input": "YOUR FAVORITE SPORT WHAT", "output": "What is your favorite sport?"}
+{"input": "YOU PLAY GAME", "output": "Do you play games?"}
+{"input": "YOU WATCH TV", "output": "Do you watch TV?"}
+{"input": "YOU READ BOOK", "output": "Do you read books?"}
+
+{"input": "YOU WAKE UP WHEN", "output": "When do you wake up?"}
+{"input": "YOU SLEEP WHEN", "output": "When do you sleep?"}
+{"input": "YOU EAT BREAKFAST", "output": "Do you eat breakfast?"}
+{"input": "YOU EAT LUNCH", "output": "Do you eat lunch?"}
+{"input": "YOU EAT DINNER", "output": "Do you eat dinner?"}
+
+{"input": "YOU COOK FOOD", "output": "Do you cook food?"}
+{"input": "YOU CLEAN HOUSE", "output": "Do you clean the house?"}
+{"input": "YOU WASH CLOTHES", "output": "Do you wash clothes?"}
+{"input": "YOU BUY VEGETABLE", "output": "Do you buy vegetables?"}
+{"input": "YOU GO SHOP", "output": "Do you go shopping?"}
+
+{"input": "THIS YOUR PHONE", "output": "Is this your phone?"}
+{"input": "THIS YOUR BAG", "output": "Is this your bag?"}
+{"input": "THIS YOUR BOOK", "output": "Is this your book?"}
+{"input": "THIS YOUR HOUSE", "output": "Is this your house?"}
+{"input": "THIS YOUR CAR", "output": "Is this your car?"}
+
+{"input": "YOU DRIVE CAR", "output": "Do you drive a car?"}
+{"input": "YOU RIDE BIKE", "output": "Do you ride a bike?"}
+{"input": "YOU USE BUS", "output": "Do you use the bus?"}
+{"input": "YOU TRAVEL TRAIN", "output": "Do you travel by train?"}
+{"input": "YOU BOOK TICKET", "output": "Do you book tickets?"}
+
+{"input": "YOU FEEL SICK", "output": "Do you feel sick?"}
+{"input": "YOU HAVE FEVER", "output": "Do you have a fever?"}
+{"input": "YOU TAKE MEDICINE", "output": "Do you take medicine?"}
+{"input": "DOCTOR YOU SEE", "output": "Did you see the doctor?"}
+{"input": "HOSPITAL YOU GO", "output": "Did you go to the hospital?"}
+
+{"input": "YOU LIKE MUSIC", "output": "Do you like music?"}
+{"input": "YOUR FAVORITE SONG WHAT", "output": "What is your favorite song?"}
+{"input": "YOU SING SONG", "output": "Do you sing songs?"}
+{"input": "YOU DANCE", "output": "Do you dance?"}
+{"input": "YOU DRAW PICTURE", "output": "Do you draw pictures?"}
+
+{"input": "YOU USE MOBILE", "output": "Do you use a mobile phone?"}
+{"input": "YOU USE LAPTOP", "output": "Do you use a laptop?"}
+{"input": "YOU USE INTERNET", "output": "Do you use the internet?"}
+{"input": "YOU SEND EMAIL", "output": "Do you send emails?"}
+{"input": "YOU VIDEO CALL", "output": "Do you make video calls?"}
+
+{"input": "YOU TRUST ME", "output": "Do you trust me?"}
+{"input": "YOU MISS ME", "output": "Do you miss me?"}
+{"input": "YOU REMEMBER ME", "output": "Do you remember me?"}
+{"input": "YOU FORGIVE ME", "output": "Will you forgive me?"}
+{"input": "YOU HELP ME", "output": "Will you help me?"}
+
+{"input": "YOU COME HERE", "output": "Will you come here?"}
+{"input": "YOU GO THERE", "output": "Will you go there?"}
+{"input": "YOU WAIT HERE", "output": "Will you wait here?"}
+{"input": "YOU STAY HOME", "output": "Will you stay at home?"}
+{"input": "YOU LEAVE NOW", "output": "Will you leave now?"}
+
+{"input": "YOU LIKE ME", "output": "Do you like me?"}
+{"input": "YOU HATE ME", "output": "Do you hate me?"}
+{"input": "YOU ANGRY ME", "output": "Are you angry with me?"}
+{"input": "YOU PROUD ME", "output": "Are you proud of me?"}
+{"input": "YOU HAPPY MEET", "output": "Are you happy to meet me?"}
+{"input": "WHAT YOUR NAME", "output": "What is your name?"}
+{"input": "WHAT YOUR JOB", "output": "What is your job?"}
+{"input": "WHAT YOU STUDY", "output": "What do you study?"}
+{"input": "WHAT YOU EAT", "output": "What do you eat?"}
+{"input": "WHAT YOU WANT", "output": "What do you want?"}
+{"input": "WHAT THIS", "output": "What is this?"}
+{"input": "WHAT THAT", "output": "What is that?"}
+{"input": "WHAT TIME NOW", "output": "What time is it now?"}
+{"input": "WHAT PROBLEM", "output": "What is the problem?"}
+{"input": "WHAT HAPPENED", "output": "What happened?"}
+
+{"input": "WHERE YOU LIVE", "output": "Where do you live?"}
+{"input": "WHERE YOU GO", "output": "Where are you going?"}
+{"input": "WHERE YOUR HOUSE", "output": "Where is your house?"}
+{"input": "WHERE BUS STOP", "output": "Where is the bus stop?"}
+{"input": "WHERE TRAIN STATION", "output": "Where is the train station?"}
+{"input": "WHERE HOSPITAL", "output": "Where is the hospital?"}
+{"input": "WHERE SCHOOL", "output": "Where is the school?"}
+{"input": "WHERE OFFICE", "output": "Where is the office?"}
+{"input": "WHERE TOILET", "output": "Where is the toilet?"}
+{"input": "WHERE MARKET", "output": "Where is the market?"}
+
+{"input": "WHO YOU", "output": "Who are you?"}
+{"input": "WHO HE", "output": "Who is he?"}
+{"input": "WHO SHE", "output": "Who is she?"}
+{"input": "WHO YOUR FRIEND", "output": "Who is your friend?"}
+{"input": "WHO YOUR TEACHER", "output": "Who is your teacher?"}
+{"input": "WHO YOUR DOCTOR", "output": "Who is your doctor?"}
+{"input": "WHO CALL YOU", "output": "Who called you?"}
+{"input": "WHO HELP YOU", "output": "Who helped you?"}
+{"input": "WHO BROKE THIS", "output": "Who broke this?"}
+{"input": "WHO COMING", "output": "Who is coming?"}
+
+{"input": "WHEN YOU COME", "output": "When will you come?"}
+{"input": "WHEN YOU GO", "output": "When will you go?"}
+{"input": "WHEN CLASS START", "output": "When does the class start?"}
+{"input": "WHEN CLASS END", "output": "When does the class end?"}
+{"input": "WHEN EXAM", "output": "When is the exam?"}
+{"input": "WHEN RESULT", "output": "When will the result come?"}
+{"input": "WHEN MEETING", "output": "When is the meeting?"}
+{"input": "WHEN TRAIN ARRIVE", "output": "When will the train arrive?"}
+{"input": "WHEN BUS COME", "output": "When will the bus come?"}
+{"input": "WHEN FOOD READY", "output": "When will the food be ready?"}
+
+{"input": "HOW YOU", "output": "How are you?"}
+{"input": "HOW OLD YOU", "output": "How old are you?"}
+{"input": "HOW YOU FEEL", "output": "How do you feel?"}
+{"input": "HOW THIS WORK", "output": "How does this work?"}
+{"input": "HOW GO THERE", "output": "How do I go there?"}
+{"input": "HOW MUCH THIS", "output": "How much is this?"}
+{"input": "HOW MANY STUDENT", "output": "How many students are there?"}
+{"input": "HOW LONG TIME", "output": "How long will it take?"}
+{"input": "HOW FAR PLACE", "output": "How far is the place?"}
+{"input": "HOW USE THIS", "output": "How do I use this?"}
+
+{"input": "WHAT YOUR FAVORITE FOOD", "output": "What is your favorite food?"}
+{"input": "WHAT YOUR FAVORITE COLOR", "output": "What is your favorite color?"}
+{"input": "WHAT YOUR FAVORITE MOVIE", "output": "What is your favorite movie?"}
+{"input": "WHAT YOUR FAVORITE SONG", "output": "What is your favorite song?"}
+{"input": "WHAT YOUR FAVORITE GAME", "output": "What is your favorite game?"}
+
+{"input": "WHERE YOU WORK", "output": "Where do you work?"}
+{"input": "WHERE YOU STUDY", "output": "Where do you study?"}
+{"input": "WHERE YOU SHOP", "output": "Where do you shop?"}
+{"input": "WHERE YOU PARK", "output": "Where do you park?"}
+{"input": "WHERE YOU SIT", "output": "Where are you sitting?"}
+
+{"input": "WHO YOUR FATHER", "output": "Who is your father?"}
+{"input": "WHO YOUR MOTHER", "output": "Who is your mother?"}
+{"input": "WHO YOUR BOSS", "output": "Who is your boss?"}
+{"input": "WHO YOUR COLLEAGUE", "output": "Who is your colleague?"}
+{"input": "WHO YOUR BEST FRIEND", "output": "Who is your best friend?"}
+
+{"input": "WHEN YOU WAKE UP", "output": "When do you wake up?"}
+{"input": "WHEN YOU SLEEP", "output": "When do you sleep?"}
+{"input": "WHEN YOU EAT", "output": "When do you eat?"}
+{"input": "WHEN YOU STUDY", "output": "When do you study?"}
+{"input": "WHEN YOU WORK", "output": "When do you work?"}
+
+{"input": "HOW YOU COME", "output": "How did you come?"}
+{"input": "HOW YOU LEARN", "output": "How did you learn?"}
+{"input": "HOW YOU KNOW", "output": "How do you know?"}
+{"input": "HOW YOU COOK", "output": "How do you cook this?"}
+{"input": "HOW YOU FIX", "output": "How did you fix it?"}
+{"input": "WHAT YOUR CITY NAME", "output": "What is the name of your city?"}
+{"input": "WHAT YOUR COUNTRY", "output": "What is your country?"}
+{"input": "WHAT YOUR PHONE NUMBER", "output": "What is your phone number?"}
+{"input": "WHAT YOUR EMAIL", "output": "What is your email address?"}
+{"input": "WHAT YOUR HOBBY", "output": "What is your hobby?"}
+{"input": "WHAT YOUR PLAN", "output": "What is your plan?"}
+{"input": "WHAT YOUR DREAM", "output": "What is your dream?"}
+{"input": "WHAT YOUR GOAL", "output": "What is your goal?"}
+{"input": "WHAT YOUR FAVORITE PLACE", "output": "What is your favorite place?"}
+{"input": "WHAT YOUR FAVORITE SUBJECT", "output": "What is your favorite subject?"}
+
+{"input": "WHERE YOU BORN", "output": "Where were you born?"}
+{"input": "WHERE YOU STAY NOW", "output": "Where are you staying now?"}
+{"input": "WHERE YOU LEARN THIS", "output": "Where did you learn this?"}
+{"input": "WHERE YOU MEET HIM", "output": "Where did you meet him?"}
+{"input": "WHERE YOU BUY THIS", "output": "Where did you buy this?"}
+{"input": "WHERE YOU KEEP KEY", "output": "Where did you keep the key?"}
+{"input": "WHERE YOU PUT BAG", "output": "Where did you put the bag?"}
+{"input": "WHERE YOU SEE THIS", "output": "Where did you see this?"}
+{"input": "WHERE YOU FIND THIS", "output": "Where did you find this?"}
+{"input": "WHERE YOU LOSE PHONE", "output": "Where did you lose your phone?"}
+
+{"input": "WHO YOUR CLASSMATE", "output": "Who is your classmate?"}
+{"input": "WHO YOUR NEIGHBOUR", "output": "Who is your neighbour?"}
+{"input": "WHO YOUR ROOMMATE", "output": "Who is your roommate?"}
+{"input": "WHO YOUR GUIDE", "output": "Who is your guide?"}
+{"input": "WHO YOUR MANAGER", "output": "Who is your manager?"}
+{"input": "WHO YOUR TEAM LEADER", "output": "Who is your team leader?"}
+{"input": "WHO YOUR IDOL", "output": "Who is your idol?"}
+{"input": "WHO YOUR ROLE MODEL", "output": "Who is your role model?"}
+{"input": "WHO TEACH YOU", "output": "Who teaches you?"}
+{"input": "WHO INVITE YOU", "output": "Who invited you?"}
+
+{"input": "WHEN YOU JOIN JOB", "output": "When did you join the job?"}
+{"input": "WHEN YOU START STUDY", "output": "When did you start studying?"}
+{"input": "WHEN YOU FINISH WORK", "output": "When will you finish work?"}
+{"input": "WHEN YOU RETURN HOME", "output": "When will you return home?"}
+{"input": "WHEN YOU MEET FRIEND", "output": "When will you meet your friend?"}
+{"input": "WHEN YOU CALL ME", "output": "When will you call me?"}
+{"input": "WHEN YOU SEND MESSAGE", "output": "When will you send the message?"}
+{"input": "WHEN YOU COMPLETE TASK", "output": "When will you complete the task?"}
+{"input": "WHEN YOU GET RESULT", "output": "When will you get the result?"}
+{"input": "WHEN YOU PAY MONEY", "output": "When will you pay the money?"}
+
+{"input": "HOW YOU TRAVEL HERE", "output": "How did you travel here?"}
+{"input": "HOW YOU SOLVE THIS", "output": "How did you solve this?"}
+{"input": "HOW YOU OPEN THIS", "output": "How do you open this?"}
+{"input": "HOW YOU CLOSE THIS", "output": "How do you close this?"}
+{"input": "HOW YOU REMEMBER THIS", "output": "How do you remember this?"}
+{"input": "HOW YOU FORGET THIS", "output": "How did you forget this?"}
+{"input": "HOW YOU PASS EXAM", "output": "How did you pass the exam?"}
+{"input": "HOW YOU FAIL EXAM", "output": "How did you fail the exam?"}
+{"input": "HOW YOU COOK RICE", "output": "How do you cook rice?"}
+{"input": "HOW YOU MAKE TEA", "output": "How do you make tea?"}
+
+{"input": "WHAT PLANET NAMES", "output": "What are the names of the planets?"}
+{"input": "WHAT STATE CAPITAL", "output": "What is the capital of the state?"}
+{"input": "WHAT COUNTRY CAPITAL", "output": "What is the capital of the country?"}
+{"input": "WHAT YOUR BLOOD GROUP", "output": "What is your blood group?"}
+{"input": "WHAT YOUR HEIGHT", "output": "What is your height?"}
+
+{"input": "WHERE RIVER START", "output": "Where does the river start?"}
+{"input": "WHERE SUN RISE", "output": "Where does the sun rise?"}
+{"input": "WHERE SUN SET", "output": "Where does the sun set?"}
+{"input": "WHERE MOON COME", "output": "Where does the moon come from?"}
+{"input": "WHERE STAR FORM", "output": "Where do stars form?"}
+
+{"input": "WHO DISCOVERED INDIA", "output": "Who discovered India?"}
+{"input": "WHO INVENTED PHONE", "output": "Who invented the phone?"}
+{"input": "WHO INVENTED COMPUTER", "output": "Who invented the computer?"}
+{"input": "WHO FIRST PRESIDENT", "output": "Who was the first president?"}
+{"input": "WHO PRIME MINISTER NOW", "output": "Who is the prime minister now?"}
+
+{"input": "WHEN COMPUTER INVENT", "output": "When was the computer invented?"}
+{"input": "WHEN INDIA INDEPENDENCE", "output": "When did India get independence?"}
+{"input": "WHEN FIRST TRAIN", "output": "When did the first train run?"}
+{"input": "WHEN FIRST MOBILE", "output": "When was the first mobile invented?"}
+{"input": "WHEN INTERNET START", "output": "When did the internet start?"}
+
+{"input": "HOW RAIN FORM", "output": "How is rain formed?"}
+{"input": "HOW WIND BLOW", "output": "How does the wind blow?"}
+{"input": "HOW PLANT GROW", "output": "How do plants grow?"}
+{"input": "HOW HUMAN BREATHE", "output": "How do humans breathe?"}
+{"input": "HOW HEART WORK", "output": "How does the heart work?"}
+{"input": "WHAT YOUR FAVORITE ANIMAL", "output": "What is your favorite animal?"}
+{"input": "WHAT YOUR FAVORITE PLACE VISIT", "output": "What is your favorite place to visit?"}
+{"input": "WHAT YOUR FAVORITE DRESS", "output": "What is your favorite dress?"}
+{"input": "WHAT YOUR FAVORITE FRUIT", "output": "What is your favorite fruit?"}
+{"input": "WHAT YOUR FAVORITE DRINK", "output": "What is your favorite drink?"}
+
+{"input": "WHERE YOU KEEP MONEY", "output": "Where do you keep your money?"}
+{"input": "WHERE YOU KEEP DOCUMENT", "output": "Where do you keep the documents?"}
+{"input": "WHERE YOU PARK CAR", "output": "Where do you park your car?"}
+{"input": "WHERE YOU BUY FOOD", "output": "Where do you buy food?"}
+{"input": "WHERE YOU CHANGE CLOTHES", "output": "Where do you change your clothes?"}
+
+{"input": "WHO YOUR FAVORITE ACTOR", "output": "Who is your favorite actor?"}
+{"input": "WHO YOUR FAVORITE SINGER", "output": "Who is your favorite singer?"}
+{"input": "WHO YOUR FAVORITE PLAYER", "output": "Who is your favorite player?"}
+{"input": "WHO YOUR FAVORITE TEACHER", "output": "Who is your favorite teacher?"}
+{"input": "WHO YOUR FAVORITE AUTHOR", "output": "Who is your favorite author?"}
+
+{"input": "WHEN YOU LAST TRAVEL", "output": "When did you last travel?"}
+{"input": "WHEN YOU LAST MEET FRIEND", "output": "When did you last meet your friend?"}
+{"input": "WHEN YOU LAST CALL ME", "output": "When did you last call me?"}
+{"input": "WHEN YOU LAST WATCH MOVIE", "output": "When did you last watch a movie?"}
+{"input": "WHEN YOU LAST SHOPPING", "output": "When did you last go shopping?"}
+
+{"input": "HOW YOU FEEL TODAY", "output": "How do you feel today?"}
+{"input": "HOW YOU LEARN ENGLISH", "output": "How do you learn English?"}
+{"input": "HOW YOU PRACTICE DAILY", "output": "How do you practice daily?"}
+{"input": "HOW YOU MANAGE TIME", "output": "How do you manage your time?"}
+{"input": "HOW YOU STAY HEALTHY", "output": "How do you stay healthy?"}
+
+{"input": "WHAT SUBJECT YOU LIKE MOST", "output": "What subject do you like the most?"}
+{"input": "WHAT SUBJECT YOU HATE", "output": "What subject do you hate?"}
+{"input": "WHAT GAME YOU LIKE MOST", "output": "What game do you like the most?"}
+{"input": "WHAT FOOD YOU LIKE MOST", "output": "What food do you like the most?"}
+{"input": "WHAT PLACE YOU LIKE MOST", "output": "What place do you like the most?"}
+
+{"input": "WHERE WATER COME FROM", "output": "Where does water come from?"}
+{"input": "WHERE ELECTRICITY COME FROM", "output": "Where does electricity come from?"}
+{"input": "WHERE AIR COME FROM", "output": "Where does air come from?"}
+{"input": "WHERE FOOD GROW", "output": "Where does food grow?"}
+{"input": "WHERE TREE GROW", "output": "Where do trees grow?"}
+
+{"input": "WHO TEACH YOU ENGLISH", "output": "Who teaches you English?"}
+{"input": "WHO TEACH YOU MATH", "output": "Who teaches you mathematics?"}
+{"input": "WHO TRAIN YOU", "output": "Who trains you?"}
+{"input": "WHO GUIDE YOU", "output": "Who guides you?"}
+{"input": "WHO INSPIRE YOU", "output": "Who inspires you?"}
+
+{"input": "WHEN YOU FINISH STUDY", "output": "When will you finish your studies?"}
+{"input": "WHEN YOU START JOB", "output": "When will you start your job?"}
+{"input": "WHEN YOU BUY NEW PHONE", "output": "When will you buy a new phone?"}
+{"input": "WHEN YOU BUY NEW CAR", "output": "When will you buy a new car?"}
+{"input": "WHEN YOU BUILD HOUSE", "output": "When will you build a house?"}
+
+{"input": "HOW YOU SAVE MONEY", "output": "How do you save money?"}
+{"input": "HOW YOU CONTROL ANGER", "output": "How do you control anger?"}
+{"input": "HOW YOU IMPROVE SKILL", "output": "How do you improve your skills?"}
+{"input": "HOW YOU SOLVE PROBLEM", "output": "How do you solve problems?"}
+{"input": "HOW YOU HANDLE STRESS", "output": "How do you handle stress?"}
+
+{"input": "WHAT INTERNET USE FOR", "output": "What is the internet used for?"}
+{"input": "WHAT MOBILE USE FOR", "output": "What is a mobile phone used for?"}
+{"input": "WHAT COMPUTER USE FOR", "output": "What is a computer used for?"}
+{"input": "WHAT AI USE FOR", "output": "What is artificial intelligence used for?"}
+{"input": "WHAT ROBOT USE FOR", "output": "What are robots used for?"}
+
+{"input": "WHERE DATA STORE", "output": "Where is data stored?"}
+{"input": "WHERE CLOUD DATA STORE", "output": "Where is cloud data stored?"}
+{"input": "WHERE SIGNAL COME FROM", "output": "Where do signals come from?"}
+{"input": "WHERE WIFI COME FROM", "output": "Where does Wi-Fi come from?"}
+{"input": "WHERE SERVER LOCATE", "output": "Where are servers located?"}
+
+{"input": "WHO CREATE INTERNET", "output": "Who created the internet?"}
+{"input": "WHO CREATE GOOGLE", "output": "Who created Google?"}
+{"input": "WHO CREATE FACEBOOK", "output": "Who created Facebook?"}
+{"input": "WHO CREATE YOUTUBE", "output": "Who created YouTube?"}
+{"input": "WHO CREATE CHATGPT", "output": "Who created ChatGPT?"}
+
+{"input": "WHEN MOBILE POPULAR", "output": "When did mobile phones become popular?"}
+{"input": "WHEN SOCIAL MEDIA START", "output": "When did social media start?"}
+{"input": "WHEN ONLINE CLASS START", "output": "When did online classes start?"}
+{"input": "WHEN DIGITAL PAYMENT START", "output": "When did digital payments start?"}
+{"input": "WHEN SMARTPHONE INVENT", "output": "When was the smartphone invented?"}
+
+{"input": "HOW PASSWORD WORK", "output": "How do passwords work?"}
+{"input": "HOW FACE ID WORK", "output": "How does face ID work?"}
+{"input": "HOW FINGERPRINT WORK", "output": "How does a fingerprint work?"}
+{"input": "HOW INTERNET FAST", "output": "How is the internet fast?"}
+{"input": "HOW SIGNAL TRAVEL", "output": "How do signals travel?"}
+{"input": "WHAT YOUR DREAM JOB", "output": "What is your dream job?"}
+{"input": "WHAT YOUR DREAM PLACE", "output": "What is your dream place?"}
+{"input": "WHAT YOUR GOAL LIFE", "output": "What is your goal in life?"}
+{"input": "WHAT YOUR PLAN FUTURE", "output": "What is your future plan?"}
+{"input": "WHAT YOUR BIGGEST FEAR", "output": "What is your biggest fear?"}
+
+{"input": "WHERE YOU STUDY NOW", "output": "Where do you study now?"}
+{"input": "WHERE YOU WORK NOW", "output": "Where do you work now?"}
+{"input": "WHERE YOU STAY NOW", "output": "Where do you stay now?"}
+{"input": "WHERE YOU GO WEEKEND", "output": "Where do you go on weekends?"}
+{"input": "WHERE YOU BUY CLOTHES", "output": "Where do you buy clothes?"}
+
+{"input": "WHO YOUR BEST FRIEND", "output": "Who is your best friend?"}
+{"input": "WHO YOUR CLASS TEACHER", "output": "Who is your class teacher?"}
+{"input": "WHO YOUR ROLE MODEL", "output": "Who is your role model?"}
+{"input": "WHO YOUR FAVORITE LEADER", "output": "Who is your favorite leader?"}
+{"input": "WHO YOUR FAVORITE SCIENTIST", "output": "Who is your favorite scientist?"}
+
+{"input": "WHEN YOU WAKE UP", "output": "When do you wake up?"}
+{"input": "WHEN YOU SLEEP", "output": "When do you sleep?"}
+{"input": "WHEN YOU EAT BREAKFAST", "output": "When do you eat breakfast?"}
+{"input": "WHEN YOU START STUDY", "output": "When do you start studying?"}
+{"input": "WHEN YOU FINISH WORK", "output": "When do you finish work?"}
+
+{"input": "HOW YOU COOK FOOD", "output": "How do you cook food?"}
+{"input": "HOW YOU CLEAN ROOM", "output": "How do you clean your room?"}
+{"input": "HOW YOU WASH CLOTHES", "output": "How do you wash clothes?"}
+{"input": "HOW YOU PAY BILL", "output": "How do you pay bills?"}
+{"input": "HOW YOU BOOK TICKET", "output": "How do you book tickets?"}
+
+{"input": "WHAT FOOD YOU EAT MORNING", "output": "What food do you eat in the morning?"}
+{"input": "WHAT FOOD YOU EAT NIGHT", "output": "What food do you eat at night?"}
+{"input": "WHAT DRINK YOU LIKE", "output": "What drink do you like?"}
+{"input": "WHAT SNACK YOU LIKE", "output": "What snack do you like?"}
+{"input": "WHAT SWEET YOU LIKE", "output": "What sweet do you like?"}
+
+{"input": "WHERE YOU KEEP KEY", "output": "Where do you keep the keys?"}
+{"input": "WHERE YOU KEEP PHONE", "output": "Where do you keep your phone?"}
+{"input": "WHERE YOU KEEP BAG", "output": "Where do you keep your bag?"}
+{"input": "WHERE YOU KEEP SHOES", "output": "Where do you keep your shoes?"}
+{"input": "WHERE YOU KEEP BOOKS", "output": "Where do you keep your books?"}
+
+{"input": "WHO MAKE BREAKFAST HOME", "output": "Who makes breakfast at home?"}
+{"input": "WHO DRIVE YOU SCHOOL", "output": "Who drives you to school?"}
+{"input": "WHO HELP YOU STUDY", "output": "Who helps you study?"}
+{"input": "WHO FIX MOBILE", "output": "Who fixes mobile phones?"}
+{"input": "WHO PAY HOUSE BILL", "output": "Who pays the house bills?"}
+
+{"input": "WHEN YOU FEEL HAPPY", "output": "When do you feel happy?"}
+{"input": "WHEN YOU FEEL SAD", "output": "When do you feel sad?"}
+{"input": "WHEN YOU FEEL TIRED", "output": "When do you feel tired?"}
+{"input": "WHEN YOU FEEL PROUD", "output": "When do you feel proud?"}
+{"input": "WHEN YOU FEEL HUNGRY", "output": "When do you feel hungry?"}
+
+{"input": "HOW YOU LEARN FAST", "output": "How do you learn fast?"}
+{"input": "HOW YOU REMEMBER THINGS", "output": "How do you remember things?"}
+{"input": "HOW YOU FOCUS STUDY", "output": "How do you focus on studying?"}
+{"input": "HOW YOU IMPROVE MEMORY", "output": "How do you improve your memory?"}
+{"input": "HOW YOU BUILD CONFIDENCE", "output": "How do you build confidence?"}
+
+{"input": "WHAT IS YOUR FULL NAME", "output": "What is your full name?"}
+{"input": "WHAT IS YOUR AGE", "output": "What is your age?"}
+{"input": "WHAT IS YOUR ADDRESS", "output": "What is your address?"}
+{"input": "WHAT IS YOUR HOBBY", "output": "What is your hobby?"}
+{"input": "WHAT IS YOUR SKILL", "output": "What is your skill?"}
+
+{"input": "WHERE IS YOUR HOUSE", "output": "Where is your house?"}
+{"input": "WHERE IS YOUR SCHOOL", "output": "Where is your school?"}
+{"input": "WHERE IS YOUR COLLEGE", "output": "Where is your college?"}
+{"input": "WHERE IS YOUR OFFICE", "output": "Where is your office?"}
+{"input": "WHERE IS YOUR CITY", "output": "Where is your city?"}
+
+{"input": "WHO IS YOUR FATHER", "output": "Who is your father?"}
+{"input": "WHO IS YOUR MOTHER", "output": "Who is your mother?"}
+{"input": "WHO IS YOUR BROTHER", "output": "Who is your brother?"}
+{"input": "WHO IS YOUR SISTER", "output": "Who is your sister?"}
+{"input": "WHO IS YOUR NEIGHBOR", "output": "Who is your neighbor?"}
+
+{"input": "WHEN IS YOUR BIRTHDAY", "output": "When is your birthday?"}
+{"input": "WHEN IS YOUR EXAM", "output": "When is your exam?"}
+{"input": "WHEN IS YOUR HOLIDAY", "output": "When is your holiday?"}
+{"input": "WHEN IS YOUR RESULT", "output": "When is your result?"}
+{"input": "WHEN IS YOUR INTERVIEW", "output": "When is your interview?"}
+
+{"input": "HOW IS YOUR HEALTH", "output": "How is your health?"}
+{"input": "HOW IS YOUR FAMILY", "output": "How is your family?"}
+{"input": "HOW IS YOUR WORK", "output": "How is your work?"}
+{"input": "HOW IS YOUR STUDY", "output": "How is your study?"}
+{"input": "HOW IS YOUR LIFE", "output": "How is your life?"}
+{"input": "WHAT SUBJECT YOU LIKE MOST", "output": "What subject do you like the most?"}
+{"input": "WHAT GAME YOU LIKE PLAY", "output": "What game do you like to play?"}
+{"input": "WHAT MUSIC YOU LIKE LISTEN", "output": "What music do you like to listen to?"}
+{"input": "WHAT MOVIE YOU LIKE WATCH", "output": "What movie do you like to watch?"}
+{"input": "WHAT BOOK YOU LIKE READ", "output": "What book do you like to read?"}
+
+{"input": "WHERE YOU GO SHOPPING", "output": "Where do you go shopping?"}
+{"input": "WHERE YOU GO WALKING", "output": "Where do you go for walking?"}
+{"input": "WHERE YOU GO SWIMMING", "output": "Where do you go swimming?"}
+{"input": "WHERE YOU GO CYCLING", "output": "Where do you go cycling?"}
+{"input": "WHERE YOU GO PLAYING", "output": "Where do you go to play?"}
+
+{"input": "WHO TEACH YOU MATH", "output": "Who teaches you math?"}
+{"input": "WHO TEACH YOU ENGLISH", "output": "Who teaches you English?"}
+{"input": "WHO TEACH YOU SCIENCE", "output": "Who teaches you science?"}
+{"input": "WHO GUIDE YOUR PROJECT", "output": "Who guides your project?"}
+{"input": "WHO CHECK YOUR EXAM PAPER", "output": "Who checks your exam paper?"}
+
+{"input": "WHEN YOU START COLLEGE", "output": "When did you start college?"}
+{"input": "WHEN YOU FINISH SCHOOL", "output": "When did you finish school?"}
+{"input": "WHEN YOU JOIN COMPANY", "output": "When did you join the company?"}
+{"input": "WHEN YOU LEARN COMPUTER", "output": "When did you learn computers?"}
+{"input": "WHEN YOU BUY NEW PHONE", "output": "When did you buy your new phone?"}
+
+{"input": "HOW YOU SOLVE PROBLEM", "output": "How do you solve problems?"}
+{"input": "HOW YOU LEARN PROGRAMMING", "output": "How do you learn programming?"}
+{"input": "HOW YOU PRACTICE DAILY", "output": "How do you practice daily?"}
+{"input": "HOW YOU PREPARE EXAM", "output": "How do you prepare for exams?"}
+{"input": "HOW YOU MANAGE TIME", "output": "How do you manage time?"}
+
+{"input": "WHAT COLOR YOU LIKE MOST", "output": "What color do you like the most?"}
+{"input": "WHAT FOOD YOU COOK HOME", "output": "What food do you cook at home?"}
+{"input": "WHAT ITEM YOU BUY DAILY", "output": "What items do you buy daily?"}
+{"input": "WHAT DRESS YOU WEAR DAILY", "output": "What dress do you wear daily?"}
+{"input": "WHAT SHOE YOU WEAR", "output": "What shoes do you wear?"}
+
+{"input": "WHERE YOU KEEP DOCUMENT", "output": "Where do you keep the documents?"}
+{"input": "WHERE YOU KEEP WALLET", "output": "Where do you keep your wallet?"}
+{"input": "WHERE YOU KEEP MONEY", "output": "Where do you keep your money?"}
+{"input": "WHERE YOU KEEP LAPTOP", "output": "Where do you keep your laptop?"}
+{"input": "WHERE YOU KEEP CHARGER", "output": "Where do you keep your charger?"}
+
+{"input": "WHO DESIGN THIS BUILDING", "output": "Who designed this building?"}
+{"input": "WHO INVENT THIS MACHINE", "output": "Who invented this machine?"}
+{"input": "WHO DISCOVER THIS PLANET", "output": "Who discovered this planet?"}
+{"input": "WHO WRITE THIS BOOK", "output": "Who wrote this book?"}
+{"input": "WHO CREATE THIS APP", "output": "Who created this app?"}
+
+{"input": "WHEN THIS SHOP OPEN", "output": "When does this shop open?"}
+{"input": "WHEN THIS SHOP CLOSE", "output": "When does this shop close?"}
+{"input": "WHEN BUS ARRIVE", "output": "When does the bus arrive?"}
+{"input": "WHEN TRAIN DEPART", "output": "When does the train depart?"}
+{"input": "WHEN FLIGHT LAND", "output": "When does the flight land?"}
+
+{"input": "HOW THIS MACHINE WORK", "output": "How does this machine work?"}
+{"input": "HOW THIS APP FUNCTION", "output": "How does this app function?"}
+{"input": "HOW THIS SYSTEM OPERATE", "output": "How does this system operate?"}
+{"input": "HOW THIS ENGINE START", "output": "How does this engine start?"}
+{"input": "HOW THIS DEVICE CHARGE", "output": "How does this device charge?"}
+
+{"input": "WHAT PROBLEM YOU FACE", "output": "What problem are you facing?"}
+{"input": "WHAT QUESTION YOU ASK", "output": "What question did you ask?"}
+{"input": "WHAT MESSAGE YOU RECEIVE", "output": "What message did you receive?"}
+{"input": "WHAT UPDATE YOU GET", "output": "What update did you get?"}
+{"input": "WHAT RESULT YOU EXPECT", "output": "What result do you expect?"}
+
+{"input": "WHERE PROBLEM HAPPEN", "output": "Where did the problem happen?"}
+{"input": "WHERE ACCIDENT OCCUR", "output": "Where did the accident occur?"}
+{"input": "WHERE MEETING HAPPEN", "output": "Where did the meeting happen?"}
+{"input": "WHERE EVENT CONDUCT", "output": "Where was the event conducted?"}
+{"input": "WHERE TEST CONDUCT", "output": "Where was the test conducted?"}
+
+{"input": "WHO REPORT THIS ISSUE", "output": "Who reported this issue?"}
+{"input": "WHO SOLVE THIS ISSUE", "output": "Who solved this issue?"}
+{"input": "WHO HANDLE THIS CASE", "output": "Who handled this case?"}
+{"input": "WHO LEAD THIS TEAM", "output": "Who leads this team?"}
+{"input": "WHO ORGANIZE THIS EVENT", "output": "Who organized this event?"}
+
+{"input": "WHEN PROJECT START", "output": "When did the project start?"}
+{"input": "WHEN PROJECT END", "output": "When will the project end?"}
+{"input": "WHEN RESULT DECLARE", "output": "When will the result be declared?"}
+{"input": "WHEN PAYMENT DUE", "output": "When is the payment due?"}
+{"input": "WHEN FEE SUBMIT", "output": "When should the fee be submitted?"}
+
+{"input": "HOW ISSUE RESOLVE", "output": "How was the issue resolved?"}
+{"input": "HOW TASK COMPLETE", "output": "How was the task completed?"}
+{"input": "HOW DATA COLLECT", "output": "How was the data collected?"}
+{"input": "HOW REPORT PREPARE", "output": "How was the report prepared?"}
+{"input": "HOW RESULT ANALYZE", "output": "How were the results analyzed?"}
+{"input": "WHAT COURSE YOU STUDY", "output": "What course are you studying?"}
+{"input": "WHAT DEGREE YOU PURSUE", "output": "What degree are you pursuing?"}
+{"input": "WHAT SKILL YOU LEARN", "output": "What skill are you learning?"}
+{"input": "WHAT LANGUAGE YOU SPEAK", "output": "What language do you speak?"}
+{"input": "WHAT SOFTWARE YOU USE", "output": "What software do you use?"}
+
+{"input": "WHERE YOU STUDY DAILY", "output": "Where do you study daily?"}
+{"input": "WHERE YOU WORK NOW", "output": "Where do you work now?"}
+{"input": "WHERE YOU LIVE NOW", "output": "Where do you live now?"}
+{"input": "WHERE YOU PARK VEHICLE", "output": "Where do you park your vehicle?"}
+{"input": "WHERE YOU KEEP FILE", "output": "Where do you keep the file?"}
+
+{"input": "WHO TEACH YOU CODING", "output": "Who teaches you coding?"}
+{"input": "WHO HELP YOU STUDY", "output": "Who helps you study?"}
+{"input": "WHO CHECK YOUR ASSIGNMENT", "output": "Who checks your assignment?"}
+{"input": "WHO GIVE YOU TASK", "output": "Who gives you the task?"}
+{"input": "WHO MONITOR THIS SYSTEM", "output": "Who monitors this system?"}
+
+{"input": "WHEN YOU WAKE DAILY", "output": "When do you wake up daily?"}
+{"input": "WHEN YOU SLEEP NIGHT", "output": "When do you sleep at night?"}
+{"input": "WHEN CLASS START", "output": "When does the class start?"}
+{"input": "WHEN CLASS END", "output": "When does the class end?"}
+{"input": "WHEN BREAK BEGIN", "output": "When does the break begin?"}
+
+{"input": "HOW YOU SOLVE MATH", "output": "How do you solve math problems?"}
+{"input": "HOW YOU DEBUG CODE", "output": "How do you debug code?"}
+{"input": "HOW YOU INSTALL SOFTWARE", "output": "How do you install software?"}
+{"input": "HOW YOU UPDATE SYSTEM", "output": "How do you update the system?"}
+{"input": "HOW YOU SAVE DATA", "output": "How do you save data?"}
+
+{"input": "WHAT DEVICE YOU USE DAILY", "output": "What device do you use daily?"}
+{"input": "WHAT APP YOU OPEN FIRST", "output": "What app do you open first?"}
+{"input": "WHAT WEBSITE YOU VISIT", "output": "What website do you visit?"}
+{"input": "WHAT PASSWORD YOU FORGET", "output": "What password did you forget?"}
+{"input": "WHAT FILE YOU DOWNLOAD", "output": "What file did you download?"}
+
+{"input": "WHERE SERVER LOCATE", "output": "Where is the server located?"}
+{"input": "WHERE DATABASE STORE", "output": "Where is the database stored?"}
+{"input": "WHERE BACKUP SAVE", "output": "Where is the backup saved?"}
+{"input": "WHERE ROUTER INSTALL", "output": "Where is the router installed?"}
+{"input": "WHERE CAMERA FIX", "output": "Where is the camera fixed?"}
+
+{"input": "WHO AUTHORIZE ACCESS", "output": "Who authorized the access?"}
+{"input": "WHO RESET PASSWORD", "output": "Who reset the password?"}
+{"input": "WHO UPDATE SOFTWARE", "output": "Who updated the software?"}
+{"input": "WHO HANDLE NETWORK", "output": "Who handles the network?"}
+{"input": "WHO MANAGE DATABASE", "output": "Who manages the database?"}
+
+{"input": "WHEN SYSTEM RESTART", "output": "When will the system restart?"}
+{"input": "WHEN UPDATE AVAILABLE", "output": "When will the update be available?"}
+{"input": "WHEN MAINTENANCE START", "output": "When will the maintenance start?"}
+{"input": "WHEN SERVICE RESTORE", "output": "When will the service be restored?"}
+{"input": "WHEN SERVER SHUTDOWN", "output": "When will the server shut down?"}
+
+{"input": "HOW ISSUE DETECT", "output": "How was the issue detected?"}
+{"input": "HOW ERROR FOUND", "output": "How was the error found?"}
+{"input": "HOW BUG FIX", "output": "How was the bug fixed?"}
+{"input": "HOW DATA RECOVER", "output": "How was the data recovered?"}
+{"input": "HOW SYSTEM TEST", "output": "How was the system tested?"}
+
+{"input": "WHAT PRICE THIS ITEM", "output": "What is the price of this item?"}
+{"input": "WHAT BRAND THIS PRODUCT", "output": "What brand is this product?"}
+{"input": "WHAT MODEL THIS PHONE", "output": "What model is this phone?"}
+{"input": "WHAT COLOR THIS BAG", "output": "What color is this bag?"}
+{"input": "WHAT SIZE THIS SHIRT", "output": "What size is this shirt?"}
+
+{"input": "WHERE YOU BUY THIS", "output": "Where did you buy this?"}
+{"input": "WHERE YOU ORDER THIS", "output": "Where did you order this?"}
+{"input": "WHERE YOU FIND THIS", "output": "Where did you find this?"}
+{"input": "WHERE YOU GET THIS", "output": "Where did you get this?"}
+{"input": "WHERE YOU SEE THIS", "output": "Where did you see this?"}
+
+{"input": "WHO RECOMMEND THIS", "output": "Who recommended this?"}
+{"input": "WHO SUGGEST THIS", "output": "Who suggested this?"}
+{"input": "WHO BRING THIS", "output": "Who brought this?"}
+{"input": "WHO SEND THIS", "output": "Who sent this?"}
+{"input": "WHO RECEIVE THIS", "output": "Who received this?"}
+
+{"input": "WHEN YOU MEET HIM", "output": "When did you meet him?"}
+{"input": "WHEN YOU MEET HER", "output": "When did you meet her?"}
+{"input": "WHEN YOU CALL HIM", "output": "When did you call him?"}
+{"input": "WHEN YOU MESSAGE HER", "output": "When did you message her?"}
+{"input": "WHEN YOU REPLY HIM", "output": "When did you reply to him?"}
+
+{"input": "HOW YOU KNOW THIS", "output": "How do you know this?"}
+{"input": "HOW YOU CONFIRM THIS", "output": "How did you confirm this?"}
+{"input": "HOW YOU CHECK THIS", "output": "How did you check this?"}
+{"input": "HOW YOU VERIFY THIS", "output": "How did you verify this?"}
+{"input": "HOW YOU PROVE THIS", "output": "How did you prove this?"}
+{"input": "WHAT YOUR FAVORITE COLOR", "output": "What is your favorite color?"}
+{"input": "WHAT YOUR FAVORITE FOOD", "output": "What is your favorite food?"}
+{"input": "WHAT YOUR FAVORITE MOVIE", "output": "What is your favorite movie?"}
+{"input": "WHAT YOUR FAVORITE MUSIC", "output": "What is your favorite music?"}
+{"input": "WHAT YOUR FAVORITE BOOK", "output": "What is your favorite book?"}
+{"input": "WHERE YOU LIVE CURRENTLY", "output": "Where do you live currently?"}
+
+

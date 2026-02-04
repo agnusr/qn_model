@@ -1,0 +1,789 @@
+{"input": "Taiga is a coniferous forest found in cold climates with evergreen trees.", "output": "CONIFEROUS FOREST; COLD CLIMATE; EVERGREEN TREES"}
+{"input": "Savannas are tropical grasslands with scattered trees and animals like lions and elephants.", "output": "GRASSLAND WITH SCATTERED TREES; TROPICAL; ANIMALS: LIONS, ELEPHANTS"}
+{"input": "Temperate forests are found in moderate climates with deciduous trees and four seasons.", "output": "MODERATE CLIMATE; DECIDUOUS TREES; FOUR SEASONS"}
+{"input": "Polar regions are extremely cold areas like the Arctic and Antarctic with ice caps and snow cover.", "output": "EXTREME COLD; ARCTIC AND ANTARCTIC; ICE CAPS, SNOW COVER"}
+{"input": "Ocean currents are large-scale movements of sea water that affect climate and weather.", "output": "MOVEMENT OF SEA WATER; AFFECTS CLIMATE; WARM AND COLD CURRENTS"}
+{"input": "Tides are the rise and fall of sea levels caused by the gravitational pull of the Moon and Sun.", "output": "RISE AND FALL OF SEA LEVEL; CAUSED BY MOON AND SUN GRAVITY"}
+{"input": "Cyclone formation occurs in low-pressure areas over warm ocean waters, producing strong winds and heavy rain.", "output": "LOW PRESSURE AREA; WARM OCEAN; STRONG WINDS, HEAVY RAIN"}
+{"input": "Monsoon forests are tropical deciduous forests that shed leaves in the dry season, found in India.", "output": "TROPICAL DECIDUOUS FOREST; SHEDS LEAVES IN DRY SEASON; INDIA"}
+{"input": "Arid regions are very dry areas with low rainfall and desert vegetation.", "output": "VERY DRY AREA; LOW RAINFALL; DESERT VEGETATION"}
+{"input": "Temperate grasslands have moderate rainfall, dominated by grasses and animals like bison and horses.", "output": "MODERATE RAINFALL; GRASSES DOMINATE; ANIMALS: BISON, HORSES"}
+{"input": "Soil types include alluvial, black, red, laterite, and desert soils, classified by composition and climate.", "output": "ALLUVIAL, BLACK, RED, LATERITE, DESERT; BASED ON COMPOSITION AND CLIMATE"}
+{"input": "Sedimentary rocks are formed by compacted sediments, often with visible layers.", "output": "ROCK FORMED BY COMPACTED SEDIMENTS; LAYERS VISIBLE"}
+{"input": "Igneous rocks are formed from cooled lava or magma, such as granite and basalt.", "output": "ROCK FORMED FROM COOLED LAVA OR MAGMA; EXAMPLES: GRANITE, BASALT"}
+{"input": "Metamorphic rocks are rocks changed by heat or pressure, like marble and slate.", "output": "ROCK CHANGED BY HEAT OR PRESSURE; EXAMPLES: MARBLE, SLATE"}
+{"input": "The Ring of Fire is a circular zone in the Pacific Ocean with volcanic and earthquake activity.", "output": "CIRCULAR ZONE IN PACIFIC OCEAN; VOLCANIC AND EARTHQUAKE ACTIVITY"}
+{"input": "Tectonic plates are large sections of the Earth's crust that move and cause earthquakes and mountains.", "output": "LARGE SHEETS OF EARTH’S CRUST; MOVE; CAUSE EARTHQUAKES, MOUNTAINS"}
+{"input": "Continental drift is the movement of continents over Earth's surface, proposed by Wegener.", "output": "MOVEMENT OF CONTINENTS; THEORY BY WEGENER"}
+{"input": "Hotspot volcanoes are volcanic activities occurring away from plate boundaries, like Hawaii.", "output": "VOLCANIC ACTIVITY AWAY FROM PLATE BOUNDARY; EXAMPLE: HAWAII"}
+{"input": "Subduction zones occur where one tectonic plate moves under another, forming trenches and volcanoes.", "output": "ONE PLATE MOVES UNDER ANOTHER; FORMS TRENCH, VOLCANOES"}
+{"input": "Soil profiles show vertical sections of soil with horizons: topsoil, subsoil, and bedrock.", "output": "VERTICAL SECTION OF SOIL; HORIZONS: TOPSOIL, SUBSOIL, BEDROCK"}
+{"input": "Permafrost is permanently frozen ground found in Arctic and alpine regions.", "output": "PERMANENTLY FROZEN GROUND; ARCTIC AND ALPINE REGIONS"}
+{"input": "Loess soils are fine, wind-blown sediments, fertile and found in China and Europe.", "output": "FINE WIND-BLOWN SEDIMENT; FERTILE; EXAMPLES: CHINA, EUROPE"}
+{"input": "Pedology is the study of soils, their formation, classification, and distribution.", "output": "STUDY OF SOILS; FORMATION, CLASSIFICATION, DISTRIBUTION"}
+{"input": "Cyclone belts are regions prone to cyclones due to climatic conditions.", "output": "REGIONS PRONE TO CYCLONES; DUE TO CLIMATE"}
+{"input": "Glacial valleys are U-shaped valleys formed by glacier movement.", "output": "U-SHAPED VALLEY; FORMED BY GLACIERS"}
+{"input": "V-shaped valleys are formed by river erosion over time.", "output": "V-SHAPED VALLEY; FORMED BY RIVER EROSION"}
+{"input": "Floodplains are flat lands adjacent to rivers that get flooded during heavy rains.", "output": "FLAT LAND NEAR RIVERS; SUBJECT TO FLOODING"}
+{"input": "River terraces are step-like landforms along river valleys formed by erosion and deposition.", "output": "STEP-LIKE LANDFORMS; RIVER VALLEYS; EROSION AND DEPOSITION"}
+{"input": "Alluvial fans are fan-shaped deposits formed where rivers flow from mountains to plains.", "output": "FAN-SHAPED DEPOSIT; MOUNTAINS TO PLAINS"}
+{"input": "Dunes are hills of sand formed by wind in deserts and coastal areas.", "output": "HILLS OF SAND; FORMED BY WIND; DESERTS AND COASTS"}
+{"input": "Oxbow lakes are crescent-shaped lakes formed when a river meander is cut off.", "output": "CRESCENT-SHAPED LAKE; FORMED FROM RIVER MEANDER"}
+{"input": "Braided rivers have multiple interweaving channels separated by sediment bars.", "output": "MULTIPLE INTERWEAVING CHANNELS; SEDIMENT BARS"}
+{"input": "Meanders are curves or bends in a river formed by lateral erosion and deposition.", "output": "CURVES OR BENDS IN RIVER; LATERAL EROSION AND DEPOSITION"}
+{"input": "Groundwater is water stored below Earth's surface in aquifers and pores.", "output": "WATER STORED BELOW SURFACE; AQUIFERS, PORES"}
+{"input": "Springs are points where groundwater naturally flows out to the surface.", "output": "GROUNDWATER FLOWS TO SURFACE; NATURAL SOURCE"}
+{"input": "Waterfalls occur when rivers flow over resistant rock layers causing a vertical drop.", "output": "RIVER FLOWS OVER RESISTANT ROCK; VERTICAL DROP"}
+{"input": "Rapids are turbulent sections of rivers with fast-flowing water over rocks.", "output": "TURBULENT RIVER SECTION; FAST WATER; OVER ROCKS"}
+{"input": "Oxbow lakes support diverse ecosystems including aquatic plants and animals.", "output": "SUPPORTS AQUATIC ECOSYSTEM; PLANTS AND ANIMALS"}
+{"input": "Groundwater recharge is the process by which water replenishes underground aquifers.", "output": "WATER REPLENISHES UNDERGROUND AQUIFERS"}
+{"input": "Watersheds help in collecting rainwater and preventing floods and soil erosion.", "output": "COLLECTS RAINWATER; PREVENTS FLOODS AND EROSION"}
+{"input": "Conical hills are steep, cone-shaped hills often formed by volcanic activity.", "output": "STEEP CONE-SHAPED HILLS; VOLCANIC ORIGIN"}
+{"input": "Plate tectonics explains the movement of Earth's lithospheric plates causing mountains, earthquakes, and volcanoes.", "output": "MOVEMENT OF LITHOSPHERIC PLATES; FORMS MOUNTAINS, EARTHQUAKES, VOLCANOES"}
+{"input": "Fossil fuels like coal, oil, and natural gas are non-renewable energy sources formed from ancient organisms.", "output": "NON-RENEWABLE ENERGY; FORMED FROM ANCIENT ORGANISMS; COAL, OIL, GAS"}
+{"input": "Solar energy is renewable energy derived from the Sun, used for electricity and heating.", "output": "RENEWABLE ENERGY; FROM SUN; ELECTRICITY, HEATING"}
+{"input": "Wind energy is renewable energy obtained from wind using turbines.", "output": "RENEWABLE ENERGY; FROM WIND; TURBINES"}
+{"input": "Tidal energy is generated by harnessing the rise and fall of tides.", "output": "ENERGY FROM RISE AND FALL OF TIDES"}
+{"input": "Geothermal energy comes from heat stored inside the Earth.", "output": "ENERGY FROM EARTH’S INTERNAL HEAT"}
+{"input": "Forests are large areas covered with trees providing oxygen, timber, and habitat for wildlife.", "output": "LARGE TREE AREAS; OXYGEN, TIMBER, HABITAT"}
+{"input": "Mangrove forests protect coasts from erosion and support marine biodiversity.", "output": "PROTECT COASTS; PREVENT EROSION; SUPPORT MARINE LIFE"}
+{"input": "Grasslands are open areas dominated by grasses and grazing animals.", "output": "OPEN LAND; GRASSES DOMINATE; GRAZING ANIMALS"}
+{"input": "Wetlands are areas saturated with water supporting aquatic plants and animals.", "output": "SATURATED WITH WATER; AQUATIC PLANTS AND ANIMALS"}
+{"input": "Coral reefs protect coastlines from waves and are biodiversity hotspots.", "output": "PROTECT COASTS; HIGH BIODIVERSITY; CORAL ECOSYSTEM"}
+{"input": "Soil conservation includes practices like terrace farming, afforestation, and contour plowing.", "output": "TERRACE FARMING, AFFORESTATION, CONTOUR PLOWING; PREVENT SOIL EROSION"}
+{"input": "Afforestation is the process of planting trees in deforested or barren areas.", "output": "PLANTING TREES IN DEFORESTED OR BARREN AREAS"}
+{"input": "Contour plowing involves plowing along contour lines to prevent soil erosion.", "output": "PLOWING ALONG CONTOUR LINES; PREVENTS SOIL EROSION"}
+{"input": "Terrace farming is cultivating crops on stepped fields on hillsides to reduce runoff.", "output": "CULTIVATION ON STEPPED FIELDS; REDUCES RUNOFF"}
+{"input": "Irrigation canals distribute water from rivers or reservoirs to agricultural fields.", "output": "DISTRIBUTE WATER FROM RIVERS OR RESERVOIRS TO FIELDS"}
+{"input": "Drip irrigation supplies water directly to plant roots, saving water and improving efficiency.", "output": "SUPPLIES WATER DIRECTLY TO ROOTS; WATER-SAVING, EFFICIENT"}
+{"input": "Sprinkler irrigation sprays water over crops, simulating rainfall.", "output": "SPRAYS WATER OVER CROPS; SIMULATES RAINFALL"}
+{"input": "Rainwater harvesting collects and stores rainwater for later use.", "output": "COLLECTS AND STORES RAINWATER FOR USE"}
+{"input": "Desalination is the process of removing salt from seawater to make it usable.", "output": "REMOVES SALT FROM SEAWATER; MAKES WATER USABLE"}
+{"input": "Aquifers are underground layers of rock and soil that store groundwater.", "output": "UNDERGROUND LAYERS; STORE GROUNDWATER"}
+{"input": "Water table is the upper surface of groundwater in an aquifer.", "output": "UPPER SURFACE OF GROUNDWATER; AQUIFER"}
+{"input": "Deltas provide fertile soil for agriculture due to rich sediment deposits.", "output": "FERTILE SOIL; RICH SEDIMENT; AGRICULTURE"}
+{"input": "Flood control methods include dams, levees, embankments, and afforestation.", "output": "DAMS, LEVEES, EMBANKMENTS, AFFORESTATION; CONTROL FLOODS"}
+{"input": "Natural disasters like floods, earthquakes, and cyclones affect human settlements and resources.", "output": "FLOODS, EARTHQUAKES, CYCLONES; IMPACT HUMAN SETTLEMENTS AND RESOURCES"}
+{"input": "Environmental conservation includes protecting forests, wetlands, wildlife, and water resources.", "output": "PROTECT FORESTS, WETLANDS, WILDLIFE, WATER RESOURCES"}
+{"input": "Sustainable agriculture involves farming methods that maintain soil fertility and conserve water.", "output": "FARMING METHODS; MAINTAIN SOIL FERTILITY; CONSERVE WATER"}
+{"input": "Soil salinity is the accumulation of salts in soil, reducing its fertility.", "output": "ACCUMULATION OF SALTS IN SOIL; REDUCES FERTILITY"}
+{"input": "Desertification can be prevented through afforestation, water management, and sustainable land use.", "output": "AFFORESTATION, WATER MANAGEMENT, SUSTAINABLE LAND USE; PREVENT DESERTIFICATION"}
+{"input": "Osmosis is the movement of water across a semi-permeable membrane from low to high solute concentration.", "output": "WATER MOVES ACROSS SEMI-PERMEABLE MEMBRANE; LOW TO HIGH SOLUTE"}
+{"input": "Diffusion is the movement of particles from high concentration to low concentration.", "output": "PARTICLES MOVE; HIGH TO LOW CONCENTRATION"}
+{"input": "Respiration provides energy for all life processes in cells.", "output": "PROVIDES ENERGY FOR CELL ACTIVITIES"}
+{"input": "Excretion removes metabolic wastes like urea, carbon dioxide, and sweat.", "output": "REMOVES WASTES; UREA, CO₂, SWEAT"}
+{"input": "Homeostasis is the maintenance of a stable internal environment in the body.", "output": "MAINTENANCE OF STABLE INTERNAL CONDITIONS"}
+{"input": "Enzymes are biological catalysts that speed up chemical reactions in living organisms.", "output": "BIOLOGICAL CATALYST; SPEEDS UP REACTIONS"}
+{"input": "DNA contains genetic information that determines traits of living organisms.", "output": "GENETIC MATERIAL; DETERMINES TRAITS"}
+{"input": "RNA helps in protein synthesis by transferring genetic instructions from DNA.", "output": "ASSISTS PROTEIN SYNTHESIS; TRANSFERS DNA INSTRUCTIONS"}
+{"input": "Cell is the basic structural and functional unit of all living organisms.", "output": "BASIC UNIT OF LIFE; STRUCTURAL AND FUNCTIONAL"}
+{"input": "Prokaryotic cells lack a nucleus and membrane-bound organelles.", "output": "NO NUCLEUS; NO MEMBRANE-BOUND ORGANELLES"}
+{"input": "Eukaryotic cells have a nucleus and membrane-bound organelles.", "output": "HAS NUCLEUS; MEMBRANE-BOUND ORGANELLES"}
+{"input": "Plant cells have cell walls, chloroplasts, and large vacuoles.", "output": "CELL WALL, CHLOROPLASTS, LARGE VACUOLES"}
+{"input": "Animal cells lack cell walls and chloroplasts but have centrioles.", "output": "NO CELL WALL, NO CHLOROPLAST; HAS CENTRIOLES"}
+{"input": "Photosynthesis occurs in chloroplasts using chlorophyll to absorb sunlight.", "output": "CHLOROPLASTS; CHLOROPHYLL ABSORBS SUNLIGHT"}
+{"input": "Respiration occurs in mitochondria to release energy from glucose.", "output": "MITOCHONDRIA; RELEASE ENERGY FROM GLUCOSE"}
+{"input": "Mitosis is cell division producing two identical daughter cells.", "output": "CELL DIVISION; TWO IDENTICAL CELLS"}
+{"input": "Meiosis is cell division producing four genetically different gametes.", "output": "CELL DIVISION; FOUR GENETICALLY DIFFERENT GAMETES"}
+{"input": "Chromosomes carry genes and are made of DNA.", "output": "CARRY GENES; MADE OF DNA"}
+{"input": "Genes are units of heredity that determine traits.", "output": "UNITS OF HEREDITY; DETERMINE TRAITS"}
+{"input": "Pollination is essential for sexual reproduction in flowering plants.", "output": "ESSENTIAL FOR SEXUAL REPRODUCTION; FLOWERING PLANTS"}
+{"input": "Fertilization occurs when male gamete fuses with female gamete.", "output": "MALE GAMETE FUSES WITH FEMALE GAMETE"}
+{"input": "Seed germination is the process by which a seed grows into a new plant.", "output": "SEED GROWS INTO PLANT"}
+{"input": "Adaptation is the process by which organisms adjust to their environment.", "output": "ORGANISMS ADJUST TO ENVIRONMENT"}
+{"input": "Evolution is the gradual change in species over generations.", "output": "GRADUAL CHANGE IN SPECIES OVER TIME"}
+{"input": "Extinction occurs when a species completely disappears from Earth.", "output": "SPECIES DISAPPEARS COMPLETELY"}
+{"input": "Natural selection is the process where favorable traits survive and reproduce.", "output": "FAVORABLE TRAITS SURVIVE AND REPRODUCE"}
+{"input": "Food web shows multiple interconnected food chains in an ecosystem.", "output": "MULTIPLE INTERCONNECTED FOOD CHAINS"}
+{"input": "Energy flow in an ecosystem is unidirectional from producers to consumers.", "output": "ENERGY FLOWS ONE WAY; PRODUCERS TO CONSUMERS"}
+{"input": "Water is essential for all living organisms for chemical reactions and transport.", "output": "ESSENTIAL FOR LIFE; CHEMICAL REACTIONS AND TRANSPORT"}
+{"input": "Oxygen is necessary for respiration in most living organisms.", "output": "NECESSARY FOR RESPIRATION"}
+{"input": "Carbon dioxide is used by plants for photosynthesis.", "output": "USED BY PLANTS FOR PHOTOSYNTHESIS"}
+{"input": "Nitrogen is essential for making proteins and DNA in living organisms.", "output": "ESSENTIAL FOR PROTEINS AND DNA"}
+{"input": "Hydrogen is a component of water and organic molecules.", "output": "PART OF WATER AND ORGANIC MOLECULES"}
+{"input": "Acids have a pH less than 7 and taste sour.", "output": "PH < 7; SOUR TASTE"}
+{"input": "Bases have a pH greater than 7 and taste bitter.", "output": "PH > 7; BITTER TASTE"}
+{"input": "Neutral substances have a pH of 7 and are neither acidic nor basic.", "output": "PH = 7; NEITHER ACIDIC NOR BASIC"}
+{"input": "Chemical reactions involve breaking and forming chemical bonds.", "output": "BREAKING AND FORMING CHEMICAL BONDS"}
+{"input": "Exothermic reactions release heat energy to the surroundings.", "output": "RELEASES HEAT ENERGY"}
+{"input": "Endothermic reactions absorb heat energy from the surroundings.", "output": "ABSORBS HEAT ENERGY"}
+{"input": "Oxidation is the gain of oxygen or loss of electrons in a reaction.", "output": "GAIN OXYGEN OR LOSS OF ELECTRONS"}
+{"input": "Reduction is the loss of oxygen or gain of electrons in a reaction.", "output": "LOSS OXYGEN OR GAIN OF ELECTRONS"}
+{"input": "Mixtures can be separated by filtration, evaporation, or distillation.", "output": "FILTRATION, EVAPORATION, DISTILLATION; SEPARATION METHOD"}
+{"input": "Density is used to identify substances and measure compactness of matter.", "output": "IDENTIFY SUBSTANCES; MEASURE COMPACTNESS"}
+{"input": "Solubility is the ability of a substance to dissolve in a solvent.", "output": "ABILITY TO DISSOLVE IN SOLVENT"}
+{"input": "Saturation occurs when no more solute can dissolve in a solvent.", "output": "NO MORE SOLUTE DISSOLVES"}
+{"input": "Suspension is a heterogeneous mixture where particles settle on standing.", "output": "HETEROGENEOUS MIXTURE; PARTICLES SETTLE"}
+{"input": "Colloid is a mixture with particles dispersed but not settling.", "output": "MIXTURE WITH DISPERSED PARTICLES; NO SETTLING"}
+{"input": "Light travels faster in air than in water.", "output": "LIGHT SPEED: AIR > WATER"}
+{"input": "Prisms separate white light into its seven colors by refraction.", "output": "PRISM REFRACTS WHITE LIGHT; SEPARATES COLORS"}
+{"input": "Convex mirrors diverge light rays and form virtual, smaller images.", "output": "DIVERGE LIGHT; VIRTUAL, SMALL IMAGE"}
+{"input": "Concave mirrors converge light rays and can form real or virtual images.", "output": "CONVERGE LIGHT; REAL OR VIRTUAL IMAGE"}
+{"input": "Sound requires a medium to travel and cannot move through a vacuum.", "output": "REQUIRES MEDIUM; CANNOT TRAVEL IN VACUUM"}
+{"input": "Amplitude determines the loudness and frequency determines the pitch of sound.", "output": "AMPLITUDE = LOUDNESS; FREQUENCY = PITCH"}
+{"input": "Reflection of sound produces echo.", "output": "SOUND REFLECTION; ECHO"}
+{"input": "Ultrasound has frequencies above 20,000 Hz, used in medical imaging.", "output": "FREQUENCY > 20,000 HZ; MEDICAL USE"}
+{"input": "Infrared radiation has wavelengths longer than visible light and is felt as heat.", "output": "LONGER WAVELENGTH THAN VISIBLE; FELT AS HEAT"}
+{"input": "X-rays are high-energy electromagnetic waves used for imaging bones.", "output": "HIGH-ENERGY WAVES; IMAGE BONES"}
+{"input": "Gamma rays are electromagnetic waves with highest energy used in cancer treatment.", "output": "HIGHEST ENERGY WAVES; CANCER TREATMENT"}
+{"input": "Electric current can be generated by batteries, dynamos, or solar cells.", "output": "GENERATED BY BATTERIES, DYNAMOS, SOLAR CELLS"}
+{"input": "Conductors allow electric current to pass through easily, like copper and aluminum.", "output": "ALLOW ELECTRIC CURRENT; EXAMPLES: COPPER, ALUMINUM"}
+{"input": "Insulators resist electric current, like rubber, plastic, and glass.", "output": "RESIST ELECTRIC CURRENT; RUBBER, PLASTIC, GLASS"}
+{"input": "Magnets have north and south poles and attract magnetic materials.", "output": "NORTH AND SOUTH POLES; ATTRACT MAGNETIC MATERIALS"}
+{"input": "Earth behaves like a giant magnet with a magnetic field.", "output": "EARTH = GIANT MAGNET; HAS MAGNETIC FIELD"}
+{"input": "Electromagnetic induction produces current when a conductor moves in a magnetic field.", "output": "CURRENT GENERATED; CONDUCTOR MOVES IN MAGNETIC FIELD"}
+{"input": "Renewable energy comes from sources that can be replenished, like sunlight, wind, and water.", "output": "REPLENISHABLE SOURCES; SUNLIGHT, WIND, WATER"}
+{"input": "Non-renewable energy comes from sources that cannot be easily replaced, like coal, oil, and gas.", "output": "CANNOT BE EASILY REPLACED; COAL, OIL, GAS"}
+{"input": "Force is a push or pull acting on an object, causing motion or deformation.", "output": "PUSH OR PULL; CAUSES MOTION OR DEFORMATION"}
+{"input": "Friction resists motion and can generate heat.", "output": "RESISTS MOTION; GENERATES HEAT"}
+{"input": "Pressure increases with depth in liquids due to weight of overlying fluid.", "output": "DEPTH ↑ = PRESSURE ↑; DUE TO FLUID WEIGHT"}
+{"input": "Buoyancy is the upward force exerted by a fluid on a submerged object.", "output": "UPWARD FORCE BY FLUID ON OBJECT"}
+{"input": "Simple machines reduce effort needed to do work.", "output": "REDUCE EFFORT TO DO WORK"}
+{"input": "Lever, pulley, wheel and axle, inclined plane, wedge, and screw are examples of simple machines.", "output": "EXAMPLES: LEVER, PULLEY, WHEEL & AXLE, INCLINED PLANE, WEDGE, SCREW"}
+{"input": "Speed is the distance traveled per unit time.", "output": "DISTANCE PER UNIT TIME"}
+{"input": "Velocity is speed with direction.", "output": "SPEED WITH DIRECTION"}
+{"input": "Acceleration is the rate of change of velocity.", "output": "CHANGE OF VELOCITY PER UNIT TIME"}
+{"input": "Mass is the amount of matter in a body.", "output": "AMOUNT OF MATTER"}
+{"input": "Weight is the force of gravity acting on a body.", "output": "GRAVITY FORCE ON BODY"}
+{"input": "Newton's laws explain motion of objects.", "output": "LAWS EXPLAIN OBJECT MOTION"}
+{"input": "Energy cannot be created or destroyed; it can only change form.", "output": "ENERGY CONSERVATION; CHANGE FORM"}
+{"input": "Kinetic energy depends on mass and speed of an object.", "output": "DEPENDS ON MASS AND SPEED"}
+{"input": "Potential energy depends on mass, gravity, and height.", "output": "DEPENDS ON MASS, GRAVITY, HEIGHT"}
+{"input": "Mechanical energy is the sum of kinetic and potential energy.", "output": "SUM OF KINETIC AND POTENTIAL ENERGY"}
+{"input": "Sound energy is produced by vibrating objects.", "output": "ENERGY FROM VIBRATING OBJECTS"}
+{"input": "Light energy comes from sources like the Sun and lamps.", "output": "ENERGY FROM SUN OR LAMPS"}
+{"input": "Heat energy is transferred due to temperature difference.", "output": "TRANSFERRED DUE TO TEMPERATURE DIFFERENCE"}
+{"input": "Electrical energy comes from moving charges.", "output": "ENERGY FROM MOVING CHARGES"}
+{"input": "Chemical energy is stored in bonds of molecules and released during reactions.", "output": "STORED IN MOLECULAR BONDS; RELEASED IN REACTIONS"}
+{"input": "Nuclear energy is released during fission or fusion reactions.", "output": "RELEASED IN FISSION OR FUSION"}
+{"input": "Power is the rate at which work is done.", "output": "WORK DONE PER UNIT TIME"}
+{"input": "Work is done when a force moves an object in the direction of the force.", "output": "FORCE MOVES OBJECT IN SAME DIRECTION"}
+{"input": "Conduction, convection, and radiation are methods of heat transfer.", "output": "HEAT TRANSFER METHODS: CONDUCTION, CONVECTION, RADIATION"}
+{"input": "Evaporation, condensation, precipitation, and collection are stages of the water cycle.", "output": "WATER CYCLE STAGES: EVAPORATION, CONDENSATION, PRECIPITATION, COLLECTION"}
+{"input": "Cohesion is the attraction between molecules of the same substance.", "output": "ATTRACTION BETWEEN SAME MOLECULES"}
+{"input": "Adhesion is the attraction between molecules of different substances.", "output": "ATTRACTION BETWEEN DIFFERENT MOLECULES"}
+{"input": "Capillarity is the rise of liquid in narrow tubes due to cohesion and adhesion.", "output": "LIQUID RISE IN NARROW TUBES; COHESION & ADHESION"}
+{"input": "Magnetic materials are attracted by magnets and include iron, cobalt, and nickel.", "output": "ATTRACTED BY MAGNETS; EXAMPLES: IRON, COBALT, NICKEL"}
+{"input": "Electric circuits can be open or closed.", "output": "CIRCUIT TYPES: OPEN OR CLOSED"}
+{"input": "Series circuits have same current through all components.", "output": "SAME CURRENT THROUGH COMPONENTS"}
+{"input": "Parallel circuits have same voltage across all components.", "output": "SAME VOLTAGE ACROSS COMPONENTS"}
+{"input": "Batteries provide electrical energy by chemical reactions.", "output": "PROVIDE ELECTRICAL ENERGY; CHEMICAL REACTIONS"}
+{"input": "Solar cells convert sunlight into electrical energy.", "output": "SUNLIGHT → ELECTRICAL ENERGY"}
+{"input": "Wind turbines convert kinetic energy of wind into electrical energy.", "output": "WIND KINETIC ENERGY → ELECTRICAL ENERGY"}
+{"input": "Hydroelectric plants generate electricity using moving water.", "output": "MOVING WATER → ELECTRICITY"}
+{"input": "Fossil fuels like coal, oil, and gas are non-renewable energy sources.", "output": "NON-RENEWABLE ENERGY; COAL, OIL, GAS"}
+{"input": "Plants produce oxygen which is essential for animal respiration.", "output": "PRODUCE OXYGEN; ESSENTIAL FOR RESPIRATION"}
+{"input": "Animals produce carbon dioxide which plants use for photosynthesis.", "output": "PRODUCE CO₂; USED BY PLANTS"}
+{"input": "Pollution contaminates air, water, and soil, harming life and environment.", "output": "CONTAMINATES AIR, WATER, SOIL; HARMS LIFE AND ENVIRONMENT"}
+{"input": "Global warming is caused by increased greenhouse gases in the atmosphere.", "output": "INCREASED GREENHOUSE GASES; CAUSES GLOBAL WARMING"}
+{"input": "Ozone layer depletion increases ultraviolet radiation reaching Earth.", "output": "OZONE DEPLETION; UV RADIATION ↑"}
+{"input": "Recycling reduces waste, conserves resources, and protects environment.", "output": "REDUCES WASTE; CONSERVES RESOURCES; PROTECTS ENVIRONMENT"}
+{"input": "Vaccination prevents infectious diseases by stimulating immunity.", "output": "PREVENTS DISEASES; STIMULATES IMMUNITY"}
+{"input": "Simple machine is a device that reduces effort needed to do work.", "output": "REDUCES EFFORT TO DO WORK"}
+{"input": "Lever is a rigid bar that rotates around a fixed point called fulcrum.", "output": "RIGID BAR; ROTATES AROUND FULCRUM"}
+{"input": "First-class lever has fulcrum between effort and load.", "output": "FULCRUM BETWEEN EFFORT AND LOAD"}
+{"input": "Second-class lever has load between effort and fulcrum.", "output": "LOAD BETWEEN EFFORT AND FULCRUM"}
+{"input": "Third-class lever has effort between fulcrum and load.", "output": "EFFORT BETWEEN FULCRUM AND LOAD"}
+{"input": "Pulley is a wheel with a rope used to lift loads.", "output": "WHEEL WITH ROPE; LIFTS LOADS"}
+{"input": "Fixed pulley changes direction of force but not magnitude.", "output": "CHANGES DIRECTION OF FORCE; MAGNITUDE SAME"}
+{"input": "Movable pulley reduces the effort needed to lift load.", "output": "REDUCES EFFORT TO LIFT LOAD"}
+{"input": "Wheel and axle consists of a wheel attached to a smaller axle; multiplies force.", "output": "WHEEL + AXLE; MULTIPLIES FORCE"}
+{"input": "Inclined plane is a sloping surface used to raise objects.", "output": "SLOPING SURFACE; RAISES OBJECTS"}
+{"input": "Wedge is two inclined planes joined together to cut or split objects.", "output": "TWO INCLINED PLANES; CUT OR SPLIT"}
+{"input": "Screw is an inclined plane wrapped around a cylinder.", "output": "INCLINED PLANE AROUND CYLINDER"}
+{"input": "Mechanical advantage is the ratio of load to effort in a machine.", "output": "LOAD ÷ EFFORT"}
+{"input": "Velocity is positive when moving in one direction, negative in opposite.", "output": "POSITIVE ONE DIRECTION; NEGATIVE OPPOSITE"}
+{"input": "Acceleration can be uniform or non-uniform.", "output": "UNIFORM OR NON-UNIFORM ACCELERATION"}
+{"input": "Centrifugal force is apparent force directed away from center in rotating frame.", "output": "APPARENT FORCE AWAY FROM CENTER"}
+{"input": "Centripetal force is real force directed toward center of circular motion.", "output": "FORCE TOWARD CENTER"}
+{"input": "Torque is the turning effect of a force about a pivot.", "output": "TURNING EFFECT OF FORCE"}
+{"input": "Rotational motion occurs when a body rotates about an axis.", "output": "BODY ROTATES ABOUT AXIS"}
+{"input": "Moment of inertia is the rotational equivalent of mass.", "output": "ROTATIONAL EQUIVALENT OF MASS"}
+{"input": "Angular momentum is the product of moment of inertia and angular velocity.", "output": "I × ANGULAR VELOCITY"}
+{"input": "Law of conservation of angular momentum states total angular momentum remains constant.", "output": "TOTAL ANGULAR MOMENTUM CONSTANT"}
+{"input": "Oscillatory motion repeats itself around equilibrium position.", "output": "REPEATS AROUND EQUILIBRIUM"}
+{"input": "Simple harmonic motion is a type of oscillation where restoring force ∝ displacement.", "output": "RESTORING FORCE ∝ DISPLACEMENT"}
+{"input": "Pendulum exhibits simple harmonic motion.", "output": "PENDULUM = SHM"}
+{"input": "Time period of a pendulum depends on length and gravity.", "output": "PERIOD DEPENDS ON LENGTH AND GRAVITY"}
+{"input": "Frequency is reciprocal of period.", "output": "F = 1 ÷ T"}
+{"input": "Wave transfers energy without transferring matter.", "output": "ENERGY TRANSFER; NO MATTER TRANSFER"}
+{"input": "Transverse wave has particle motion perpendicular to wave direction.", "output": "PARTICLE MOTION ⟂ WAVE DIRECTION"}
+{"input": "Longitudinal wave has particle motion parallel to wave direction.", "output": "PARTICLE MOTION ∥ WAVE DIRECTION"}
+{"input": "Amplitude is the maximum displacement of particles in a wave.", "output": "MAXIMUM DISPLACEMENT OF PARTICLES"}
+{"input": "Wavelength is the distance between two consecutive crests or troughs.", "output": "DISTANCE BETWEEN CRESTS OR TROUGHS"}
+{"input": "Wave speed is wavelength × frequency.", "output": "SPEED = WAVELENGTH × FREQUENCY"}
+{"input": "Reflection obeys the law: angle of incidence = angle of reflection.", "output": "INCIDENCE = REFLECTION ANGLE"}
+{"input": "Refraction is bending of light due to change of medium.", "output": "BENDING OF LIGHT; CHANGE OF MEDIUM"}
+{"input": "Critical angle is the minimum angle of incidence for total internal reflection.", "output": "MINIMUM ANGLE; TOTAL INTERNAL REFLECTION"}
+{"input": "Prism disperses white light into colors.", "output": "WHITE LIGHT SPLITS INTO COLORS"}
+{"input": "Convex lens converges light rays to focus.", "output": "CONVERGES LIGHT; FOCUS POINT"}
+{"input": "Concave lens diverges light rays.", "output": "DIVERGES LIGHT"}
+{"input": "Magnification = image size ÷ object size.", "output": "IMAGE ÷ OBJECT SIZE"}
+{"input": "Mirror forms images by reflection.", "output": "FORMS IMAGE BY REFLECTION"}
+{"input": "Concave mirror can form real or virtual images.", "output": "REAL OR VIRTUAL IMAGE"}
+{"input": "Convex mirror forms virtual, diminished images.", "output": "VIRTUAL, DIMINISHED IMAGE"}
+{"input": "Focal length is distance between mirror or lens and focus.", "output": "DISTANCE BETWEEN LENS/MIRROR AND FOCUS"}
+{"input": "Sound is produced by vibrating objects.", "output": "VIBRATING OBJECTS PRODUCE SOUND"}
+{"input": "Pitch depends on frequency; loudness depends on amplitude.", "output": "PITCH ∝ FREQUENCY; LOUDNESS ∝ AMPLITUDE"}
+{"input": "Speed of sound is fastest in solids, slower in liquids, slowest in gases.", "output": "SPEED: SOLID > LIQUID > GAS"}
+{"input": "Echo is reflected sound.", "output": "REFLECTED SOUND"}
+{"input": "Ultrasound frequency > 20,000 Hz, used in medical imaging.", "output": "FREQUENCY > 20,000 HZ; MEDICAL USE"}
+{"input": "Electric current is flow of electric charges.", "output": "FLOW OF CHARGES"}
+{"input": "Voltage is potential difference between two points.", "output": "POTENTIAL DIFFERENCE"}
+{"input": "Resistance is opposition to current flow.", "output": "OPPOSITION TO CURRENT"}
+{"input": "Ohm's law: V = IR.", "output": "V = I × R"}
+{"input": "Series circuit has same current through components.", "output": "SAME CURRENT THROUGH COMPONENTS"}
+{"input": "Parallel circuit has same voltage across components.", "output": "SAME VOLTAGE ACROSS COMPONENTS"}
+{"input": "Conductors allow current; insulators resist current.", "output": "CONDUCTORS ALLOW; INSULATORS RESIST"}
+{"input": "Magnetism is force of attraction or repulsion between magnets.", "output": "ATTRACTION OR REPULSION BETWEEN MAGNETS"}
+{"input": "Magnetic field is region around a magnet where force is felt.", "output": "REGION AROUND MAGNET; FORCE FELT"}
+{"input": "Electromagnet is created by current through coil around metal.", "output": "CURRENT THROUGH COIL; MAGNET CREATED"}
+{"input": "Electromagnetic induction produces current by moving conductor in magnetic field.", "output": "CURRENT FROM MOVING CONDUCTOR IN MAGNETIC FIELD"}
+{"input": "AC reverses direction periodically; DC flows in one direction.", "output": "AC: REVERSES; DC: ONE DIRECTION"}
+{"input": "Transformer changes AC voltage level.", "output": "CHANGES AC VOLTAGE LEVEL"}
+{"input": "Energy can be kinetic, potential, mechanical, thermal, electrical, chemical, nuclear.", "output": "KINETIC, POTENTIAL, MECHANICAL, THERMAL, ELECTRICAL, CHEMICAL, NUCLEAR"}
+{"input": "Conservation of momentum: total momentum before = after collision.", "output": "TOTAL MOMENTUM CONSTANT"}
+{"input": "Elastic collision conserves kinetic energy.", "output": "KINETIC ENERGY CONSERVED"}
+{"input": "Inelastic collision does not conserve kinetic energy.", "output": "KINETIC ENERGY NOT CONSERVED"}
+{"input": "Circular motion requires centripetal force directed toward center.", "output": "CENTRIPETAL FORCE TOWARD CENTER"}
+{"input": "Centrifugal force is apparent force directed outward in rotating frame.", "output": "APPARENT FORCE OUTWARD"}
+{"input": "Torque is turning effect of force about pivot.", "output": "TURNING EFFECT OF FORCE"}
+{"input": "Rotational motion occurs when body rotates around axis.", "output": "BODY ROTATES AROUND AXIS"}
+{"input": "Moment of inertia measures resistance to rotational motion.", "output": "RESISTANCE TO ROTATION"}
+{"input": "Angular momentum = moment of inertia × angular velocity.", "output": "ANGULAR MOMENTUM = I × ω"}
+{"input": "Law of conservation of angular momentum: total remains constant.", "output": "TOTAL ANGULAR MOMENTUM CONSTANT"}
+{"input": "Pendulum exhibits simple harmonic motion.", "output": "PENDULUM = SHM"}
+{"input": "Time period of pendulum depends on length and gravity.", "output": "PERIOD DEPENDS ON LENGTH AND GRAVITY"}
+{"input": "Frequency = 1 ÷ period.", "output": "F = 1 ÷ T"}
+{"input": "Wave transfers energy without transferring matter.", "output": "ENERGY TRANSFER; NO MATTER"}
+{"input": "Transverse wave: particle motion perpendicular to wave direction.", "output": "PARTICLE MOTION ⟂ WAVE DIRECTION"}
+{"input": "Longitudinal wave: particle motion parallel to wave direction.", "output": "PARTICLE MOTION ∥ WAVE DIRECTION"}
+{"input": "Amplitude is maximum displacement of wave particle.", "output": "MAXIMUM DISPLACEMENT"}
+{"input": "Wavelength is distance between consecutive crests or troughs.", "output": "DISTANCE BETWEEN CRESTS/THROUGHS"}
+{"input": "Wave speed = frequency × wavelength.", "output": "SPEED = FREQUENCY × WAVELENGTH"}
+{"input": "Reflection: angle of incidence = angle of reflection.", "output": "INCIDENCE = REFLECTION"}
+{"input": "Refraction: bending of light due to medium change.", "output": "BENDING OF LIGHT; MEDIUM CHANGE"}
+{"input": "Critical angle: minimum angle for total internal reflection.", "output": "MINIMUM ANGLE; TOTAL INTERNAL REFLECTION"}
+{"input": "Prism disperses white light into colors.", "output": "WHITE LIGHT SPLITS INTO COLORS"}
+{"input": "Convex lens converges light to focus.", "output": "CONVERGES LIGHT; FOCUS"}
+{"input": "Concave lens diverges light.", "output": "DIVERGES LIGHT"}
+{"input": "Magnification = image size ÷ object size.", "output": "IMAGE ÷ OBJECT SIZE"}
+{"input": "Concave mirror forms real or virtual images.", "output": "REAL OR VIRTUAL IMAGE"}
+{"input": "Convex mirror forms virtual, diminished images.", "output": "VIRTUAL, DIMINISHED IMAGE"}
+{"input": "Focal length = distance between lens/mirror and focus.", "output": "DISTANCE TO FOCUS"}
+{"input": "Ecosystem balance depends on interactions between producers, consumers, and decomposers.", "output": "BALANCE DEPENDS ON PRODUCERS, CONSUMERS, DECOMPOSERS"}
+{"input": "Food web shows multiple feeding relationships in an ecosystem.", "output": "MULTIPLE FEEDING RELATIONSHIPS"}
+{"input": "Carnivores eat herbivores or other carnivores.", "output": "EAT HERBIVORES OR CARNIVORES"}
+{"input": "Omnivores eat both plants and animals.", "output": "EAT PLANTS AND ANIMALS"}
+{"input": "Herbivores eat only plants.", "output": "EAT ONLY PLANTS"}
+{"input": "Parasites depend on hosts for food and shelter.", "output": "DEPEND ON HOSTS FOR FOOD AND SHELTER"}
+{"input": "Predators hunt and kill prey for food.", "output": "HUNT AND KILL PREY FOR FOOD"}
+{"input": "Symbiosis is close interaction between different species.", "output": "CLOSE INTERACTION BETWEEN SPECIES"}
+{"input": "Mutualism benefits both species in interaction.", "output": "BOTH SPECIES BENEFIT"}
+{"input": "Commensalism benefits one species without harming the other.", "output": "ONE BENEFITS; OTHER NOT HARMED"}
+{"input": "Parasitism benefits one species but harms the other.", "output": "ONE BENEFITS; OTHER HARMED"}
+{"input": "Adaptation helps organisms survive in their environment.", "output": "HELPS SURVIVAL"}
+{"input": "Camouflage helps organisms hide from predators.", "output": "HELPS HIDE FROM PREDATORS"}
+{"input": "Mimicry allows one species to resemble another for protection.", "output": "RESEMBLE ANOTHER SPECIES FOR PROTECTION"}
+{"input": "Seasonal migration helps animals find food and breeding grounds.", "output": "MOVE TO FIND FOOD AND BREEDING GROUND"}
+{"input": "Hibernation is a period of inactivity to survive winter.", "output": "INACTIVITY TO SURVIVE WINTER"}
+{"input": "Estivation is a period of dormancy in summer or dry conditions.", "output": "DORMANCY IN SUMMER/DRY CONDITIONS"}
+{"input": "Pollutants in air, water, and soil harm living organisms.", "output": "HARM LIVING ORGANISMS"}
+{"input": "Deforestation destroys habitats and reduces biodiversity.", "output": "DESTROYS HABITATS; REDUCES BIODIVERSITY"}
+{"input": "Overfishing decreases fish populations.", "output": "DECREASES FISH POPULATION"}
+{"input": "Invasive species can outcompete native species.", "output": "OUTCOMPETE NATIVE SPECIES"}
+{"input": "Reforestation helps restore plant and animal habitats.", "output": "RESTORES HABITATS"}
+{"input": "Conservation of water preserves ecosystems.", "output": "PRESERVES ECOSYSTEMS"}
+{"input": "Endangered species are at risk of extinction.", "output": "RISK OF EXTINCTION"}
+{"input": "Extinct species no longer exist.", "output": "SPECIES NO LONGER EXIST"}
+{"input": "Biodiversity ensures ecosystem stability and resilience.", "output": "ENSURES STABILITY AND RESILIENCE"}
+{"input": "Genetic variation within species supports adaptation and survival.", "output": "VARIATION SUPPORTS ADAPTATION"}
+{"input": "Mutations introduce new traits in organisms.", "output": "NEW TRAITS IN ORGANISMS"}
+{"input": "DNA stores genetic instructions for growth, development, and reproduction.", "output": "STORES GENETIC INSTRUCTIONS"}
+{"input": "RNA transfers genetic information from DNA to synthesize proteins.", "output": "TRANSFERS GENETIC INFO; PROTEIN SYNTHESIS"}
+{"input": "Chromosomes are made of DNA and proteins.", "output": "DNA + PROTEINS"}
+{"input": "Genes determine inherited traits in organisms.", "output": "DETERMINE INHERITED TRAITS"}
+{"input": "Dominant genes express their traits over recessive genes.", "output": "DOMINANT EXPRESS; RECESSIVE HIDDEN"}
+{"input": "Recessive genes express traits only when two copies are present.", "output": "EXPRESS ONLY IF TWO COPIES"}
+{"input": "Homozygous organisms have identical alleles for a gene.", "output": "IDENTICAL ALLELES"}
+{"input": "Heterozygous organisms have different alleles for a gene.", "output": "DIFFERENT ALLELES"}
+{"input": "Phenotype is the observable characteristics of an organism.", "output": "OBSERVABLE CHARACTERISTICS"}
+{"input": "Genotype is the genetic makeup of an organism.", "output": "GENETIC MAKEUP"}
+{"input": "Inheritance is the passing of traits from parents to offspring.", "output": "TRAITS PASSED FROM PARENTS"}
+{"input": "Mendel’s law of segregation states that alleles separate during gamete formation.", "output": "ALLELES SEPARATE DURING GAMETE FORMATION"}
+{"input": "Mendel’s law of independent assortment states that genes assort independently.", "output": "GENES ASSORT INDEPENDENTLY"}
+{"input": "Pollination is transfer of pollen from anther to stigma.", "output": "POLLEN FROM ANTHER TO STIGMA"}
+{"input": "Self-pollination occurs within the same flower or plant.", "output": "SAME FLOWER/PLANT"}
+{"input": "Cross-pollination occurs between different plants.", "output": "BETWEEN DIFFERENT PLANTS"}
+{"input": "Fertilization is the fusion of male and female gametes.", "output": "MALE + FEMALE GAMETES FUSE"}
+{"input": "Zygote develops into an embryo and later a new organism.", "output": "ZYGOTE → EMBRYO → ORGANISM"}
+{"input": "Seed dispersal spreads offspring away from parent plant.", "output": "SPREADS OFFSPRING FROM PARENT"}
+{"input": "Germination is the process where a seed sprouts and grows.", "output": "SEED SPROUTS AND GROWS"}
+{"input": "Stomata control gas exchange and water loss in leaves.", "output": "CONTROL GAS EXCHANGE AND WATER LOSS"}
+{"input": "Xylem transports water from roots to leaves.", "output": "WATER TRANSPORT ROOTS → LEAVES"}
+{"input": "Phloem transports food from leaves to other plant parts.", "output": "FOOD TRANSPORT LEAVES → PLANT PARTS"}
+{"input": "Photosynthesis converts light energy into chemical energy.", "output": "LIGHT ENERGY → CHEMICAL ENERGY"}
+{"input": "Chlorophyll absorbs sunlight for photosynthesis.", "output": "ABSORBS SUNLIGHT"}
+{"input": "Respiration releases energy by breaking down glucose.", "output": "GLUCOSE → ENERGY RELEASE"}
+{"input": "Aerobic respiration requires oxygen.", "output": "NEEDS OXYGEN"}
+{"input": "Anaerobic respiration occurs without oxygen.", "output": "WITHOUT OXYGEN"}
+{"input": "Excretion removes wastes like urea, carbon dioxide, and water.", "output": "REMOVES WASTES"}
+{"input": "Kidneys filter blood and form urine.", "output": "FILTER BLOOD; FORM URINE"}
+{"input": "Nephrons are functional units of kidneys.", "output": "FUNCTIONAL UNITS OF KIDNEYS"}
+{"input": "Liver detoxifies harmful substances and produces bile.", "output": "DETOXIFIES; PRODUCES BILE"}
+{"input": "Skeleton provides support, protection, and enables movement.", "output": "SUPPORT, PROTECTION, MOVEMENT"}
+{"input": "Muscles contract and relax to produce movement.", "output": "CONTRACT + RELAX → MOVEMENT"}
+{"input": "Joints connect bones and allow mobility.", "output": "CONNECT BONES; ALLOW MOBILITY"}
+{"input": "Ligaments connect bones to bones; tendons connect muscles to bones.", "output": "LIGAMENTS: BONE-BONE; TENDONS: MUSCLE-BONE"}
+{"input": "Nervous system transmits messages between body parts.", "output": "TRANSMITS MESSAGES"}
+{"input": "Brain controls voluntary and involuntary actions.", "output": "CONTROLS BODY ACTIONS"}
+{"input": "Spinal cord transmits signals between brain and body.", "output": "BRAIN ↔ BODY SIGNALS"}
+{"input": "Neurons carry electrical impulses.", "output": "CARRY ELECTRICAL IMPULSES"}
+{"input": "Synapse is the junction between neurons.", "output": "NEURON JUNCTION"}
+{"input": "Reflex action is a rapid involuntary response to stimuli.", "output": "RAPID INVOLUNTARY RESPONSE"}
+{"input": "Endocrine glands secrete hormones directly into the blood.", "output": "HORMONE SECRETION INTO BLOOD"}
+{"input": "Hormones regulate growth, metabolism, and reproduction.", "output": "REGULATES GROWTH, METABOLISM, REPRODUCTION"}
+{"input": "Vaccines prevent diseases by stimulating immunity.", "output": "PREVENT DISEASES; STIMULATES IMMUNITY"}
+{"input": "Pathogens cause infectious diseases.", "output": "CAUSE INFECTIOUS DISEASES"}
+{"input": "Bacteria are unicellular and some cause diseases.", "output": "UNICELLULAR; SOME PATHOGENS"}
+{"input": "Viruses are non-living and cause diseases.", "output": "NON-LIVING; CAUSE DISEASE"}
+{"input": "Fungi absorb nutrients and can cause infections.", "output": "ABSORB NUTRIENTS; CAN CAUSE INFECTIONS"}
+{"input": "Parasites live in or on hosts and cause harm.", "output": "LIVE ON/IN HOST; CAUSE HARM"}
+{"input": "Antibiotics kill or inhibit bacteria.", "output": "KILL OR INHIBIT BACTERIA"}
+{"input": "Antivirals inhibit virus replication.", "output": "INHIBIT VIRUS REPLICATION"}
+{"input": "Herbal remedies use plant extracts for healing.", "output": "PLANT EXTRACTS FOR HEALING"}
+{"input": "First aid provides immediate care for injuries.", "output": "IMMEDIATE CARE FOR INJURIES"}
+{"input": "Blood groups are determined by antigens on red blood cells.", "output": "ANTIGENS ON RBC DETERMINE BLOOD GROUP"}
+{"input": "A, B, AB, and O are main human blood groups.", "output": "BLOOD GROUPS: A, B, AB, O"}
+{"input": "Rh factor is an antigen present or absent on red blood cells.", "output": "ANTIGEN PRESENT/ABSENT ON RBC"}
+{"input": "Plant pigments like chlorophyll, carotenoids, and anthocyanins absorb light for photosynthesis.", "output": "PIGMENTS ABSORB LIGHT; PHOTOSYNTHESIS"}
+{"input": "Chlorophyll gives green color to plants and captures light energy.", "output": "GREEN COLOR; CAPTURES LIGHT"}
+{"input": "Carotenoids are yellow, orange, or red pigments that assist photosynthesis.", "output": "YELLOW/ORANGE/RED; ASSIST PHOTOSYNTHESIS"}
+{"input": "Anthocyanins are red, purple, or blue pigments found in leaves and flowers.", "output": "RED/PURPLE/BLUE; IN LEAVES/FLOWERS"}
+{"input": "Plants release oxygen as a by-product of photosynthesis.", "output": "OXYGEN RELEASED"}
+{"input": "C4 plants minimize photorespiration and grow in hot climates.", "output": "MINIMIZE PHOTORESPIRATION; HOT CLIMATES"}
+{"input": "CAM plants open stomata at night to conserve water.", "output": "STOMATA OPEN AT NIGHT; WATER CONSERVATION"}
+{"input": "Plant respiration occurs in mitochondria to release energy.", "output": "MITOCHONDRIA; ENERGY RELEASE"}
+{"input": "Root pressure helps push water upward in xylem.", "output": "WATER PUSHED UP IN XYLEM"}
+{"input": "Transpirational pull draws water from roots to leaves.", "output": "WATER PULLED FROM ROOTS TO LEAVES"}
+{"input": "Cohesion and adhesion of water molecules aid in transport through xylem.", "output": "COHESION + ADHESION; WATER TRANSPORT"}
+{"input": "Plants respond to environmental stimuli through tropisms and nastic movements.", "output": "RESPOND VIA TROPISMS AND NASTIC MOVEMENTS"}
+{"input": "Positive phototropism is growth towards light.", "output": "GROWTH TOWARDS LIGHT"}
+{"input": "Negative phototropism is growth away from light.", "output": "GROWTH AWAY FROM LIGHT"}
+{"input": "Positive geotropism is root growth towards gravity.", "output": "ROOT GROWTH TOWARDS GRAVITY"}
+{"input": "Negative geotropism is stem growth away from gravity.", "output": "STEM GROWTH AWAY FROM GRAVITY"}
+{"input": "Hydrotropism is growth of roots towards water.", "output": "ROOTS GROW TOWARDS WATER"}
+{"input": "Thigmotropism is plant growth in response to touch.", "output": "GROWTH DUE TO TOUCH"}
+{"input": "Nastic movements are non-directional plant responses to stimuli.", "output": "NON-DIRECTIONAL RESPONSE"}
+{"input": "Nyctinasty is leaf movement in response to day and night.", "output": "LEAF MOVEMENT; DAY/NIGHT"}
+{"input": "Seismonasty is movement of plant parts in response to touch.", "output": "MOVEMENT DUE TO TOUCH"}
+{"input": "Hormones like auxins, gibberellins, cytokinins, abscisic acid, and ethylene regulate plant growth.", "output": "AUXINS, GIBBERELLINS, CYTOKININS, ABA, ETHYLENE; REGULATE GROWTH"}
+{"input": "Auxins promote cell elongation and apical dominance.", "output": "CELL ELONGATION; APICAL DOMINANCE"}
+{"input": "Gibberellins stimulate stem elongation, seed germination, and flowering.", "output": "STEM ELONGATION; SEED GERMINATION; FLOWERING"}
+{"input": "Cytokinins promote cell division and delay leaf aging.", "output": "CELL DIVISION; DELAY LEAF AGING"}
+{"input": "Abscisic acid inhibits growth and induces dormancy.", "output": "INHIBITS GROWTH; DORMANCY"}
+{"input": "Ethylene promotes fruit ripening and leaf abscission.", "output": "FRUIT RIPENING; LEAF DROP"}
+{"input": "Photoperiodism is flowering response to day length.", "output": "FLOWERING RESPONSE; DAY LENGTH"}
+{"input": "Short-day plants flower when day length is less than a critical period.", "output": "DAY < CRITICAL LENGTH; FLOWERING"}
+{"input": "Long-day plants flower when day length is more than a critical period.", "output": "DAY > CRITICAL LENGTH; FLOWERING"}
+{"input": "Day-neutral plants flower regardless of day length.", "output": "FLOWER INDEPENDENT OF DAY LENGTH"}
+{"input": "Seed dormancy allows survival during unfavorable conditions.", "output": "SURVIVE UNFAVORABLE CONDITIONS"}
+{"input": "Germination requires water, oxygen, and suitable temperature.", "output": "NEEDS WATER, OXYGEN, TEMPERATURE"}
+{"input": "Seeds can be monocot with one cotyledon or dicot with two cotyledons.", "output": "MONOCOT: 1; DICOT: 2 COTYLEDONS"}
+{"input": "Cotyledons provide nutrition to the developing embryo.", "output": "NUTRITION FOR EMBRYO"}
+{"input": "Seed coat protects the embryo from mechanical injury and dehydration.", "output": "PROTECT EMBRYO"}
+{"input": "Endosperm stores food to support seedling growth.", "output": "STORES FOOD; SUPPORT GROWTH"}
+{"input": "Simple fruits develop from a single ovary.", "output": "SINGLE OVARY"}
+{"input": "Compound fruits develop from multiple ovaries or flowers.", "output": "MULTIPLE OVARY/FLOWERS"}
+{"input": "Fleshy fruits are soft and edible, like mango and tomato.", "output": "SOFT, EDIBLE FRUITS"}
+{"input": "Dry fruits are hard and non-edible, like wheat and gram.", "output": "HARD, NON-EDIBLE FRUITS"}
+{"input": "Seed dispersal methods include wind, water, animals, and explosion.", "output": "WIND, WATER, ANIMALS, EXPLOSION"}
+{"input": "Pollination can occur via wind, water, or animals.", "output": "WIND, WATER, ANIMALS"}
+{"input": "Self-pollination reduces genetic variation.", "output": "REDUCES GENETIC VARIATION"}
+{"input": "Cross-pollination increases genetic variation.", "output": "INCREASES GENETIC VARIATION"}
+{"input": "Vegetative propagation allows rapid multiplication of plants.", "output": "RAPID MULTIPLICATION"}
+{"input": "Cuttings, grafting, layering, and tissue culture are vegetative propagation methods.", "output": "CUTTINGS, GRAFTING, LAYERING, TISSUE CULTURE"}
+{"input": "Tissue culture grows plant cells or tissues in sterile conditions.", "output": "GROW PLANT CELLS/TISSUES STERILE"}
+{"input": "Plant biotechnology improves crop yield, resistance, and quality.", "output": "IMPROVE YIELD, RESISTANCE, QUALITY"}
+{"input": "Hydroponics grows plants without soil using nutrient solution.", "output": "SOILLESS; NUTRIENT SOLUTION"}
+{"input": "Aquaponics combines fish farming and plant cultivation.", "output": "FISH + PLANT CULTIVATION"}
+{"input": "Greenhouse farming provides controlled environment for plants.", "output": "CONTROLLED ENVIRONMENT"}
+{"input": "Organic farming avoids synthetic chemicals and uses natural fertilizers.", "output": "NO SYNTHETIC CHEMICALS; NATURAL FERTILIZERS"}
+{"input": "Crop rotation maintains soil fertility and reduces pests.", "output": "MAINTAIN SOIL FERTILITY; REDUCE PESTS"}
+{"input": "Companion planting protects plants from pests and improves growth.", "output": "PROTECT FROM PESTS; IMPROVE GROWTH"}
+{"input": "Plant ecology studies interaction of plants with environment and other organisms.", "output": "PLANT-ENVIRONMENT INTERACTIONS"}
+{"input": "Producers in an ecosystem make their own food using sunlight.", "output": "MAKE FOOD; SUNLIGHT USED"}
+{"input": "Consumers feed on producers or other consumers.", "output": "FEED ON PRODUCERS/CONSUMERS"}
+{"input": "Herbivores eat plants; carnivores eat animals; omnivores eat both.", "output": "HERBIVORES: PLANTS; CARNIVORES: ANIMALS; OMNIVORES: BOTH"}
+{"input": "Decomposers break down dead matter and recycle nutrients.", "output": "BREAK DOWN ORGANIC MATTER; RECYCLE NUTRIENTS"}
+{"input": "Biodiversity ensures ecosystem stability and resilience.", "output": "MAINTAINS ECOSYSTEM STABILITY"}
+{"input": "Deforestation reduces forest cover and biodiversity.", "output": "REDUCES FOREST AND BIODIVERSITY"}
+{"input": "Afforestation and reforestation restore plant cover.", "output": "RESTORES PLANT COVER"}
+{"input": "Invasive plants can outcompete native species.", "output": "OUTCOMPETE NATIVE SPECIES"}
+{"input": "Seed banks preserve plant genetic diversity for future use.", "output": "PRESERVE GENETIC DIVERSITY"}
+{"input": "Medicinal plants provide compounds for pharmaceuticals.", "output": "PROVIDE DRUG COMPOUNDS"}
+{"input": "Ethnobotany studies the relationship between humans and plants.", "output": "HUMAN-PLANT RELATIONSHIP"}
+{"input": "Plant life processes include photosynthesis, respiration, transpiration, and growth.", "output": "PHOTOSYNTHESIS, RESPIRATION, TRANSPIRATION, GROWTH"}
+{"input": "Adaptations help plants survive in various environments.", "output": "HELP SURVIVAL"}
+{"input": "Succulent plants store water in stems or leaves for dry environments.", "output": "STORE WATER; DRY ENVIRONMENTS"}
+{"input": "Hydrophytes are plants adapted to live in water.", "output": "ADAPTED TO WATER"}
+{"input": "Xerophytes are plants adapted to survive in arid regions.", "output": "ADAPTED TO ARID REGIONS"}
+{"input": "Epiphytes grow on other plants without harming them.", "output": "GROW ON PLANTS; NOT HARMFUL"}
+{"input": "Parasites derive nutrients from host plants.", "output": "DERIVE NUTRIENTS FROM HOST"}
+{"input": "Carnivorous plants trap and digest insects for nutrients.", "output": "TRAP + DIGEST INSECTS; NUTRIENTS"}
+{"input": "Hydrochloric acid is a strong acid used in laboratories.", "output": "STRONG ACID; LAB USE"}
+{"input": "Sulfuric acid is a strong acid used in fertilizers and batteries.", "output": "STRONG ACID; FERTILIZERS, BATTERIES"}
+{"input": "Nitric acid is used to make explosives and fertilizers.", "output": "USED IN EXPLOSIVES AND FERTILIZERS"}
+{"input": "Acetic acid gives vinegar its sour taste.", "output": "VINEGAR; SOUR TASTE"}
+{"input": "Bases feel slippery and turn red litmus blue.", "output": "SLIPPERY; RED LITMUS → BLUE"}
+{"input": "Sodium hydroxide is a strong base used in soap and paper making.", "output": "STRONG BASE; SOAP, PAPER"}
+{"input": "Potassium hydroxide is a strong base used in fertilizers.", "output": "STRONG BASE; FERTILIZERS"}
+{"input": "Ammonium hydroxide is a weak base used in cleaning agents.", "output": "WEAK BASE; CLEANING"}
+{"input": "Salts are formed from the reaction of acids and bases.", "output": "ACID + BASE → SALT"}
+{"input": "Common salt is chemically sodium chloride (NaCl).", "output": "NaCl; COMMON SALT"}
+{"input": "Baking soda is sodium bicarbonate (NaHCO₃).", "output": "NaHCO₃; BAKING SODA"}
+{"input": "Epsom salt is magnesium sulfate (MgSO₄).", "output": "MgSO₄; EPSOM SALT"}
+{"input": "Gypsum is calcium sulfate (CaSO₄·2H₂O).", "output": "CaSO₄·2H₂O; GYPSUM"}
+{"input": "Oxides are compounds of elements with oxygen.", "output": "ELEMENT + OXYGEN → OXIDE"}
+{"input": "Acidic oxides react with water to form acids.", "output": "ACIDIC OXIDE + WATER → ACID"}
+{"input": "Basic oxides react with water to form bases.", "output": "BASIC OXIDE + WATER → BASE"}
+{"input": "Amphoteric oxides react with both acids and bases.", "output": "REACT WITH ACIDS AND BASES"}
+{"input": "Neutral oxides do not react with acids or bases.", "output": "NO REACTION WITH ACID/BASE"}
+{"input": "Hydrogen gas is flammable and used in fuel cells.", "output": "FLAMMABLE; FUEL CELLS"}
+{"input": "Oxygen gas supports combustion and respiration.", "output": "SUPPORTS COMBUSTION; RESPIRATION"}
+{"input": "Nitrogen gas is inert and used in fertilizers and food preservation.", "output": "INERT; FERTILIZERS, FOOD"}
+{"input": "Carbon dioxide is a greenhouse gas and used in carbonation.", "output": "GREENHOUSE GAS; CARBONATION"}
+{"input": "Helium is a noble gas used in balloons and cryogenics.", "output": "NOBLE GAS; BALLOONS, CRYOGENICS"}
+{"input": "Metals form positive ions and react with acids to release hydrogen.", "output": "FORM CATIONS; ACID REACTION → H₂"}
+{"input": "Non-metals form negative ions and react with metals to form salts.", "output": "FORM ANIONS; REACT WITH METALS → SALT"}
+{"input": "Alkali metals are highly reactive and stored under oil.", "output": "HIGHLY REACTIVE; STORED UNDER OIL"}
+{"input": "Halogens are reactive non-metals used in disinfectants.", "output": "REACTIVE NON-METALS; DISINFECTANTS"}
+{"input": "Noble gases are chemically inert and used in lighting.", "output": "INERT; LIGHTING"}
+{"input": "Catalysts speed up reactions without being consumed.", "output": "SPEED UP REACTION; NOT CONSUMED"}
+{"input": "Enzymes are biological catalysts that accelerate reactions.", "output": "BIOLOGICAL CATALYST; ACCELERATE REACTIONS"}
+{"input": "Oxidation involves the loss of electrons.", "output": "LOSS OF ELECTRONS"}
+{"input": "Reduction involves the gain of electrons.", "output": "GAIN OF ELECTRONS"}
+{"input": "Redox reactions involve simultaneous oxidation and reduction.", "output": "OXIDATION + REDUCTION"}
+{"input": "Electrolysis decomposes compounds using electric current.", "output": "DECOMPOSE COMPOUNDS; ELECTRIC CURRENT"}
+{"input": "Conductors allow flow of electric current.", "output": "ALLOW ELECTRIC CURRENT"}
+{"input": "Insulators prevent the flow of electric current.", "output": "PREVENT ELECTRIC CURRENT"}
+{"input": "Solution concentration can be expressed in molarity or percentage.", "output": "CONCENTRATION: MOLARITY OR %"}
+{"input": "Saturated solution cannot dissolve more solute at given conditions.", "output": "CANNOT DISSOLVE MORE SOLUTE"}
+{"input": "Unsaturated solution can dissolve more solute.", "output": "CAN DISSOLVE MORE SOLUTE"}
+{"input": "Supersaturated solution contains more solute than normal.", "output": "MORE SOLUTE THAN NORMAL"}
+{"input": "Distillation separates liquids based on boiling points.", "output": "SEPARATE LIQUIDS; BOILING POINTS"}
+{"input": "Fractional distillation separates liquids with close boiling points.", "output": "SEPARATE SIMILAR BOILING POINT LIQUIDS"}
+{"input": "Chromatography separates substances based on solubility and movement.", "output": "SEPARATION BY SOLUBILITY + MOVEMENT"}
+{"input": "Filtration separates solids from liquids using a filter.", "output": "SOLIDS REMOVED; LIQUID PASSES"}
+{"input": "Evaporation removes solvent to leave dissolved solid behind.", "output": "SOLVENT REMOVED; SOLID REMAINS"}
+{"input": "Boiling converts liquid to gas at boiling point.", "output": "LIQUID → GAS; BOILING POINT"}
+{"input": "Melting converts solid to liquid at melting point.", "output": "SOLID → LIQUID; MELTING POINT"}
+{"input": "Freezing converts liquid to solid.", "output": "LIQUID → SOLID"}
+{"input": "Condensation converts gas to liquid.", "output": "GAS → LIQUID"}
+{"input": "Sublimation converts solid directly to gas.", "output": "SOLID → GAS"}
+{"input": "Deposition converts gas directly to solid.", "output": "GAS → SOLID"}
+{"input": "Law of conservation of mass states that mass is neither created nor destroyed.", "output": "MASS NEITHER CREATED NOR DESTROYED"}
+{"input": "Atomic number represents number of protons in an atom.", "output": "NUMBER OF PROTONS"}
+{"input": "Mass number represents sum of protons and neutrons in an atom.", "output": "PROTONS + NEUTRONS"}
+{"input": "Isotopes are atoms of same element with different neutrons.", "output": "SAME ELEMENT; DIFFERENT NEUTRONS"}
+{"input": "Ions are atoms or molecules with positive or negative charge.", "output": "CHARGED ATOMS/MOLECULES"}
+{"input": "Cations are positively charged ions.", "output": "POSITIVE IONS"}
+{"input": "Anions are negatively charged ions.", "output": "NEGATIVE IONS"}
+{"input": "Mixtures can be separated by physical methods like filtration, evaporation, and distillation.", "output": "FILTRATION, EVAPORATION, DISTILLATION"}
+{"input": "Alloys are mixtures of metals with enhanced properties.", "output": "METAL MIXTURES; ENHANCED PROPERTIES"}
+{"input": "Soap and detergents remove dirt using micelles.", "output": "MICELLES REMOVE DIRT"}
+{"input": "Rusting of iron is an oxidation reaction in presence of water and oxygen.", "output": "IRON + WATER + OXYGEN → RUST; OXIDATION"}
+{"input": "Corrosion is the chemical deterioration of metals.", "output": "METALS DETERIORATE CHEMICALLY"}
+{"input": "Oxidizing agents accept electrons in a reaction.", "output": "ACCEPT ELECTRONS"}
+{"input": "Reducing agents donate electrons in a reaction.", "output": "DONATE ELECTRONS"}
+{"input": "Exothermic reactions release energy as heat or light.", "output": "RELEASE ENERGY; HEAT/LIGHT"}
+{"input": "Endothermic reactions absorb energy as heat.", "output": "ABSORB ENERGY; HEAT"}
+{"input": "Periodic table arranges elements by atomic number and properties.", "output": "ARRANGED BY ATOMIC NUMBER + PROPERTIES"}
+{"input": "Groups in periodic table have similar chemical properties.", "output": "SIMILAR CHEMICAL PROPERTIES"}
+{"input": "Periods in periodic table have same number of electron shells.", "output": "SAME ELECTRON SHELLS"}
+{"input": "Alkali metals are highly reactive metals of group 1.", "output": "GROUP 1; HIGHLY REACTIVE"}
+{"input": "Alkaline earth metals are reactive metals of group 2.", "output": "GROUP 2; REACTIVE"}
+{"input": "Halogens are reactive non-metals of group 17.", "output": "GROUP 17; REACTIVE NON-METALS"}
+{"input": "Noble gases are inert gases of group 18.", "output": "GROUP 18; INERT GASES"}
+{"input": "Hydrogen is the lightest element and highly flammable.", "output": "LIGHTEST; FLAMMABLE"}
+{"input": "Oxygen supports combustion and respiration.", "output": "SUPPORTS COMBUSTION; RESPIRATION"}
+{"input": "Carbon forms covalent compounds and is basis of organic chemistry.", "output": "COVALENT COMPOUNDS; ORGANIC CHEMISTRY BASIS"}
+{"input": "Water is a polar molecule and universal solvent.", "output": "POLAR; UNIVERSAL SOLVENT"}
+{"input": "Chemical bonds store energy released during reactions.", "output": "BONDS STORE ENERGY; RELEASED IN REACTIONS"}
+{"input": "Renewable energy reduces greenhouse gas emissions and pollution.", "output": "REDUCE GHG EMISSIONS + POLLUTION"}
+{"input": "Solar panels convert sunlight into electricity.", "output": "SUNLIGHT → ELECTRICITY"}
+{"input": "Wind turbines generate electricity from wind energy.", "output": "WIND ENERGY → ELECTRICITY"}
+{"input": "Hydropower plants use water flow to produce electricity.", "output": "WATER FLOW → ELECTRICITY"}
+{"input": "Geothermal energy harnesses heat from Earth’s interior.", "output": "HEAT FROM EARTH → ENERGY"}
+{"input": "Biomass energy comes from organic matter like plants and waste.", "output": "ORGANIC MATTER → ENERGY"}
+{"input": "Climate change increases frequency of extreme weather events.", "output": "EXTREME WEATHER ↑"}
+{"input": "Rising sea levels threaten coastal communities.", "output": "COASTAL COMMUNITIES AT RISK"}
+{"input": "Melting glaciers reduce freshwater supply.", "output": "FRESHWATER SUPPLY ↓"}
+{"input": "Deforestation contributes to loss of biodiversity and climate change.", "output": "LOSS OF BIODIVERSITY + CLIMATE CHANGE"}
+{"input": "Recycling paper, plastic, and metals reduces landfill waste.", "output": "REDUCE LANDFILL WASTE"}
+{"input": "Composting organic waste reduces methane emissions.", "output": "REDUCE METHANE EMISSIONS"}
+{"input": "Eco-friendly products reduce chemical pollution.", "output": "REDUCE CHEMICAL POLLUTION"}
+{"input": "Green roofs improve air quality and reduce urban heat.", "output": "IMPROVE AIR; REDUCE URBAN HEAT"}
+{"input": "Urban forests provide shade, reduce temperature, and support biodiversity.", "output": "SHADE; REDUCE TEMPERATURE; SUPPORT BIODIVERSITY"}
+{"input": "Rainwater harvesting reduces dependence on groundwater.", "output": "REDUCE GROUNDWATER USE"}
+{"input": "Water-saving technologies conserve water in households and industries.", "output": "CONSERVE WATER"}
+{"input": "Environmental impact assessment evaluates the effects of human activities on ecosystems.", "output": "EVALUATE HUMAN IMPACT ON ECOSYSTEMS"}
+{"input": "Protected areas like wildlife sanctuaries preserve biodiversity.", "output": "PRESERVE BIODIVERSITY"}
+{"input": "Wildlife corridors allow safe movement of animals between habitats.", "output": "SAFE ANIMAL MOVEMENT"}
+{"input": "Mangroves reduce coastal erosion and provide habitat for fish.", "output": "REDUCE EROSION; HABITAT FOR FISH"}
+{"input": "Coral reefs protect shorelines and support marine life.", "output": "PROTECT SHORELINES; SUPPORT MARINE LIFE"}
+{"input": "Sustainable fishing prevents overexploitation of fish populations.", "output": "PREVENT OVERFISHING"}
+{"input": "Organic farming avoids synthetic fertilizers and pesticides.", "output": "NO SYNTHETIC FERTILIZERS/PESTICIDES"}
+{"input": "Crop rotation maintains soil fertility and reduces pests.", "output": "MAINTAIN SOIL FERTILITY; REDUCE PESTS"}
+{"input": "Afforestation increases forest cover and absorbs carbon dioxide.", "output": "INCREASE FOREST; ABSORB CO₂"}
+{"input": "Reforestation restores degraded land and improves biodiversity.", "output": "RESTORE LAND; IMPROVE BIODIVERSITY"}
+{"input": "Community participation is essential for environmental conservation.", "output": "COMMUNITY PARTICIPATION ESSENTIAL"}
+{"input": "Environmental education raises awareness about pollution and conservation.", "output": "RAISE AWARENESS; POLLUTION + CONSERVATION"}
+{"input": "Reducing single-use plastics prevents land and water pollution.", "output": "REDUCE POLLUTION"}
+{"input": "Energy efficiency in buildings reduces electricity consumption.", "output": "REDUCE ELECTRICITY USE"}
+{"input": "Public transport reduces vehicle emissions and traffic congestion.", "output": "REDUCE EMISSIONS + TRAFFIC"}
+{"input": "Carpooling lowers greenhouse gas emissions.", "output": "REDUCE GHG EMISSIONS"}
+{"input": "Electric vehicles produce less air pollution than conventional vehicles.", "output": "LESS AIR POLLUTION"}
+{"input": "Planting native species supports local ecosystems.", "output": "SUPPORT LOCAL ECOSYSTEMS"}
+{"input": "Biodegradable products decompose naturally and reduce waste.", "output": "DECOMPOSE NATURALLY; REDUCE WASTE"}
+{"input": "Eco-tourism promotes conservation and environmental awareness.", "output": "PROMOTE CONSERVATION + AWARENESS"}
+{"input": "Water pollution harms aquatic organisms and humans.", "output": "HARM AQUATIC LIFE + HUMANS"}
+{"input": "Air pollution causes respiratory problems and environmental damage.", "output": "RESPIRATORY PROBLEMS; ENVIRONMENTAL DAMAGE"}
+{"input": "Noise pollution affects human health and wildlife behavior.", "output": "AFFECT HEALTH + WILDLIFE"}
+{"input": "Industrial waste disposal can contaminate soil and water.", "output": "CONTAMINATE SOIL + WATER"}
+{"input": "Proper sanitation and waste management prevent environmental contamination.", "output": "PREVENT POLLUTION"}
+{"input": "Climate adaptation strategies help communities cope with extreme events.", "output": "COMMUNITIES COPE WITH EXTREMES"}
+{"input": "Sustainable water management ensures long-term availability.", "output": "ENSURE LONG-TERM WATER SUPPLY"}
+{"input": "Groundwater recharge replenishes underground water sources.", "output": "REPLENISH UNDERGROUND WATER"}
+{"input": "Wetlands act as natural water filters and flood buffers.", "output": "FILTER WATER; FLOOD BUFFER"}
+{"input": "Green belts in cities improve air quality and reduce temperature.", "output": "IMPROVE AIR; REDUCE TEMPERATURE"}
+{"input": "Environmental policies regulate pollution, deforestation, and resource use.", "output": "REGULATE POLLUTION, DEFORESTATION, RESOURCE USE"}
+{"input": "Climate change mitigation includes reducing emissions and using renewable energy.", "output": "REDUCE EMISSIONS; USE RENEWABLE ENERGY"}
+{"input": "Sustainable forestry provides timber while protecting ecosystems.", "output": "SUPPLY TIMBER; PROTECT ECOSYSTEMS"}
+{"input": "Community clean-up campaigns reduce litter and environmental hazards.", "output": "REDUCE LITTER + HAZARDS"}
+{"input": "Energy conservation reduces carbon footprint and electricity use.", "output": "REDUCE CARBON FOOTPRINT + ENERGY USE"}
+{"input": "Environmental monitoring tracks air, water, and soil quality.", "output": "TRACK AIR, WATER, SOIL QUALITY"}
+{"input": "Eco-friendly technologies reduce industrial pollution.", "output": "REDUCE INDUSTRIAL POLLUTION"}
+{"input": "Sustainable transport reduces fuel consumption and emissions.", "output": "REDUCE FUEL USE + EMISSIONS"}
+{"input": "Green infrastructure includes parks, green roofs, and urban forests.", "output": "PARKS, GREEN ROOFS, URBAN FORESTS"}
+{"input": "Reducing meat consumption lowers greenhouse gas emissions.", "output": "LOWER GHG EMISSIONS"}
+{"input": "Plastic recycling prevents land and marine pollution.", "output": "REDUCE POLLUTION"}
+{"input": "Environmental stewardship involves protecting and managing natural resources.", "output": "PROTECT + MANAGE RESOURCES"}
+{"input": "Climate-resilient infrastructure withstands floods, storms, and heatwaves.", "output": "WITHSTAND FLOODS, STORMS, HEATWAVES"}
+{"input": "Wildlife conservation protects endangered species from extinction.", "output": "PROTECT ENDANGERED SPECIES"}
+{"input": "Protected areas conserve habitats and biodiversity.", "output": "CONSERVE HABITATS + BIODIVERSITY"}
+{"input": "Sustainable agriculture maintains soil fertility and reduces chemical use.", "output": "MAINTAIN SOIL; REDUCE CHEMICALS"}
+{"input": "Composting organic waste enriches soil and reduces landfill pressure.", "output": "ENRICH SOIL; REDUCE LANDFILL"}
+{"input": "Rainwater harvesting captures and stores rain for reuse.", "output": "CAPTURE + STORE RAIN"}
+{"input": "Energy-efficient appliances reduce electricity use and emissions.", "output": "REDUCE ENERGY USE + EMISSIONS"}
+{"input": "Tree planting reduces carbon dioxide and mitigates climate change.", "output": "REDUCE CO₂; MITIGATE CLIMATE CHANGE"}
+{"input": "Urban green spaces improve air quality, biodiversity, and mental health.", "output": "IMPROVE AIR, BIODIVERSITY, MENTAL HEALTH"}
+{"input": "Reducing industrial emissions lowers air pollution and health risks.", "output": "REDUCE AIR POLLUTION + HEALTH RISKS"}
+{"input": "E-waste management prevents soil and water contamination.", "output": "PREVENT SOIL + WATER POLLUTION"}
+{"input": "Climate action includes mitigation, adaptation, and awareness programs.", "output": "MITIGATION + ADAPTATION + AWARENESS"}
+{"input": "Sustainable fisheries maintain fish populations and marine ecosystems.", "output": "MAINTAIN FISH + MARINE ECOSYSTEMS"}
+{"input": "Eco-labels indicate products made with minimal environmental impact.", "output": "PRODUCTS WITH MINIMAL ENVIRONMENTAL IMPACT"}
+{"input": "Community engagement is essential for successful conservation programs.", "output": "COMMUNITY ENGAGEMENT ESSENTIAL"}
+{"input": "Green energy sources reduce dependency on fossil fuels.", "output": "REDUCE FOSSIL FUEL USE"}
+{"input": "Environmental laws protect air, water, and wildlife.", "output": "PROTECT AIR, WATER, WILDLIFE"}
+{"input": "Sustainable practices minimize human impact on ecosystems.", "output": "MINIMIZE HUMAN IMPACT"}
+{"input": "Climate education encourages informed decision-making and action.", "output": "RAISE AWARENESS; INFORM DECISIONS + ACTION"}
+{"input": "Wetlands provide ecosystem services like water purification and flood control.", "output": "PURIFY WATER; CONTROL FLOODS"}
+{"input": "Biodiversity conservation maintains ecosystem balance and resilience.", "output": "MAINTAIN ECOSYSTEM BALANCE + RESILIENCE"}
+{"input": "Environmental monitoring ensures compliance with regulations.", "output": "ENSURE REGULATION COMPLIANCE"}
+{"input": "Sustainable water management reduces wastage and protects resources.", "output": "REDUCE WASTE; PROTECT WATER"}
+{"input": "The Heliocentric model places the Sun at the center of the solar system.", "output": "SUN AT CENTER OF SOLAR SYSTEM"}
+{"input": "The Geocentric model places Earth at the center of the universe.", "output": "EARTH AT CENTER OF UNIVERSE"}
+{"input": "Kepler’s laws describe planetary motion around the Sun.", "output": "PLANETARY MOTION AROUND SUN"}
+{"input": "Newton’s law of gravitation explains the force between two masses.", "output": "GRAVITATIONAL FORCE BETWEEN MASSES"}
+{"input": "Planetary atmospheres protect planets and maintain temperature.", "output": "PROTECT PLANET; MAINTAIN TEMPERATURE"}
+{"input": "The habitable zone is the region around a star where life can exist.", "output": "REGION AROUND STAR; SUPPORT LIFE"}
+{"input": "Space debris includes defunct satellites, rocket parts, and fragments.", "output": "DEFUNCT SATELLITES + ROCKET PARTS"}
+{"input": "The Van Allen belts are radiation zones around Earth.", "output": "RADIATION ZONES AROUND EARTH"}
+{"input": "Artificial satellites help in weather forecasting and communication.", "output": "WEATHER FORECAST + COMMUNICATION"}
+{"input": "The Sun produces energy through nuclear fusion.", "output": "NUCLEAR FUSION PRODUCES ENERGY"}
+{"input": "Hydrogen fuses into helium in the Sun’s core.", "output": "HYDROGEN → HELIUM; SUN CORE"}
+{"input": "Solar wind consists of charged particles emitted by the Sun.", "output": "CHARGED PARTICLES FROM SUN"}
+{"input": "Magnetosphere protects Earth from solar wind.", "output": "PROTECT EARTH FROM SOLAR WIND"}
+{"input": "Earth’s axis tilt causes seasonal variation.", "output": "AXIS TILT → SEASONS"}
+{"input": "The equator is an imaginary line dividing Earth into northern and southern hemispheres.", "output": "DIVIDE EARTH; NORTH + SOUTH HEMISPHERES"}
+{"input": "Latitude measures distance north or south of the equator.", "output": "DISTANCE FROM EQUATOR"}
+{"input": "Longitude measures distance east or west of the prime meridian.", "output": "DISTANCE FROM PRIME MERIDIAN"}
+{"input": "Ecliptic plane is the plane of Earth’s orbit around the Sun.", "output": "EARTH ORBIT PLANE"}
+{"input": "Zodiac constellations lie along the ecliptic.", "output": "CONSTELLATIONS ALONG ECLIPTIC"}
+{"input": "Retrograde motion is apparent backward motion of planets.", "output": "PLANETS MOVE BACKWARD APPARENTLY"}
+{"input": "The asteroid belt lies between Mars and Jupiter.", "output": "ASTEROID BELT; BETWEEN MARS + JUPITER"}
+{"input": "Ceres is the largest object in the asteroid belt.", "output": "LARGEST ASTEROID BELT OBJECT"}
+{"input": "Vesta is the second largest object in the asteroid belt.", "output": "SECOND LARGEST ASTEROID BELT OBJECT"}
+{"input": "Titan is the largest moon of Saturn.", "output": "LARGEST SATURN MOON"}
+{"input": "Europa is a moon of Jupiter with a possible subsurface ocean.", "output": "JUPITER MOON; POSSIBLE OCEAN"}
+{"input": "Ganymede is the largest moon in the solar system.", "output": "LARGEST SOLAR SYSTEM MOON"}
+{"input": "Io is a volcanically active moon of Jupiter.", "output": "VOLCANIC JUPITER MOON"}
+{"input": "Phobos and Deimos are moons of Mars.", "output": "MARS MOONS"}
+{"input": "Triton is the largest moon of Neptune and has retrograde orbit.", "output": "LARGEST NEPTUNE MOON; RETROGRADE ORBIT"}
+{"input": "Oceans on Earth are influenced by Moon’s gravity.", "output": "MOON GRAVITY INFLUENCES OCEANS"}
+{"input": "Tidal locking causes the Moon to show only one face to Earth.", "output": "MOON SHOWS ONE FACE"}
+{"input": "Solar prominences are large, bright features extending from the Sun’s surface.", "output": "BRIGHT FEATURES ON SUN"}
+{"input": "Sunspots appear in cycles of approximately 11 years.", "output": "SUNSPOT 11-YEAR CYCLE"}
+{"input": "Solar cycles affect solar radiation and space weather.", "output": "AFFECT SOLAR RADIATION + SPACE WEATHER"}
+{"input": "Aurora borealis occurs in the northern hemisphere.", "output": "NORTHERN LIGHTS"}
+{"input": "Aurora australis occurs in the southern hemisphere.", "output": "SOUTHERN LIGHTS"}
+{"input": "Planetary conjunction occurs when two planets appear close in the sky.", "output": "PLANETS APPEAR CLOSE"}
+{"input": "Opposition occurs when a planet is opposite the Sun in the sky.", "output": "PLANET OPPOSITE SUN"}
+{"input": "Transits occur when a planet passes in front of the Sun.", "output": "PLANET PASSES IN FRONT OF SUN"}
+{"input": "Eclipsing binary stars block each other’s light periodically.", "output": "STARS BLOCK LIGHT PERIODICALLY"}
+{"input": "Nova is a sudden brightening of a star.", "output": "STAR BRIGHTENS SUDDENLY"}
+{"input": "Pulsars emit regular pulses of radiation.", "output": "REGULAR RADIATION PULSES"}
+{"input": "Quasars are extremely luminous and distant objects.", "output": "EXTREMELY LUMINOUS + DISTANT"}
+{"input": "The observable universe is limited by the speed of light.", "output": "LIMITED BY LIGHT SPEED"}
+{"input": "The cosmological principle states the universe is homogeneous and isotropic.", "output": "UNIVERSE HOMOGENEOUS + ISOTROPIC"}
+{"input": "The Big Bang caused the expansion of space and creation of matter.", "output": "UNIVERSE EXPANSION + MATTER CREATION"}
+{"input": "Cosmic background radiation is remnant energy from the Big Bang.", "output": "RELIC ENERGY FROM BIG BANG"}
+{"input": "Redshift shows galaxies moving away, indicating expansion.", "output": "GALAXIES MOVE AWAY; EXPANSION"}
+{"input": "Blueshift shows objects moving toward us.", "output": "OBJECTS MOVE TOWARD US"}
+{"input": "Cepheid variables help measure cosmic distances.", "output": "MEASURE DISTANCE USING CEPHEID STARS"}
+{"input": "Parallax measures distance to nearby stars using apparent shift.", "output": "MEASURE STAR DISTANCE VIA SHIFT"}
+{"input": "Hubble’s law relates galaxy distance to its recessional velocity.", "output": "DISTANCE ∝ VELOCITY; HUBBLE’S LAW"}
+{"input": "Dark energy drives the accelerated expansion of the universe.", "output": "ACCELERATED EXPANSION; DARK ENERGY"}
+{"input": "Dark matter influences galaxy formation through gravity.", "output": "GRAVITY INFLUENCES GALAXIES; DARK MATTER"}
+{"input": "Galaxy clusters contain hundreds to thousands of galaxies.", "output": "HUNDREDS-THOUSANDS OF GALAXIES"}
+{"input": "Superclusters are groups of galaxy clusters.", "output": "GROUPS OF GALAXY CLUSTERS"}
+{"input": "The Local Group is the galaxy cluster containing the Milky Way.", "output": "GALAXY CLUSTER WITH MILKY WAY"}
+{"input": "The Milky Way is a spiral galaxy.", "output": "SPIRAL GALAXY"}
+{"input": "Andromeda Galaxy is the nearest spiral galaxy to the Milky Way.", "output": "NEAREST SPIRAL GALAXY"}
+{"input": "Elliptical galaxies have older stars and less gas.", "output": "OLDER STARS; LESS GAS"}
+{"input": "Irregular galaxies lack regular shape and structure.", "output": "NO REGULAR SHAPE"}
+{"input": "Supermassive black holes exist at galaxy centers.", "output": "BLACK HOLES AT GALAXY CENTER"}
+{"input": "Event horizon is the boundary around a black hole beyond which nothing escapes.", "output": "BLACK HOLE BOUNDARY; NO ESCAPE"}
+{"input": "Singularity is the core of a black hole with infinite density.", "output": "BLACK HOLE CORE; INFINITE DENSITY"}
+{"input": "Gravitational lensing bends light around massive objects.", "output": "LIGHT BENDS; MASSIVE OBJECTS"}
+{"input": "Space-time is a four-dimensional continuum combining space and time.", "output": "SPACE + TIME CONTINUUM"}
+{"input": "Relativity explains motion and gravity at high speeds.", "output": "MOTION + GRAVITY AT HIGH SPEEDS"}
+{"input": "Einstein’s equations predict black holes, gravitational waves, and time dilation.", "output": "BLACK HOLES + GRAVITATIONAL WAVES + TIME DILATION"}
+{"input": "Gravitational waves are ripples in space-time caused by accelerating masses.", "output": "RIPPLES IN SPACE-TIME; ACCELERATING MASSES"}
+{"input": "Exoplanets are detected using transit, radial velocity, and direct imaging.", "output": "DETECT EXOPLANETS VIA MULTIPLE METHODS"}
+{"input": "Habitable exoplanets may have conditions for liquid water.", "output": "SUPPORT LIQUID WATER"}
+{"input": "Rogue planets drift through space without orbiting a star.", "output": "PLANETS WITHOUT STAR ORBIT"}
+{"input": "Tidal forces can heat moons, causing volcanic or geological activity.", "output": "TIDAL HEATING → VOLCANIC/GEOL ACTIVITY"}
+{"input": "Ring systems are composed of dust, ice, and rock around planets.", "output": "DUST + ICE + ROCK; PLANETARY RINGS"}
+{"input": "Planetary nebulae form when a star sheds its outer layers.", "output": "STAR SHEDS LAYERS → PLANETARY NEBULA"}
+{"input": "White dwarfs are remnants of low-mass stars.", "output": "LOW-MASS STAR REMNANTS"}
+{"input": "Neutron stars are remnants of massive stars after supernova.", "output": "MASSIVE STAR REMNANTS"}
+{"input": "Pulsars are rotating neutron stars emitting beams of radiation.", "output": "ROTATING NEUTRON STAR; EMIT RADIATION"}
+{"input": "Astronomy combines physics, chemistry, and mathematics to study space.", "output": "USE PHYSICS + CHEMISTRY + MATH"}
+{"input": "Space exploration involves satellites, telescopes, and probes.", "output": "SATELLITES + TELESCOPES + PROBES"}
+{"input": "The James Webb Space Telescope studies distant galaxies, stars, and exoplanets.", "output": "STUDY GALAXIES + STARS + EXOPLANETS"}
+{"input": "Astronomical units, light-years, and parsecs measure distances in space.", "output": "DISTANCE UNITS: AU + LY + PARSEC"}
+{"input": "Astronomy helps understand the origin, evolution, and structure of the universe.", "output": "UNDERSTAND ORIGIN + EVOLUTION + STRUCTURE OF UNIVERSE"}
+{"input":"The Sun is a source of energy.","output":"SUN SOURCE ENERGY"}
+{"input":"Stars produce light through nuclear reactions.","output":"STAR PRODUCE LIGHT NUCLEAR REACTION"}
+{"input":"The Moon orbits the Earth.","output":"MOON ORBIT EARTH"}
+{"input":"Astronomy studies celestial objects.","output":"ASTRONOMY STUDY CELESTIAL OBJECT"}
+{"input":"Satellites help in communication.","output":"SATELLITE HELP COMMUNICATION"}
+
+{"input":"Electric current flows in a circuit.","output":"ELECTRIC CURRENT FLOW CIRCUIT"}
+{"input":"Voltage controls electric flow.","output":"VOLTAGE CONTROL ELECTRIC FLOW"}
+{"input":"Resistance opposes current.","output":"RESISTANCE OPPOSE CURRENT"}
+{"input":"Magnets attract iron.","output":"MAGNET ATTRACT IRON"}
+{"input":"Renewable energy reduces pollution.","output":"RENEWABLE ENERGY REDUCE POLLUTION"}
+
+{"input":"Engineering applies scientific principles.","output":"ENGINEERING APPLY SCIENTIFIC PRINCIPLE"}
+{"input":"Bridges support heavy loads.","output":"BRIDGE SUPPORT HEAVY LOAD"}
+{"input":"Machines reduce human effort.","output":"MACHINE REDUCE HUMAN EFFORT"}
+{"input":"Robotics combines hardware and software.","output":"ROBOTICS COMBINE HARDWARE SOFTWARE"}
+{"input":"Automation increases efficiency.","output":"AUTOMATION INCREASE EFFICIENCY"}
+
+{"input":"Medicine treats diseases.","output":"MEDICINE TREAT DISEASE"}
+{"input":"Surgeons perform operations.","output":"SURGEON PERFORM OPERATION"}
+{"input":"Diagnosis identifies illness.","output":"DIAGNOSIS IDENTIFY ILLNESS"}
+{"input":"Antibiotics kill bacteria.","output":"ANTIBIOTIC KILL BACTERIA"}
+{"input":"Hospitals provide healthcare.","output":"HOSPITAL PROVIDE HEALTHCARE"}
+
+{"input":"Law maintains social order.","output":"LAW MAINTAIN SOCIAL ORDER"}
+{"input":"Courts deliver justice.","output":"COURT DELIVER JUSTICE"}
+{"input":"Judges interpret laws.","output":"JUDGE INTERPRET LAW"}
+{"input":"Rights protect individuals.","output":"RIGHT PROTECT INDIVIDUAL"}
+{"input":"Punishment discourages crime.","output":"PUNISHMENT DISCOURAGE CRIME"}
+
+{"input":"Psychology studies human behavior.","output":"PSYCHOLOGY STUDY HUMAN BEHAVIOR"}
+{"input":"Memory stores information.","output":"MEMORY STORE INFORMATION"}
+{"input":"Emotions influence decisions.","output":"EMOTION INFLUENCE DECISION"}
+{"input":"Learning changes behavior.","output":"LEARNING CHANGE BEHAVIOR"}
+{"input":"Motivation drives actions.","output":"MOTIVATION DRIVE ACTION"}
+
+{"input":"Education develops knowledge.","output":"EDUCATION DEVELOP KNOWLEDGE"}
+{"input":"Teachers guide students.","output":"TEACHER GUIDE STUDENT"}
+{"input":"Examinations assess learning.","output":"EXAMINATION ASSESS LEARNING"}
+{"input":"Schools shape future citizens.","output":"SCHOOL SHAPE FUTURE CITIZEN"}
+{"input":"Literacy improves society.","output":"LITERACY IMPROVE SOCIETY"}
+
+{"input":"Agriculture provides food.","output":"AGRICULTURE PROVIDE FOOD"}
+{"input":"Farmers grow crops.","output":"FARMER GROW CROP"}
+{"input":"Irrigation supports farming.","output":"IRRIGATION SUPPORT FARMING"}
+{"input":"Fertilizers increase yield.","output":"FERTILIZER INCREASE YIELD"}
+{"input":"Soil fertility affects crops.","output":"SOIL FERTILITY AFFECT CROP"}
+
+{"input":"Technology changes lifestyles.","output":"TECHNOLOGY CHANGE LIFESTYLE"}
+{"input":"Mobile phones enable communication.","output":"MOBILE PHONE ENABLE COMMUNICATION"}
+{"input":"Applications solve problems.","output":"APPLICATION SOLVE PROBLEM"}
+{"input":"Innovation drives progress.","output":"INNOVATION DRIVE PROGRESS"}
+{"input":"Digital systems store data.","output":"DIGITAL SYSTEM STORE DATA"}
+
+{"input":"Weather forecasting predicts climate.","output":"WEATHER FORECAST PREDICT CLIMATE"}
+{"input":"Natural disasters cause destruction.","output":"NATURAL DISASTER CAUSE DESTRUCTION"}
+{"input":"Earthquakes result from tectonic shifts.","output":"EARTHQUAKE RESULT TECTONIC SHIFT"}
+{"input":"Floods damage infrastructure.","output":"FLOOD DAMAGE INFRASTRUCTURE"}
+{"input":"Preparedness reduces disaster impact.","output":"PREPAREDNESS REDUCE DISASTER IMPACT"}
+
+{"input":"Transportation enables movement.","output":"TRANSPORTATION ENABLE MOVEMENT"}
+{"input":"Roads connect cities.","output":"ROAD CONNECT CITY"}
+{"input":"Air travel saves time.","output":"AIR TRAVEL SAVE TIME"}
+{"input":"Logistics manage supply chains.","output":"LOGISTICS MANAGE SUPPLY CHAIN"}
+{"input":"Public transport reduces traffic.","output":"PUBLIC TRANSPORT REDUCE TRAFFIC"}
+{"input":"Atoms are the building blocks of matter.","output":"ATOM BUILDING BLOCK MATTER"}
+{"input":"Chemical reactions change substances.","output":"CHEMICAL REACTION CHANGE SUBSTANCE"}
+{"input":"Acids react with bases.","output":"ACID REACT BASE"}
+{"input":"Periodic table organizes elements.","output":"PERIODIC TABLE ORGANIZE ELEMENT"}
+{"input":"Catalysts speed up reactions.","output":"CATALYST SPEED REACTION"}
+
+{"input":"Mathematics solves numerical problems.","output":"MATHEMATICS SOLVE NUMERICAL PROBLEM"}
+{"input":"Algebra uses symbols.","output":"ALGEBRA USE SYMBOL"}
+{"input":"Geometry studies shapes.","output":"GEOMETRY STUDY SHAPE"}
+{"input":"Calculus analyzes change.","output":"CALCULUS ANALYZE CHANGE"}
+{"input":"Statistics interprets data.","output":"STATISTICS INTERPRET DATA"}
+
+{"input":"Computer science studies computation.","output":"COMPUTER SCIENCE STUDY COMPUTATION"}
+{"input":"Algorithms solve tasks.","output":"ALGORITHM SOLVE TASK"}
+{"input":"Programming writes instructions.","output":"PROGRAMMING WRITE INSTRUCTION"}
+{"input":"Databases store information.","output":"DATABASE STORE INFORMATION"}
+{"input":"Cybersecurity protects systems.","output":"CYBERSECURITY PROTECT SYSTEM"}
+
+{"input":"Geography studies Earth features.","output":"GEOGRAPHY STUDY EARTH FEATURE"}
+{"input":"Maps represent locations.","output":"MAP REPRESENT LOCATION"}
+{"input":"Rivers flow into oceans.","output":"RIVER FLOW OCEAN"}
+{"input":"Mountains affect climate.","output":"MOUNTAIN AFFECT CLIMATE"}
+{"input":"Latitude measures distance.","output":"LATITUDE MEASURE DISTANCE"}
+
+{"input":"Economics studies production.","output":"ECONOMICS STUDY PRODUCTION"}
+{"input":"Demand affects price.","output":"DEMAND AFFECT PRICE"}
+{"input":"Inflation reduces purchasing power.","output":"INFLATION REDUCE PURCHASING POWER"}
+{"input":"Trade connects nations.","output":"TRADE CONNECT NATION"}
+{"input":"Banks manage money.","output":"BANK MANAGE MONEY"}
+
+{"input":"Political science studies government.","output":"POLITICAL SCIENCE STUDY GOVERNMENT"}
+{"input":"Democracy allows voting.","output":"DEMOCRACY ALLOW VOTING"}
+{"input":"Constitutions define laws.","output":"CONSTITUTION DEFINE LAW"}
+{"input":"Elections choose leaders.","output":"ELECTION CHOOSE LEADER"}
+{"input":"Policies guide governance.","output":"POLICY GUIDE GOVERNANCE"}
+
+{"input":"Sociology studies society.","output":"SOCIOLOGY STUDY SOCIETY"}
+{"input":"Culture shapes behavior.","output":"CULTURE SHAPE BEHAVIOR"}
+{"input":"Social norms guide actions.","output":"SOCIAL NORM GUIDE ACTION"}
+{"input":"Family influences values.","output":"FAMILY INFLUENCE VALUE"}
+{"input":"Institutions maintain order.","output":"INSTITUTION MAINTAIN ORDER"}
+
+{"input":"Environmental studies protect nature.","output":"ENVIRONMENTAL STUDY PROTECT NATURE"}
+{"input":"Pollution harms ecosystems.","output":"POLLUTION HARM ECOSYSTEM"}
+{"input":"Conservation saves resources.","output":"CONSERVATION SAVE RESOURCE"}
+{"input":"Recycling reduces waste.","output":"RECYCLING REDUCE WASTE"}
+{"input":"Sustainability ensures future needs.","output":"SUSTAINABILITY ENSURE FUTURE NEED"}
